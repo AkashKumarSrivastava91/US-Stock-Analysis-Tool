@@ -1,0 +1,21 @@
+{
+  "symbol": "LUV",
+  "name": "Southwest Airlines Co.",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25475057664,
+  "pe_ratio": 62.354427,
+  "forward_pe": 10.181599,
+  "pb_ratio": 3.1821706,
+  "dividend_yield": 1.46,
+  "52_week_high": 55.11,
+  "52_week_low": 23.82,
+  "avg_volume_10d": 10105230,
+  "avg_volume_3m": 10657241,
+  "fetched_at": "2026-03-02"
+}

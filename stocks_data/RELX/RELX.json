@@ -1,0 +1,21 @@
+{
+  "symbol": "RELX",
+  "name": "RELX PLC",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 62645403648,
+  "pe_ratio": 22.888159,
+  "forward_pe": 15.813493,
+  "pb_ratio": 19.82134,
+  "dividend_yield": 2.64,
+  "52_week_high": 56.33,
+  "52_week_low": 27.57,
+  "avg_volume_10d": 6164720,
+  "avg_volume_3m": 3567596,
+  "fetched_at": "2026-03-02"
+}

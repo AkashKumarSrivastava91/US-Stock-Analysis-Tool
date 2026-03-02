@@ -1,0 +1,21 @@
+{
+  "symbol": "EWQ",
+  "name": "iShares MSCI France ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Europe",
+  "region": "Europe",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 1378656000,
+  "pe_ratio": 20.38169,
+  "forward_pe": null,
+  "pb_ratio": 1.2320482,
+  "dividend_yield": 2.6,
+  "52_week_high": 48.39,
+  "52_week_low": 35.24,
+  "avg_volume_10d": 301500,
+  "avg_volume_3m": 353930,
+  "fetched_at": "2026-03-02"
+}

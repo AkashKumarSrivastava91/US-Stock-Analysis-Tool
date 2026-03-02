@@ -1,0 +1,21 @@
+{
+  "symbol": "PCAR",
+  "name": "PACCAR Inc",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 66310025216,
+  "pe_ratio": 27.957869,
+  "forward_pe": 18.654436,
+  "pb_ratio": 3.4389744,
+  "dividend_yield": 1.05,
+  "52_week_high": 131.88,
+  "52_week_low": 84.65,
+  "avg_volume_10d": 3551850,
+  "avg_volume_3m": 3416840,
+  "fetched_at": "2026-03-02"
+}

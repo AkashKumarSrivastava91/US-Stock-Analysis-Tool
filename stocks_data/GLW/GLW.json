@@ -1,0 +1,21 @@
+{
+  "symbol": "GLW",
+  "name": "Corning Incorporated",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 129018241024,
+  "pe_ratio": 82.174866,
+  "forward_pe": 38.89376,
+  "pb_ratio": 10.915294,
+  "dividend_yield": 0.74,
+  "52_week_high": 162.1,
+  "52_week_low": 37.31,
+  "avg_volume_10d": 13517050,
+  "avg_volume_3m": 8738853,
+  "fetched_at": "2026-03-02"
+}

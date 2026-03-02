@@ -1,0 +1,21 @@
+{
+  "symbol": "JNJ",
+  "name": "Johnson & Johnson",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 598691217408,
+  "pe_ratio": 22.523119,
+  "forward_pe": 19.801262,
+  "pb_ratio": 7.3358917,
+  "dividend_yield": 2.09,
+  "52_week_high": 248.94,
+  "52_week_low": 141.5,
+  "avg_volume_10d": 10337540,
+  "avg_volume_3m": 9008685,
+  "fetched_at": "2026-03-02"
+}

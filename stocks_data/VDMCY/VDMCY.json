@@ -1,0 +1,21 @@
+{
+  "symbol": "VDMCY",
+  "name": "Vodacom Group Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 19900520448,
+  "pe_ratio": 17.166666,
+  "forward_pe": null,
+  "pb_ratio": 3.5138254,
+  "dividend_yield": 3.67,
+  "52_week_high": 10.91,
+  "52_week_low": 5.75,
+  "avg_volume_10d": 32200,
+  "avg_volume_3m": 17759,
+  "fetched_at": "2026-03-02"
+}

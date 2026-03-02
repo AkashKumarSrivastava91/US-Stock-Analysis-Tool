@@ -1,0 +1,21 @@
+{
+  "symbol": "TIMB",
+  "name": "TIM S.A.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13128121344,
+  "pe_ratio": 15.793103,
+  "forward_pe": 15.351955,
+  "pb_ratio": 14.07013,
+  "dividend_yield": 9.08,
+  "52_week_high": 27.74,
+  "52_week_low": 13.78,
+  "avg_volume_10d": 373530,
+  "avg_volume_3m": 417398,
+  "fetched_at": "2026-03-02"
+}

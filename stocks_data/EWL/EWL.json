@@ -1,0 +1,21 @@
+{
+  "symbol": "EWL",
+  "name": "iShares MSCI Switzerland ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 1862915072,
+  "pe_ratio": 25.000557,
+  "forward_pe": null,
+  "pb_ratio": 1.50328,
+  "dividend_yield": 1.66,
+  "52_week_high": 65.53,
+  "52_week_low": 46.22,
+  "avg_volume_10d": 481100,
+  "avg_volume_3m": 504206,
+  "fetched_at": "2026-03-02"
+}

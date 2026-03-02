@@ -1,0 +1,21 @@
+{
+  "symbol": "AZN",
+  "name": "AstraZeneca PLC",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 323156606976,
+  "pe_ratio": 31.824427,
+  "forward_pe": 35.158176,
+  "pb_ratio": 6.642766,
+  "dividend_yield": 1.53,
+  "52_week_high": 212.71,
+  "52_week_low": 122.26,
+  "avg_volume_10d": 2480690,
+  "avg_volume_3m": 734923,
+  "fetched_at": "2026-03-02"
+}

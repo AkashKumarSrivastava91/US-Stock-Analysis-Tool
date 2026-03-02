@@ -1,0 +1,21 @@
+{
+  "symbol": "HL",
+  "name": "Hecla Mining Company",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "country": "United States",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16698414080,
+  "pe_ratio": 50.836735,
+  "forward_pe": 22.85363,
+  "pb_ratio": 6.443352,
+  "dividend_yield": 0.06,
+  "52_week_high": 34.17,
+  "52_week_low": 4.46,
+  "avg_volume_10d": 23018900,
+  "avg_volume_3m": 26345200,
+  "fetched_at": "2026-03-02"
+}

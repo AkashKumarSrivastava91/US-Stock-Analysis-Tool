@@ -1,0 +1,21 @@
+{
+  "symbol": "DVN",
+  "name": "Devon Energy Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27000104960,
+  "pe_ratio": 10.4388485,
+  "forward_pe": 10.141038,
+  "pb_ratio": 1.743641,
+  "dividend_yield": 2.21,
+  "52_week_high": 46.15,
+  "52_week_low": 25.89,
+  "avg_volume_10d": 10093930,
+  "avg_volume_3m": 9819695,
+  "fetched_at": "2026-03-02"
+}

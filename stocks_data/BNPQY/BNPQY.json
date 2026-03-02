@@ -1,0 +1,21 @@
+{
+  "symbol": "BNPQY",
+  "name": "BNP Paribas SA",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 125387350016,
+  "pe_ratio": 9.223684,
+  "forward_pe": 9.804196,
+  "pb_ratio": 0.4549632,
+  "dividend_yield": 2.7,
+  "52_week_high": 57.31,
+  "52_week_low": 34.77,
+  "avg_volume_10d": 834360,
+  "avg_volume_3m": 450331,
+  "fetched_at": "2026-03-02"
+}

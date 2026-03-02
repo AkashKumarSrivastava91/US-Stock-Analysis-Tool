@@ -1,0 +1,21 @@
+{
+  "symbol": "INVH",
+  "name": "Invitation Homes Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16146962432,
+  "pe_ratio": 27.4375,
+  "forward_pe": 33.795227,
+  "pb_ratio": 1.6881369,
+  "dividend_yield": 4.56,
+  "52_week_high": 35.799,
+  "52_week_low": 25.21,
+  "avg_volume_10d": 7198810,
+  "avg_volume_3m": 6607163,
+  "fetched_at": "2026-03-02"
+}

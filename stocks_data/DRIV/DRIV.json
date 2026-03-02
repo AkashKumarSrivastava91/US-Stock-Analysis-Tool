@@ -1,0 +1,21 @@
+{
+  "symbol": "DRIV",
+  "name": "Global X Autonomous & Electric Vehicles ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 22.374928,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.98,
+  "52_week_high": 33.75,
+  "52_week_low": 17.446,
+  "avg_volume_10d": 51970,
+  "avg_volume_3m": 52218,
+  "fetched_at": "2026-03-02"
+}

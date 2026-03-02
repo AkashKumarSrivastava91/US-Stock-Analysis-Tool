@@ -1,0 +1,21 @@
+{
+  "symbol": "CRARY",
+  "name": "Cr\u00e9dit Agricole S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 66804146176,
+  "pe_ratio": 8.55814,
+  "forward_pe": null,
+  "pb_ratio": 0.40660107,
+  "dividend_yield": 5.62,
+  "52_week_high": 11.33,
+  "52_week_low": 7.97,
+  "avg_volume_10d": 251580,
+  "avg_volume_3m": 216998,
+  "fetched_at": "2026-03-02"
+}

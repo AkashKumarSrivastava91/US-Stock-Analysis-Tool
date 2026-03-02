@@ -1,0 +1,21 @@
+{
+  "symbol": "MAA",
+  "name": "Mid-America Apartment Communities, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16066357248,
+  "pe_ratio": 35.50663,
+  "forward_pe": 34.411312,
+  "pb_ratio": 2.7627912,
+  "dividend_yield": 4.57,
+  "52_week_high": 173.38,
+  "52_week_low": 125.75,
+  "avg_volume_10d": 931070,
+  "avg_volume_3m": 1022911,
+  "fetched_at": "2026-03-02"
+}

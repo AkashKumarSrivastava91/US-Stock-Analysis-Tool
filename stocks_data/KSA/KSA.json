@@ -1,0 +1,21 @@
+{
+  "symbol": "KSA",
+  "name": "iShares MSCI Saudi Arabia ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Saudi Arabia",
+  "region": "Saudi Arabia",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 15.000167,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.7,
+  "52_week_high": 41.55,
+  "52_week_low": 35.81,
+  "avg_volume_10d": 1070290,
+  "avg_volume_3m": 799962,
+  "fetched_at": "2026-03-02"
+}

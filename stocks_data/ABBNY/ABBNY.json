@@ -1,0 +1,21 @@
+{
+  "symbol": "ABBNY",
+  "name": "ABB Ltd",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 170041196544,
+  "pe_ratio": 37.26506,
+  "forward_pe": 29.980614,
+  "pb_ratio": 10.48593,
+  "dividend_yield": 1.31,
+  "52_week_high": 93.4,
+  "52_week_low": 45.36,
+  "avg_volume_10d": 383520,
+  "avg_volume_3m": 306443,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "INFY",
+  "name": "Infosys Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "India",
+  "region": "India",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 58419765248,
+  "pe_ratio": 18.753246,
+  "forward_pe": 17.01105,
+  "pb_ratio": 6.327782,
+  "dividend_yield": 3.57,
+  "52_week_high": 30.0,
+  "52_week_low": 13.66,
+  "avg_volume_10d": 20540490,
+  "avg_volume_3m": 16285100,
+  "fetched_at": "2026-03-02"
+}

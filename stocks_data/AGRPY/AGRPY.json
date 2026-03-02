@@ -1,0 +1,21 @@
+{
+  "symbol": "AGRPY",
+  "name": "Absa Group Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 14093995008,
+  "pe_ratio": 9.795389,
+  "forward_pe": null,
+  "pb_ratio": 2.7033572,
+  "dividend_yield": 5.3,
+  "52_week_high": 33.99,
+  "52_week_low": 16.06,
+  "avg_volume_10d": 240,
+  "avg_volume_3m": 1780,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EXPGY",
+  "name": "Experian plc",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "country": "Ireland",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 34184060928,
+  "pe_ratio": 25.425676,
+  "forward_pe": 18.751247,
+  "pb_ratio": 6.3736453,
+  "dividend_yield": 1.71,
+  "52_week_high": 55.21,
+  "52_week_low": 32.26,
+  "avg_volume_10d": 248070,
+  "avg_volume_3m": 238276,
+  "fetched_at": "2026-03-02"
+}

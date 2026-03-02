@@ -1,0 +1,21 @@
+{
+  "symbol": "TCEHY",
+  "name": "Tencent Holdings Limited",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 592692183040,
+  "pe_ratio": 20.277777,
+  "forward_pe": 13.945756,
+  "pb_ratio": 3.482738,
+  "dividend_yield": 0.87,
+  "52_week_high": 87.68,
+  "52_week_low": 52.3,
+  "avg_volume_10d": 2242500,
+  "avg_volume_3m": 2584415,
+  "fetched_at": "2026-03-02"
+}

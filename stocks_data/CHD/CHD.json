@@ -1,0 +1,21 @@
+{
+  "symbol": "CHD",
+  "name": "Church & Dwight Co., Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25180041216,
+  "pe_ratio": 34.721855,
+  "forward_pe": 25.947609,
+  "pb_ratio": 6.197766,
+  "dividend_yield": 1.17,
+  "52_week_high": 116.46,
+  "52_week_low": 81.33,
+  "avg_volume_10d": 1982260,
+  "avg_volume_3m": 2475560,
+  "fetched_at": "2026-03-02"
+}

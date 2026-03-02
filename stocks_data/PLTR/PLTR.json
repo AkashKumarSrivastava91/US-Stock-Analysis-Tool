@@ -1,0 +1,21 @@
+{
+  "symbol": "PLTR",
+  "name": "Palantir Technologies Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 328113979392,
+  "pe_ratio": 217.76192,
+  "forward_pe": 74.2318,
+  "pb_ratio": 44.412434,
+  "dividend_yield": null,
+  "52_week_high": 207.52,
+  "52_week_low": 66.12,
+  "avg_volume_10d": 51052400,
+  "avg_volume_3m": 45476776,
+  "fetched_at": "2026-03-02"
+}

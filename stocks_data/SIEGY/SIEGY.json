@@ -1,0 +1,21 @@
+{
+  "symbol": "SIEGY",
+  "name": "Siemens Aktiengesellschaft",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 227197321216,
+  "pe_ratio": 25.905693,
+  "forward_pe": 19.604673,
+  "pb_ratio": 1.4696864,
+  "dividend_yield": 2.17,
+  "52_week_high": 161.8,
+  "52_week_low": 94.55,
+  "avg_volume_10d": 284010,
+  "avg_volume_3m": 207913,
+  "fetched_at": "2026-03-02"
+}

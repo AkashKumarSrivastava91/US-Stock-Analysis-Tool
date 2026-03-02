@@ -1,0 +1,21 @@
+{
+  "symbol": "CIEN",
+  "name": "Ciena Corporation",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 49328308224,
+  "pe_ratio": 415.11908,
+  "forward_pe": 50.407948,
+  "pb_ratio": 18.016018,
+  "dividend_yield": null,
+  "52_week_high": 365.9,
+  "52_week_low": 49.21,
+  "avg_volume_10d": 2492110,
+  "avg_volume_3m": 3269181,
+  "fetched_at": "2026-03-02"
+}

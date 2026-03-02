@@ -1,0 +1,21 @@
+{
+  "symbol": "RVTY",
+  "name": "Revvity, Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11145957376,
+  "pe_ratio": 47.7233,
+  "forward_pe": 16.381832,
+  "pb_ratio": 1.522463,
+  "dividend_yield": 0.28,
+  "52_week_high": 120.39,
+  "52_week_low": 81.36,
+  "avg_volume_10d": 1162550,
+  "avg_volume_3m": 1351395,
+  "fetched_at": "2026-03-02"
+}

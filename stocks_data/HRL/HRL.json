@@ -1,0 +1,21 @@
+{
+  "symbol": "HRL",
+  "name": "Hormel Foods Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 14082746368,
+  "pe_ratio": 29.425287,
+  "forward_pe": 16.191874,
+  "pb_ratio": 1.7743276,
+  "dividend_yield": 4.57,
+  "52_week_high": 32.07,
+  "52_week_low": 21.03,
+  "avg_volume_10d": 5730930,
+  "avg_volume_3m": 5078128,
+  "fetched_at": "2026-03-02"
+}

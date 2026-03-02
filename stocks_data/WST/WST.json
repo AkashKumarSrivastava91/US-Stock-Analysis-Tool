@@ -1,0 +1,21 @@
+{
+  "symbol": "WST",
+  "name": "West Pharmaceutical Services, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18317944832,
+  "pe_ratio": 37.458027,
+  "forward_pe": 28.774424,
+  "pb_ratio": 5.7659087,
+  "dividend_yield": 0.35,
+  "52_week_high": 322.34,
+  "52_week_low": 187.43,
+  "avg_volume_10d": 806230,
+  "avg_volume_3m": 919563,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ON",
+  "name": "ON Semiconductor Corporation",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 26750117888,
+  "pe_ratio": 229.2414,
+  "forward_pe": 16.530613,
+  "pb_ratio": 3.4372578,
+  "dividend_yield": null,
+  "52_week_high": 73.76,
+  "52_week_low": 31.04,
+  "avg_volume_10d": 7315900,
+  "avg_volume_3m": 9386413,
+  "fetched_at": "2026-03-02"
+}

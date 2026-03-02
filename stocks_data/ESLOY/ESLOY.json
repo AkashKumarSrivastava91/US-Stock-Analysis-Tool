@@ -1,0 +1,21 @@
+{
+  "symbol": "ESLOY",
+  "name": "EssilorLuxottica Soci\u00e9t\u00e9 anonyme",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 123209531392,
+  "pe_ratio": 43.60656,
+  "forward_pe": 26.626627,
+  "pb_ratio": 1.340532,
+  "dividend_yield": 1.69,
+  "52_week_high": 186.81,
+  "52_week_low": 126.47,
+  "avg_volume_10d": 202230,
+  "avg_volume_3m": 95744,
+  "fetched_at": "2026-03-02"
+}

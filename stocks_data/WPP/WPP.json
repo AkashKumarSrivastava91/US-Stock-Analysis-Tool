@@ -1,0 +1,21 @@
+{
+  "symbol": "WPP",
+  "name": "WPP plc",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 4012996864,
+  "pe_ratio": 7.914894,
+  "forward_pe": 5.653496,
+  "pb_ratio": 5.8568263,
+  "dividend_yield": 11.6,
+  "52_week_high": 41.87,
+  "52_week_low": 17.25,
+  "avg_volume_10d": 769910,
+  "avg_volume_3m": 586185,
+  "fetched_at": "2026-03-02"
+}

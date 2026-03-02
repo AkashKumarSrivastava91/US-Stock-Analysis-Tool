@@ -1,0 +1,21 @@
+{
+  "symbol": "ASAZY",
+  "name": "ASSA ABLOY AB (publ)",
+  "sector": "Industrials",
+  "industry": "Security & Protection Services",
+  "country": "Sweden",
+  "region": "Sweden",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 47629492224,
+  "pe_ratio": 29.08219,
+  "forward_pe": 24.47996,
+  "pb_ratio": 0.22922605,
+  "dividend_yield": 1.45,
+  "52_week_high": 21.98,
+  "52_week_low": 12.76,
+  "avg_volume_10d": 276490,
+  "avg_volume_3m": 206540,
+  "fetched_at": "2026-03-02"
+}

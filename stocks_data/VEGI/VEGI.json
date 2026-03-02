@@ -1,0 +1,21 @@
+{
+  "symbol": "VEGI",
+  "name": "iShares MSCI Agriculture Producers ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 48909000,
+  "pe_ratio": 20.85233,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.12,
+  "52_week_high": 47.27,
+  "52_week_low": 33.13,
+  "avg_volume_10d": 30950,
+  "avg_volume_3m": 20768,
+  "fetched_at": "2026-03-02"
+}

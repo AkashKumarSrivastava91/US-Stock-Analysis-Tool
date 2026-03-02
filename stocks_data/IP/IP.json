@@ -1,0 +1,21 @@
+{
+  "symbol": "IP",
+  "name": "International Paper Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22996068352,
+  "pe_ratio": null,
+  "forward_pe": 14.974383,
+  "pb_ratio": 1.5491605,
+  "dividend_yield": 4.25,
+  "52_week_high": 57.07,
+  "52_week_low": 35.56,
+  "avg_volume_10d": 6240470,
+  "avg_volume_3m": 6454248,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "GDX",
+  "name": "VanEck Gold Miners ETF",
+  "sector": "Materials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 32.714127,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.67,
+  "52_week_high": 115.99,
+  "52_week_low": 39.49,
+  "avg_volume_10d": 21361030,
+  "avg_volume_3m": 25986110,
+  "fetched_at": "2026-03-02"
+}

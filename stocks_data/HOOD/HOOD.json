@@ -1,0 +1,21 @@
+{
+  "symbol": "HOOD",
+  "name": "Robinhood Markets, Inc.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 68288393216,
+  "pe_ratio": 37.0,
+  "forward_pe": 27.097124,
+  "pb_ratio": 7.4795384,
+  "dividend_yield": null,
+  "52_week_high": 153.86,
+  "52_week_low": 29.66,
+  "avg_volume_10d": 28451480,
+  "avg_volume_3m": 27729228,
+  "fetched_at": "2026-03-02"
+}

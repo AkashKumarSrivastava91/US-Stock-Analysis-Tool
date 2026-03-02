@@ -1,0 +1,21 @@
+{
+  "symbol": "UDR",
+  "name": "UDR, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 14118339584,
+  "pe_ratio": 33.18584,
+  "forward_pe": 68.181816,
+  "pb_ratio": 3.7932432,
+  "dividend_yield": 4.59,
+  "52_week_high": 46.47,
+  "52_week_low": 32.94,
+  "avg_volume_10d": 3732580,
+  "avg_volume_3m": 4022460,
+  "fetched_at": "2026-03-02"
+}

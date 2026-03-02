@@ -1,0 +1,21 @@
+{
+  "symbol": "RWEOY",
+  "name": "RWE Aktiengesellschaft",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 47093436416,
+  "pe_ratio": 18.365713,
+  "forward_pe": 21.457994,
+  "pb_ratio": 1.1581668,
+  "dividend_yield": 1.94,
+  "52_week_high": 64.9,
+  "52_week_low": 31.76,
+  "avg_volume_10d": 289190,
+  "avg_volume_3m": 91143,
+  "fetched_at": "2026-03-02"
+}

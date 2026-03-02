@@ -1,0 +1,21 @@
+{
+  "symbol": "HCM",
+  "name": "HUTCHMED (China) Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "country": "Hong Kong",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 2588018688,
+  "pe_ratio": 5.407547,
+  "forward_pe": 36.717228,
+  "pb_ratio": 10.020979,
+  "dividend_yield": null,
+  "52_week_high": 19.5,
+  "52_week_low": 11.505,
+  "avg_volume_10d": 18190,
+  "avg_volume_3m": 35060,
+  "fetched_at": "2026-03-02"
+}

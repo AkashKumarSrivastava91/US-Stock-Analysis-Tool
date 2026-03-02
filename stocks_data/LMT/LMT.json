@@ -1,0 +1,21 @@
+{
+  "symbol": "LMT",
+  "name": "Lockheed Martin Corporation",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 152278269952,
+  "pe_ratio": 30.579926,
+  "forward_pe": 20.56709,
+  "pb_ratio": 22.42257,
+  "dividend_yield": 2.05,
+  "52_week_high": 669.75,
+  "52_week_low": 410.11,
+  "avg_volume_10d": 1491750,
+  "avg_volume_3m": 1715245,
+  "fetched_at": "2026-03-02"
+}

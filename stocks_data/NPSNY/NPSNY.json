@@ -1,0 +1,21 @@
+{
+  "symbol": "NPSNY",
+  "name": "Naspers Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 42978418688,
+  "pe_ratio": 8.281482,
+  "forward_pe": 10.033925,
+  "pb_ratio": 0.36590955,
+  "dividend_yield": 0.54,
+  "52_week_high": 15.152,
+  "52_week_low": 8.338,
+  "avg_volume_10d": 182700,
+  "avg_volume_3m": 169500,
+  "fetched_at": "2026-03-02"
+}

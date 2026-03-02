@@ -1,0 +1,21 @@
+{
+  "symbol": "EMR",
+  "name": "Emerson Electric Co.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 84767039488,
+  "pe_ratio": 36.85819,
+  "forward_pe": 20.98714,
+  "pb_ratio": 4.178215,
+  "dividend_yield": 1.44,
+  "52_week_high": 165.15,
+  "52_week_low": 90.06,
+  "avg_volume_10d": 3225700,
+  "avg_volume_3m": 3215120,
+  "fetched_at": "2026-03-02"
+}

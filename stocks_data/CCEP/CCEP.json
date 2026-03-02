@@ -1,0 +1,21 @@
+{
+  "symbol": "CCEP",
+  "name": "Coca-Cola Europacific Partners PLC",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United Kingdom",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 49676181504,
+  "pe_ratio": 21.910715,
+  "forward_pe": 19.060928,
+  "pb_ratio": 5.357906,
+  "dividend_yield": 2.13,
+  "52_week_high": 110.9,
+  "52_week_low": 80.7,
+  "avg_volume_10d": 2153270,
+  "avg_volume_3m": 1610248,
+  "fetched_at": "2026-03-02"
+}

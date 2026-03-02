@@ -1,0 +1,21 @@
+{
+  "symbol": "NEM",
+  "name": "Newmont Corporation",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 141864189952,
+  "pe_ratio": 20.3125,
+  "forward_pe": 12.192193,
+  "pb_ratio": 4.1783175,
+  "dividend_yield": 0.8,
+  "52_week_high": 134.88,
+  "52_week_low": 41.93,
+  "avg_volume_10d": 9309880,
+  "avg_volume_3m": 9598191,
+  "fetched_at": "2026-03-02"
+}

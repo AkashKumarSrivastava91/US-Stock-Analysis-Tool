@@ -1,0 +1,21 @@
+{
+  "symbol": "AIQUY",
+  "name": "L'Air Liquide S.A.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 121367928832,
+  "pe_ratio": 29.166666,
+  "forward_pe": 22.140223,
+  "pb_ratio": 0.78232956,
+  "dividend_yield": 1.78,
+  "52_week_high": 43.12,
+  "52_week_low": 34.76,
+  "avg_volume_10d": 475390,
+  "avg_volume_3m": 369376,
+  "fetched_at": "2026-03-02"
+}

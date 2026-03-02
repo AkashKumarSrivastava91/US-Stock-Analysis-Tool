@@ -1,0 +1,21 @@
+{
+  "symbol": "KMI",
+  "name": "Kinder Morgan, Inc.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 74019307520,
+  "pe_ratio": 24.284672,
+  "forward_pe": 22.724943,
+  "pb_ratio": 2.375241,
+  "dividend_yield": 3.52,
+  "52_week_high": 33.35,
+  "52_week_low": 23.94,
+  "avg_volume_10d": 12916450,
+  "avg_volume_3m": 13406408,
+  "fetched_at": "2026-03-02"
+}

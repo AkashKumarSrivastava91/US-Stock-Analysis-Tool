@@ -1,0 +1,21 @@
+{
+  "symbol": "SCGLY",
+  "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Soci\u00e9t\u00e9 anonyme",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 65281765376,
+  "pe_ratio": 10.801242,
+  "forward_pe": 13.912,
+  "pb_ratio": 0.15896909,
+  "dividend_yield": 2.22,
+  "52_week_high": 18.3,
+  "52_week_low": 7.29,
+  "avg_volume_10d": 3201340,
+  "avg_volume_3m": 977715,
+  "fetched_at": "2026-03-02"
+}

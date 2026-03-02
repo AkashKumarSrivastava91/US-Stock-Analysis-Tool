@@ -1,0 +1,21 @@
+{
+  "symbol": "TRI",
+  "name": "Thomson Reuters Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "country": "Canada",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 42902450176,
+  "pe_ratio": 29.303953,
+  "forward_pe": 19.161057,
+  "pb_ratio": 3.601016,
+  "dividend_yield": 2.72,
+  "52_week_high": 218.42,
+  "52_week_low": 79.71,
+  "avg_volume_10d": 4261260,
+  "avg_volume_3m": 2158578,
+  "fetched_at": "2026-03-02"
+}

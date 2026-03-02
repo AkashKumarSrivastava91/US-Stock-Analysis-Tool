@@ -1,0 +1,21 @@
+{
+  "symbol": "DD",
+  "name": "DuPont de Nemours, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 20965525504,
+  "pe_ratio": 238.28572,
+  "forward_pe": 19.622375,
+  "pb_ratio": 1.4710726,
+  "dividend_yield": 1.6,
+  "52_week_high": 52.66,
+  "52_week_low": 22.497908,
+  "avg_volume_10d": 3859230,
+  "avg_volume_3m": 4882688,
+  "fetched_at": "2026-03-02"
+}

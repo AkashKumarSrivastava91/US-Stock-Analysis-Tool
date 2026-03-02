@@ -1,0 +1,21 @@
+{
+  "symbol": "FINMF",
+  "name": "Leonardo S.p.a.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 39946334208,
+  "pe_ratio": 29.21519,
+  "forward_pe": 38.254143,
+  "pb_ratio": 3.7569602,
+  "dividend_yield": 0.87,
+  "52_week_high": 71.25,
+  "52_week_low": 40.05,
+  "avg_volume_10d": 14170,
+  "avg_volume_3m": 4252,
+  "fetched_at": "2026-03-02"
+}

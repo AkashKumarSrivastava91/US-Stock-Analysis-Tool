@@ -1,0 +1,21 @@
+{
+  "symbol": "AMCR",
+  "name": "Amcor plc",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "country": "Switzerland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22376873984,
+  "pe_ratio": 36.413532,
+  "forward_pe": 10.95932,
+  "pb_ratio": 1.9223593,
+  "dividend_yield": 5.37,
+  "52_week_high": 52.25,
+  "52_week_low": 38.35,
+  "avg_volume_10d": 4774910,
+  "avg_volume_3m": 5145592,
+  "fetched_at": "2026-03-02"
+}

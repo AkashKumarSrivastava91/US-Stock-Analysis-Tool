@@ -1,0 +1,21 @@
+{
+  "symbol": "IBDRY",
+  "name": "Iberdrola, S.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "Spain",
+  "region": "Spain",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 160107053056,
+  "pe_ratio": 25.066313,
+  "forward_pe": 74.64455,
+  "pb_ratio": 10.684886,
+  "dividend_yield": 3.29,
+  "52_week_high": 96.5,
+  "52_week_low": 57.26,
+  "avg_volume_10d": 121270,
+  "avg_volume_3m": 85463,
+  "fetched_at": "2026-03-02"
+}

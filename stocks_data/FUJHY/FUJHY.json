@@ -1,0 +1,21 @@
+{
+  "symbol": "FUJHY",
+  "name": "Subaru Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 13730221056,
+  "pe_ratio": 8.086207,
+  "forward_pe": null,
+  "pb_ratio": 0.37861267,
+  "dividend_yield": 4.41,
+  "52_week_high": 11.7,
+  "52_week_low": 7.32,
+  "avg_volume_10d": 162700,
+  "avg_volume_3m": 98655,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EWH",
+  "name": "iShares MSCI Hong Kong ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 2144400640,
+  "pe_ratio": 20.805714,
+  "forward_pe": null,
+  "pb_ratio": 0.9382266,
+  "dividend_yield": 4.71,
+  "52_week_high": 24.27,
+  "52_week_low": 15.04,
+  "avg_volume_10d": 5189190,
+  "avg_volume_3m": 3733479,
+  "fetched_at": "2026-03-02"
+}

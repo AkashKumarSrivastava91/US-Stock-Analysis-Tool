@@ -1,0 +1,21 @@
+{
+  "symbol": "BSX",
+  "name": "Boston Scientific Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 114036596736,
+  "pe_ratio": 39.6134,
+  "forward_pe": 19.608994,
+  "pb_ratio": 4.7028947,
+  "dividend_yield": null,
+  "52_week_high": 109.5,
+  "52_week_low": 72.69,
+  "avg_volume_10d": 13514020,
+  "avg_volume_3m": 14112536,
+  "fetched_at": "2026-03-02"
+}

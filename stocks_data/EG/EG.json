@@ -1,0 +1,21 @@
+{
+  "symbol": "EG",
+  "name": "Everest Group, Ltd.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Reinsurance",
+  "country": "Bermuda",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 14083217408,
+  "pe_ratio": 8.873049,
+  "forward_pe": 5.400563,
+  "pb_ratio": 0.8831542,
+  "dividend_yield": 2.38,
+  "52_week_high": 370.21,
+  "52_week_low": 302.44,
+  "avg_volume_10d": 383540,
+  "avg_volume_3m": 379913,
+  "fetched_at": "2026-03-02"
+}

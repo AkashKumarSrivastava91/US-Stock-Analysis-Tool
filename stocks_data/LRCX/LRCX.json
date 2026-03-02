@@ -1,0 +1,21 @@
+{
+  "symbol": "LRCX",
+  "name": "Lam Research Corporation",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 293772853248,
+  "pe_ratio": 48.12551,
+  "forward_pe": 33.960247,
+  "pb_ratio": 28.84326,
+  "dividend_yield": 0.44,
+  "52_week_high": 256.68,
+  "52_week_low": 56.32,
+  "avg_volume_10d": 9444820,
+  "avg_volume_3m": 11664968,
+  "fetched_at": "2026-03-02"
+}

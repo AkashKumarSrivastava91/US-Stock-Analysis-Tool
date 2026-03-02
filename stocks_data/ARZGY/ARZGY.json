@@ -1,0 +1,21 @@
+{
+  "symbol": "ARZGY",
+  "name": "Assicurazioni Generali S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 63754752000,
+  "pe_ratio": 14.16,
+  "forward_pe": null,
+  "pb_ratio": 0.91831124,
+  "dividend_yield": 3.81,
+  "52_week_high": 21.46,
+  "52_week_low": 15.88,
+  "avg_volume_10d": 38230,
+  "avg_volume_3m": 61800,
+  "fetched_at": "2026-03-02"
+}

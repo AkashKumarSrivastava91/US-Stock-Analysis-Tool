@@ -1,0 +1,21 @@
+{
+  "symbol": "DUK",
+  "name": "Duke Energy Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 101756977152,
+  "pe_ratio": 20.736927,
+  "forward_pe": 18.27874,
+  "pb_ratio": 2.001254,
+  "dividend_yield": 3.26,
+  "52_week_high": 131.57,
+  "52_week_low": 111.22,
+  "avg_volume_10d": 4586280,
+  "avg_volume_3m": 4022378,
+  "fetched_at": "2026-03-02"
+}

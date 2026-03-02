@@ -1,0 +1,21 @@
+{
+  "symbol": "PDBA",
+  "name": "Invesco Agriculture Commodity Strategy No K-1 ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 3.31,
+  "52_week_high": 37.23,
+  "52_week_low": 33.69,
+  "avg_volume_10d": 64790,
+  "avg_volume_3m": 33220,
+  "fetched_at": "2026-03-02"
+}

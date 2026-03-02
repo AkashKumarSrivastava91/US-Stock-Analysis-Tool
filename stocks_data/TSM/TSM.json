@@ -1,0 +1,21 @@
+{
+  "symbol": "TSM",
+  "name": "Taiwan Semiconductor Manufacturing Company Limited",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Taiwan",
+  "region": "Taiwan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1942760849408,
+  "pe_ratio": 35.337734,
+  "forward_pe": 20.840683,
+  "pb_ratio": 56.056557,
+  "dividend_yield": 0.94,
+  "52_week_high": 390.21,
+  "52_week_low": 134.25,
+  "avg_volume_10d": 10066700,
+  "avg_volume_3m": 12729448,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "WTW",
+  "name": "Willis Towers Watson Public Limited Company",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "country": "United Kingdom",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 29219606528,
+  "pe_ratio": 18.756607,
+  "forward_pe": 13.611375,
+  "pb_ratio": 3.63787,
+  "dividend_yield": 1.26,
+  "52_week_high": 352.79,
+  "52_week_low": 275.6,
+  "avg_volume_10d": 1051140,
+  "avg_volume_3m": 818475,
+  "fetched_at": "2026-03-02"
+}

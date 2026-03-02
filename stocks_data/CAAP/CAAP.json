@@ -1,0 +1,21 @@
+{
+  "symbol": "CAAP",
+  "name": "Corporaci\u00f3n Am\u00e9rica Airports S.A.",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "country": "Luxembourg",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 4648856064,
+  "pe_ratio": 26.146788,
+  "forward_pe": 12.069366,
+  "pb_ratio": 3.2156155,
+  "dividend_yield": null,
+  "52_week_high": 30.5,
+  "52_week_low": 15.01,
+  "avg_volume_10d": 289640,
+  "avg_volume_3m": 218485,
+  "fetched_at": "2026-03-02"
+}

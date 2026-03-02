@@ -1,0 +1,21 @@
+{
+  "symbol": "KEYS",
+  "name": "Keysight Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 52799291392,
+  "pe_ratio": 54.0123,
+  "forward_pe": 30.022722,
+  "pb_ratio": 8.509053,
+  "dividend_yield": null,
+  "52_week_high": 311.81,
+  "52_week_low": 121.43,
+  "avg_volume_10d": 2410830,
+  "avg_volume_3m": 1299240,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "MUFG",
+  "name": "Mitsubishi UFJ Financial Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 210855886848,
+  "pe_ratio": 17.259258,
+  "forward_pe": 18.097088,
+  "pb_ratio": 1.5414696,
+  "dividend_yield": 2.65,
+  "52_week_high": 20.15,
+  "52_week_low": 10.46,
+  "avg_volume_10d": 3666380,
+  "avg_volume_3m": 3711291,
+  "fetched_at": "2026-03-02"
+}

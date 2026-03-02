@@ -1,0 +1,21 @@
+{
+  "symbol": "POOL",
+  "name": "Pool Corporation",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 8477904896,
+  "pe_ratio": 20.709206,
+  "forward_pe": 19.097013,
+  "pb_ratio": 7.011079,
+  "dividend_yield": 2.2,
+  "52_week_high": 374.74,
+  "52_week_low": 210.67,
+  "avg_volume_10d": 1212400,
+  "avg_volume_3m": 805951,
+  "fetched_at": "2026-03-02"
+}

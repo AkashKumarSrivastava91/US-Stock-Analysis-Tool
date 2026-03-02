@@ -1,0 +1,21 @@
+{
+  "symbol": "AFL",
+  "name": "Aflac Incorporated",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 59188187136,
+  "pe_ratio": 16.558651,
+  "forward_pe": 14.5323105,
+  "pb_ratio": 1.9862809,
+  "dividend_yield": 2.16,
+  "52_week_high": 119.32,
+  "52_week_low": 96.95,
+  "avg_volume_10d": 2189900,
+  "avg_volume_3m": 2364506,
+  "fetched_at": "2026-03-02"
+}

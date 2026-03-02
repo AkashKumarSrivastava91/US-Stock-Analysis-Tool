@@ -1,0 +1,21 @@
+{
+  "symbol": "CDNS",
+  "name": "Cadence Design Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 82177015808,
+  "pe_ratio": 74.05405,
+  "forward_pe": 32.06383,
+  "pb_ratio": 14.964499,
+  "dividend_yield": null,
+  "52_week_high": 376.45,
+  "52_week_low": 221.56,
+  "avg_volume_10d": 3374570,
+  "avg_volume_3m": 2240983,
+  "fetched_at": "2026-03-02"
+}

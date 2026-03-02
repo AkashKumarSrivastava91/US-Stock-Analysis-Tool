@@ -1,0 +1,21 @@
+{
+  "symbol": "LOW",
+  "name": "Lowe's Companies, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Home Improvement Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 148410941440,
+  "pe_ratio": 21.883375,
+  "forward_pe": 19.341213,
+  "pb_ratio": -14.966907,
+  "dividend_yield": 1.81,
+  "52_week_high": 293.06,
+  "52_week_low": 206.39,
+  "avg_volume_10d": 2996170,
+  "avg_volume_3m": 2862828,
+  "fetched_at": "2026-03-02"
+}

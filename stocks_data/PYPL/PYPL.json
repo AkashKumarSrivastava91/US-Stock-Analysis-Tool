@@ -1,0 +1,21 @@
+{
+  "symbol": "PYPL",
+  "name": "PayPal Holdings, Inc.",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 43236474880,
+  "pe_ratio": 8.54159,
+  "forward_pe": 7.949383,
+  "pb_ratio": 2.0988326,
+  "dividend_yield": 1.21,
+  "52_week_high": 79.5,
+  "52_week_low": 38.46,
+  "avg_volume_10d": 35984790,
+  "avg_volume_3m": 23288555,
+  "fetched_at": "2026-03-02"
+}

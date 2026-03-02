@@ -1,0 +1,21 @@
+{
+  "symbol": "MTB",
+  "name": "M&T Bank Corporation",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 33347825664,
+  "pe_ratio": 12.771042,
+  "forward_pe": 10.2884445,
+  "pb_ratio": 1.250598,
+  "dividend_yield": 2.77,
+  "52_week_high": 239.0,
+  "52_week_low": 150.75,
+  "avg_volume_10d": 1317820,
+  "avg_volume_3m": 1172928,
+  "fetched_at": "2026-03-02"
+}

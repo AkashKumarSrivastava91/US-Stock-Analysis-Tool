@@ -1,0 +1,21 @@
+{
+  "symbol": "DASTY",
+  "name": "Dassault Syst\u00e8mes SE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 28862433280,
+  "pe_ratio": 20.622643,
+  "forward_pe": 13.595342,
+  "pb_ratio": 2.7788453,
+  "dividend_yield": 1.34,
+  "52_week_high": 44.18,
+  "52_week_low": 19.18,
+  "avg_volume_10d": 433830,
+  "avg_volume_3m": 343516,
+  "fetched_at": "2026-03-02"
+}

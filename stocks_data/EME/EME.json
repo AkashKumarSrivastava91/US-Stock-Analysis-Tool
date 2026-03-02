@@ -1,0 +1,21 @@
+{
+  "symbol": "EME",
+  "name": "EMCOR Group, Inc.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 32438239232,
+  "pe_ratio": 29.159758,
+  "forward_pe": 23.27679,
+  "pb_ratio": 8.780825,
+  "dividend_yield": 0.22,
+  "52_week_high": 835.0,
+  "52_week_low": 320.89,
+  "avg_volume_10d": 446000,
+  "avg_volume_3m": 376325,
+  "fetched_at": "2026-03-02"
+}

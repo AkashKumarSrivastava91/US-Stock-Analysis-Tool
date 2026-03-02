@@ -1,0 +1,21 @@
+{
+  "symbol": "VIST",
+  "name": "Vista Energy, S.A.B. de C.V.",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "Mexico",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 6129035776,
+  "pe_ratio": 8.528804,
+  "forward_pe": 8.221402,
+  "pb_ratio": 2.3966463,
+  "dividend_yield": null,
+  "52_week_high": 62.42,
+  "52_week_low": 31.63,
+  "avg_volume_10d": 1000150,
+  "avg_volume_3m": 1015748,
+  "fetched_at": "2026-03-02"
+}

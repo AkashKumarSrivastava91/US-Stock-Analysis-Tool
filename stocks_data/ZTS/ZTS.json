@@ -1,0 +1,21 @@
+{
+  "symbol": "ZTS",
+  "name": "Zoetis Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 57774882816,
+  "pe_ratio": 21.77741,
+  "forward_pe": 17.299784,
+  "pb_ratio": 16.724072,
+  "dividend_yield": 1.62,
+  "52_week_high": 177.0,
+  "52_week_low": 115.25,
+  "avg_volume_10d": 4284910,
+  "avg_volume_3m": 5164663,
+  "fetched_at": "2026-03-02"
+}

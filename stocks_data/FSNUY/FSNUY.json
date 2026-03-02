@@ -1,0 +1,21 @@
+{
+  "symbol": "FSNUY",
+  "name": "Fresenius SE & Co. KGaA",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 34019530752,
+  "pe_ratio": 24.754099,
+  "forward_pe": 3.2073066,
+  "pb_ratio": 0.38649207,
+  "dividend_yield": 1.87,
+  "52_week_high": 33.93,
+  "52_week_low": 9.78,
+  "avg_volume_10d": 40480,
+  "avg_volume_3m": 58815,
+  "fetched_at": "2026-03-02"
+}

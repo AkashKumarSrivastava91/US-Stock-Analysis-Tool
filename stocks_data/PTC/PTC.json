@@ -1,0 +1,21 @@
+{
+  "symbol": "PTC",
+  "name": "PTC Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 18633601024,
+  "pe_ratio": 23.02794,
+  "forward_pe": 17.97837,
+  "pb_ratio": 4.8451376,
+  "dividend_yield": null,
+  "52_week_high": 219.69,
+  "52_week_low": 133.38,
+  "avg_volume_10d": 1175340,
+  "avg_volume_3m": 1046708,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "HNNMY",
+  "name": "H & M Hennes & Mauritz AB (publ)",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "country": "Sweden",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 33631043584,
+  "pe_ratio": 24.647058,
+  "forward_pe": null,
+  "pb_ratio": 0.17154555,
+  "dividend_yield": 3.44,
+  "52_week_high": 4.25,
+  "52_week_low": 2.37,
+  "avg_volume_10d": 180810,
+  "avg_volume_3m": 84935,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EFX",
+  "name": "Equifax Inc.",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25575458816,
+  "pe_ratio": 39.204506,
+  "forward_pe": 20.119411,
+  "pb_ratio": 5.4641495,
+  "dividend_yield": 0.99,
+  "52_week_high": 281.03,
+  "52_week_low": 166.02,
+  "avg_volume_10d": 1440650,
+  "avg_volume_3m": 1810415,
+  "fetched_at": "2026-03-02"
+}

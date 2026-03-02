@@ -1,0 +1,21 @@
+{
+  "symbol": "CNP",
+  "name": "CenterPoint Energy, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 28399912960,
+  "pe_ratio": 27.1875,
+  "forward_pe": 20.846514,
+  "pb_ratio": 2.546391,
+  "dividend_yield": 2.11,
+  "52_week_high": 43.58,
+  "52_week_low": 33.24,
+  "avg_volume_10d": 7925320,
+  "avg_volume_3m": 5499190,
+  "fetched_at": "2026-03-02"
+}

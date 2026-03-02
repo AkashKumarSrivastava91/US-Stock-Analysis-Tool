@@ -1,0 +1,21 @@
+{
+  "symbol": "AWK",
+  "name": "American Water Works Company, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Water",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 26554234880,
+  "pe_ratio": 23.906853,
+  "forward_pe": 20.699709,
+  "pb_ratio": 2.4499316,
+  "dividend_yield": 2.43,
+  "52_week_high": 155.5,
+  "52_week_low": 121.28,
+  "avg_volume_10d": 2113530,
+  "avg_volume_3m": 1776718,
+  "fetched_at": "2026-03-02"
+}

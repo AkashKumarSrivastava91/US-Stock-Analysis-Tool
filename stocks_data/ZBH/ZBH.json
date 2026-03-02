@@ -1,0 +1,21 @@
+{
+  "symbol": "ZBH",
+  "name": "Zimmer Biomet Holdings, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 19508992000,
+  "pe_ratio": 27.729578,
+  "forward_pe": 10.941049,
+  "pb_ratio": 1.5156275,
+  "dividend_yield": 0.98,
+  "52_week_high": 114.44,
+  "52_week_low": 84.59,
+  "avg_volume_10d": 2011350,
+  "avg_volume_3m": 2208398,
+  "fetched_at": "2026-03-02"
+}

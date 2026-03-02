@@ -1,0 +1,21 @@
+{
+  "symbol": "WEAT",
+  "name": "Teucrium Wheat Fund",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.0,
+  "52_week_high": 25.1,
+  "52_week_low": 19.78,
+  "avg_volume_10d": 339910,
+  "avg_volume_3m": 214752,
+  "fetched_at": "2026-03-02"
+}

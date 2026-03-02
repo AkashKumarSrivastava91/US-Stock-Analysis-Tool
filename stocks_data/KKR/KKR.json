@@ -1,0 +1,21 @@
+{
+  "symbol": "KKR",
+  "name": "KKR & Co. Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 81193467904,
+  "pe_ratio": 37.470085,
+  "forward_pe": 11.031983,
+  "pb_ratio": 2.871459,
+  "dividend_yield": 0.84,
+  "52_week_high": 153.87,
+  "52_week_low": 86.15,
+  "avg_volume_10d": 10374250,
+  "avg_volume_3m": 6286643,
+  "fetched_at": "2026-03-02"
+}

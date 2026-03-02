@@ -1,0 +1,21 @@
+{
+  "symbol": "APO",
+  "name": "Apollo Global Management, Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 60712202240,
+  "pe_ratio": 15.247813,
+  "forward_pe": 9.606015,
+  "pb_ratio": 2.7599673,
+  "dividend_yield": 1.95,
+  "52_week_high": 157.28,
+  "52_week_low": 102.58,
+  "avg_volume_10d": 7187670,
+  "avg_volume_3m": 4121593,
+  "fetched_at": "2026-03-02"
+}

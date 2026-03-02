@@ -1,0 +1,21 @@
+{
+  "symbol": "KEY",
+  "name": "KeyCorp",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22863796224,
+  "pe_ratio": 13.644737,
+  "forward_pe": 9.764779,
+  "pb_ratio": 1.2786684,
+  "dividend_yield": 3.95,
+  "52_week_high": 23.35,
+  "52_week_low": 12.73,
+  "avg_volume_10d": 19598930,
+  "avg_volume_3m": 16412875,
+  "fetched_at": "2026-03-02"
+}

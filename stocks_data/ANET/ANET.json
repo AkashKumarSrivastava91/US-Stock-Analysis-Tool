@@ -1,0 +1,21 @@
+{
+  "symbol": "ANET",
+  "name": "Arista Networks, Inc.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 168114569216,
+  "pe_ratio": 48.545456,
+  "forward_pe": 31.48867,
+  "pb_ratio": 13.560183,
+  "dividend_yield": null,
+  "52_week_high": 164.94,
+  "52_week_low": 59.43,
+  "avg_volume_10d": 9490560,
+  "avg_volume_3m": 7764398,
+  "fetched_at": "2026-03-02"
+}

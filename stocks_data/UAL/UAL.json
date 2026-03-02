@@ -1,0 +1,21 @@
+{
+  "symbol": "UAL",
+  "name": "United Airlines Holdings, Inc.",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 34413346816,
+  "pe_ratio": 10.421569,
+  "forward_pe": 6.9614444,
+  "pb_ratio": 2.2500212,
+  "dividend_yield": null,
+  "52_week_high": 119.21,
+  "52_week_low": 52.0,
+  "avg_volume_10d": 5624450,
+  "avg_volume_3m": 5284113,
+  "fetched_at": "2026-03-02"
+}

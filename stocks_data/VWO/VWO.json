@@ -1,0 +1,21 @@
+{
+  "symbol": "VWO",
+  "name": "Vanguard Emerging Markets Stock Index Fund",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Emerging Markets",
+  "region": "Emerging Markets",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 82392768512,
+  "pe_ratio": 17.450218,
+  "forward_pe": null,
+  "pb_ratio": 1.2067461,
+  "dividend_yield": 2.66,
+  "52_week_high": 59.09,
+  "52_week_low": 39.53,
+  "avg_volume_10d": 8846510,
+  "avg_volume_3m": 11830851,
+  "fetched_at": "2026-03-02"
+}

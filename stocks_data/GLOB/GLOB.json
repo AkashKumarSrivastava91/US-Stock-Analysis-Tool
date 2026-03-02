@@ -1,0 +1,21 @@
+{
+  "symbol": "GLOB",
+  "name": "Globant S.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "Luxembourg",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 2192112384,
+  "pe_ratio": 22.72146,
+  "forward_pe": 7.418052,
+  "pb_ratio": 1.047138,
+  "dividend_yield": null,
+  "52_week_high": 151.245,
+  "52_week_low": 40.76,
+  "avg_volume_10d": 2063810,
+  "avg_volume_3m": 1393653,
+  "fetched_at": "2026-03-02"
+}

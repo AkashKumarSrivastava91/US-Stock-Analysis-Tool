@@ -1,0 +1,21 @@
+{
+  "symbol": "STLD",
+  "name": "Steel Dynamics, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 28429623296,
+  "pe_ratio": 24.14125,
+  "forward_pe": 12.29753,
+  "pb_ratio": 3.139917,
+  "dividend_yield": 1.05,
+  "52_week_high": 208.47,
+  "52_week_low": 103.17,
+  "avg_volume_10d": 1291730,
+  "avg_volume_3m": 1338343,
+  "fetched_at": "2026-03-02"
+}

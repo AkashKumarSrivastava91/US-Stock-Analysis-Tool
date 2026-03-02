@@ -1,0 +1,21 @@
+{
+  "symbol": "ALIZY",
+  "name": "Allianz SE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 173201539072,
+  "pe_ratio": 14.053125,
+  "forward_pe": 12.147291,
+  "pb_ratio": 0.25592288,
+  "dividend_yield": 3.79,
+  "52_week_high": 46.24,
+  "52_week_low": 34.12,
+  "avg_volume_10d": 225970,
+  "avg_volume_3m": 180116,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EW",
+  "name": "Edwards Lifesciences Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 50766540800,
+  "pe_ratio": 47.773483,
+  "forward_pe": 26.15334,
+  "pb_ratio": 4.8573194,
+  "dividend_yield": null,
+  "52_week_high": 87.89,
+  "52_week_low": 65.94,
+  "avg_volume_10d": 4697510,
+  "avg_volume_3m": 3971305,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "HIMX",
+  "name": "Himax Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Taiwan",
+  "region": "Taiwan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1273369600,
+  "pe_ratio": 29.12,
+  "forward_pe": 16.177778,
+  "pb_ratio": 1.4218751,
+  "dividend_yield": 5.08,
+  "52_week_high": 10.38,
+  "52_week_low": 5.66,
+  "avg_volume_10d": 993260,
+  "avg_volume_3m": 1065483,
+  "fetched_at": "2026-03-02"
+}

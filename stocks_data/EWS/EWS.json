@@ -1,0 +1,21 @@
+{
+  "symbol": "EWS",
+  "name": "iShares MSCI Singapore ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 710619008,
+  "pe_ratio": 17.335562,
+  "forward_pe": null,
+  "pb_ratio": 1.2494572,
+  "dividend_yield": 3.99,
+  "52_week_high": 29.65,
+  "52_week_low": 20.08,
+  "avg_volume_10d": 672360,
+  "avg_volume_3m": 835659,
+  "fetched_at": "2026-03-02"
+}

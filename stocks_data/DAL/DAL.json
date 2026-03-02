@@ -1,0 +1,21 @@
+{
+  "symbol": "DAL",
+  "name": "Delta Air Lines, Inc.",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 42910683136,
+  "pe_ratio": 8.5770235,
+  "forward_pe": 7.884382,
+  "pb_ratio": 2.046729,
+  "dividend_yield": 1.14,
+  "52_week_high": 76.39,
+  "52_week_low": 34.74,
+  "avg_volume_10d": 8006920,
+  "avg_volume_3m": 8058223,
+  "fetched_at": "2026-03-02"
+}

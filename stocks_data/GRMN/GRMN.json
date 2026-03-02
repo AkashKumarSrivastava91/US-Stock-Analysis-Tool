@@ -1,0 +1,21 @@
+{
+  "symbol": "GRMN",
+  "name": "Garmin Ltd.",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "Switzerland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 48664928256,
+  "pe_ratio": 29.398836,
+  "forward_pe": 24.859396,
+  "pb_ratio": 5.427633,
+  "dividend_yield": 1.66,
+  "52_week_high": 261.69,
+  "52_week_low": 169.26,
+  "avg_volume_10d": 1511200,
+  "avg_volume_3m": 1053935,
+  "fetched_at": "2026-03-02"
+}

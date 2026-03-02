@@ -1,0 +1,21 @@
+{
+  "symbol": "AVVIY",
+  "name": "Aviva plc",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 28224022528,
+  "pe_ratio": 30.949999,
+  "forward_pe": null,
+  "pb_ratio": 4.3573065,
+  "dividend_yield": 5.32,
+  "52_week_high": 19.4,
+  "52_week_low": 12.68,
+  "avg_volume_10d": 65830,
+  "avg_volume_3m": 59251,
+  "fetched_at": "2026-03-02"
+}

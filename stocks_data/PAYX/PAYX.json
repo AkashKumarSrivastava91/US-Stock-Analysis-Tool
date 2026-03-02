@@ -1,0 +1,21 @@
+{
+  "symbol": "PAYX",
+  "name": "Paychex, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 33617303552,
+  "pe_ratio": 21.187782,
+  "forward_pe": 15.84774,
+  "pb_ratio": 8.664077,
+  "dividend_yield": 4.61,
+  "52_week_high": 161.24,
+  "52_week_low": 86.89,
+  "avg_volume_10d": 4496420,
+  "avg_volume_3m": 3805296,
+  "fetched_at": "2026-03-02"
+}

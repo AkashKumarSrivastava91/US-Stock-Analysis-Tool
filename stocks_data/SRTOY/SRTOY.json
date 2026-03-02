@@ -1,0 +1,21 @@
+{
+  "symbol": "SRTOY",
+  "name": "Sartorius Stedim Biotech S.A.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "France",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 20888168448,
+  "pe_ratio": 67.09375,
+  "forward_pe": null,
+  "pb_ratio": 0.4321569,
+  "dividend_yield": 0.38,
+  "52_week_high": 26.54,
+  "52_week_low": 17.395,
+  "avg_volume_10d": 474250,
+  "avg_volume_3m": 81062,
+  "fetched_at": "2026-03-02"
+}

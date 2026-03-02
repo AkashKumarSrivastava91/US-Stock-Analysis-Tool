@@ -1,0 +1,21 @@
+{
+  "symbol": "HYMLF",
+  "name": "Hyundai Motor Company",
+  "sector": "Consumer Discretionary",
+  "industry": "",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 43904856064,
+  "pe_ratio": 6.3183303,
+  "forward_pe": null,
+  "pb_ratio": 0.000286689,
+  "dividend_yield": null,
+  "52_week_high": 89.0,
+  "52_week_low": 89.0,
+  "avg_volume_10d": 0,
+  "avg_volume_3m": 0,
+  "fetched_at": "2026-03-02"
+}

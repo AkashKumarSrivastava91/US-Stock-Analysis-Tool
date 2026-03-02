@@ -1,0 +1,21 @@
+{
+  "symbol": "EWW",
+  "name": "iShares MSCI Mexico ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Latin America",
+  "region": "Latin America",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 1529766016,
+  "pe_ratio": 14.975344,
+  "forward_pe": null,
+  "pb_ratio": 1.5796252,
+  "dividend_yield": 3.21,
+  "52_week_high": 81.65,
+  "52_week_low": 47.19,
+  "avg_volume_10d": 2075310,
+  "avg_volume_3m": 1657495,
+  "fetched_at": "2026-03-02"
+}

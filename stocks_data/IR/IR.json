@@ -1,0 +1,21 @@
+{
+  "symbol": "IR",
+  "name": "Ingersoll Rand Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 37195694080,
+  "pe_ratio": 64.92413,
+  "forward_pe": 24.201448,
+  "pb_ratio": 3.6492615,
+  "dividend_yield": 0.08,
+  "52_week_high": 100.96,
+  "52_week_low": 65.61,
+  "avg_volume_10d": 3758960,
+  "avg_volume_3m": 3564118,
+  "fetched_at": "2026-03-02"
+}

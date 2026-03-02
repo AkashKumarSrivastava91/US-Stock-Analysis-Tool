@@ -1,0 +1,21 @@
+{
+  "symbol": "BRK-B",
+  "name": "Berkshire Hathaway Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1089346207744,
+  "pe_ratio": 16.15323,
+  "forward_pe": 20.960693,
+  "pb_ratio": 0.0010405454,
+  "dividend_yield": null,
+  "52_week_high": 542.07,
+  "52_week_low": 455.19,
+  "avg_volume_10d": 4080500,
+  "avg_volume_3m": 4643880,
+  "fetched_at": "2026-03-02"
+}

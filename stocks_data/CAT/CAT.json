@@ -1,0 +1,21 @@
+{
+  "symbol": "CAT",
+  "name": "Caterpillar Inc.",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 347629289472,
+  "pe_ratio": 39.53326,
+  "forward_pe": 26.973875,
+  "pb_ratio": 16.212978,
+  "dividend_yield": 0.81,
+  "52_week_high": 789.81,
+  "52_week_low": 267.3,
+  "avg_volume_10d": 2855310,
+  "avg_volume_3m": 2795158,
+  "fetched_at": "2026-03-02"
+}

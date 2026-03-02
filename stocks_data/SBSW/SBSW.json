@@ -1,0 +1,21 @@
+{
+  "symbol": "SBSW",
+  "name": "Sibanye Stillwater Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 12810887168,
+  "pe_ratio": null,
+  "forward_pe": 5.0446477,
+  "pb_ratio": 20.225193,
+  "dividend_yield": 1.85,
+  "52_week_high": 21.29,
+  "52_week_low": 3.18,
+  "avg_volume_10d": 6275620,
+  "avg_volume_3m": 7240583,
+  "fetched_at": "2026-03-02"
+}

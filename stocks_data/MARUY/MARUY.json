@@ -1,0 +1,21 @@
+{
+  "symbol": "MARUY",
+  "name": "Marubeni Corporation",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 62334435328,
+  "pe_ratio": 17.241615,
+  "forward_pe": 19.535183,
+  "pb_ratio": 23.524668,
+  "dividend_yield": 1.76,
+  "52_week_high": 426.06,
+  "52_week_low": 126.85,
+  "avg_volume_10d": 22760,
+  "avg_volume_3m": 20128,
+  "fetched_at": "2026-03-02"
+}

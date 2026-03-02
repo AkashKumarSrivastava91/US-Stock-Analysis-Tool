@@ -1,0 +1,21 @@
+{
+  "symbol": "GM",
+  "name": "General Motors Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 73425510400,
+  "pe_ratio": 24.070335,
+  "forward_pe": 5.674273,
+  "pb_ratio": 1.1641768,
+  "dividend_yield": 0.91,
+  "52_week_high": 87.62,
+  "52_week_low": 41.6,
+  "avg_volume_10d": 7972520,
+  "avg_volume_3m": 8870401,
+  "fetched_at": "2026-03-02"
+}

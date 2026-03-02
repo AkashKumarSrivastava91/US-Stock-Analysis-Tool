@@ -1,0 +1,21 @@
+{
+  "symbol": "BAK",
+  "name": "Braskem S.A.",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1526194432,
+  "pe_ratio": null,
+  "forward_pe": -2.029666,
+  "pb_ratio": -4.440477,
+  "dividend_yield": null,
+  "52_week_high": 4.3,
+  "52_week_low": 2.32,
+  "avg_volume_10d": 1097690,
+  "avg_volume_3m": 1317620,
+  "fetched_at": "2026-03-02"
+}

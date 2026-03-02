@@ -1,0 +1,21 @@
+{
+  "symbol": "SHG",
+  "name": "Shinhan Financial Group Co., Ltd.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 31904700416,
+  "pe_ratio": 9.253463,
+  "forward_pe": 8.833317,
+  "pb_ratio": 1.0082171,
+  "dividend_yield": 2.38,
+  "52_week_high": 73.4,
+  "52_week_low": 28.76,
+  "avg_volume_10d": 247370,
+  "avg_volume_3m": 221355,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "MSI",
+  "name": "Motorola Solutions, Inc.",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 80322813952,
+  "pe_ratio": 37.88374,
+  "forward_pe": 26.572336,
+  "pb_ratio": 33.15869,
+  "dividend_yield": 1.0,
+  "52_week_high": 492.22,
+  "52_week_low": 359.36,
+  "avg_volume_10d": 1174040,
+  "avg_volume_3m": 1331420,
+  "fetched_at": "2026-03-02"
+}

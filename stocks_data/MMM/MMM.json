@@ -1,0 +1,21 @@
+{
+  "symbol": "MMM",
+  "name": "3M Company",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 87074045952,
+  "pe_ratio": 27.553335,
+  "forward_pe": 17.589144,
+  "pb_ratio": 18.644413,
+  "dividend_yield": 1.89,
+  "52_week_high": 177.41,
+  "52_week_low": 121.98,
+  "avg_volume_10d": 3502390,
+  "avg_volume_3m": 3559198,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "VTR",
+  "name": "Ventas, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Healthcare Facilities",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 40923004928,
+  "pe_ratio": 159.55556,
+  "forward_pe": 89.13073,
+  "pb_ratio": 3.266482,
+  "dividend_yield": 2.41,
+  "52_week_high": 87.87,
+  "52_week_low": 60.15,
+  "avg_volume_10d": 3199160,
+  "avg_volume_3m": 3054083,
+  "fetched_at": "2026-03-02"
+}

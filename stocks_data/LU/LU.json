@@ -1,0 +1,21 @@
+{
+  "symbol": "LU",
+  "name": "Lufax Holding Ltd",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 2253391104,
+  "pe_ratio": null,
+  "forward_pe": 4.4684224,
+  "pb_ratio": 0.18854031,
+  "dividend_yield": null,
+  "52_week_high": 4.57,
+  "52_week_low": 2.3,
+  "avg_volume_10d": 1342800,
+  "avg_volume_3m": 1232966,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "VICI",
+  "name": "VICI Properties Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 32288790528,
+  "pe_ratio": 11.486691,
+  "forward_pe": 10.34589,
+  "pb_ratio": 1.1615657,
+  "dividend_yield": 5.84,
+  "52_week_high": 34.03,
+  "52_week_low": 27.48,
+  "avg_volume_10d": 9907650,
+  "avg_volume_3m": 11884581,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ACGL",
+  "name": "Arch Capital Group Ltd.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "Bermuda",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 36316991488,
+  "pe_ratio": 8.63362,
+  "forward_pe": 9.912898,
+  "pb_ratio": 1.5320249,
+  "dividend_yield": null,
+  "52_week_high": 103.39,
+  "52_week_low": 82.45,
+  "avg_volume_10d": 1756710,
+  "avg_volume_3m": 2198920,
+  "fetched_at": "2026-03-02"
+}

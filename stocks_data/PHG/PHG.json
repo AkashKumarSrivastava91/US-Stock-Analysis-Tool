@@ -1,0 +1,21 @@
+{
+  "symbol": "PHG",
+  "name": "Koninklijke Philips N.V.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "Netherlands",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 30676465664,
+  "pe_ratio": 28.571428,
+  "forward_pe": 15.290885,
+  "pb_ratio": 2.3540986,
+  "dividend_yield": 3.17,
+  "52_week_high": 33.44,
+  "52_week_low": 21.48,
+  "avg_volume_10d": 882700,
+  "avg_volume_3m": 858323,
+  "fetched_at": "2026-03-02"
+}

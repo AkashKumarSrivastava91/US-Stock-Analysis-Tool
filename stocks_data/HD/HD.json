@@ -1,0 +1,21 @@
+{
+  "symbol": "HD",
+  "name": "The Home Depot, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Home Improvement Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 379011137536,
+  "pe_ratio": 26.735956,
+  "forward_pe": 23.340588,
+  "pb_ratio": 29.506317,
+  "dividend_yield": 2.45,
+  "52_week_high": 426.75,
+  "52_week_low": 326.31,
+  "avg_volume_10d": 4017210,
+  "avg_volume_3m": 4401075,
+  "fetched_at": "2026-03-02"
+}

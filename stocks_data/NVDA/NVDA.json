@@ -1,0 +1,21 @@
+{
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 4306603081728,
+  "pe_ratio": 36.087578,
+  "forward_pe": 16.620033,
+  "pb_ratio": 27.377935,
+  "dividend_yield": 0.02,
+  "52_week_high": 212.19,
+  "52_week_low": 86.62,
+  "avg_volume_10d": 206256740,
+  "avg_volume_3m": 174635383,
+  "fetched_at": "2026-03-02"
+}

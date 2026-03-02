@@ -1,0 +1,21 @@
+{
+  "symbol": "CVNA",
+  "name": "Carvana Co.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto & Truck Dealerships",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 73228713984,
+  "pe_ratio": 39.545563,
+  "forward_pe": 31.65884,
+  "pb_ratio": 13.81226,
+  "dividend_yield": null,
+  "52_week_high": 486.89,
+  "52_week_low": 148.25,
+  "avg_volume_10d": 5939280,
+  "avg_volume_3m": 4772711,
+  "fetched_at": "2026-03-02"
+}

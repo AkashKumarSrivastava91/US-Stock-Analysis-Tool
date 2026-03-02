@@ -1,0 +1,21 @@
+{
+  "symbol": "SYK",
+  "name": "Stryker Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 148276543488,
+  "pe_ratio": 46.071342,
+  "forward_pe": 23.154886,
+  "pb_ratio": 6.6103663,
+  "dividend_yield": 0.91,
+  "52_week_high": 404.87,
+  "52_week_low": 329.16,
+  "avg_volume_10d": 1757330,
+  "avg_volume_3m": 1874948,
+  "fetched_at": "2026-03-02"
+}

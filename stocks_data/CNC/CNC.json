@@ -1,0 +1,21 @@
+{
+  "symbol": "CNC",
+  "name": "Centene Corporation",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22070683648,
+  "pe_ratio": null,
+  "forward_pe": 10.86667,
+  "pb_ratio": 1.1060998,
+  "dividend_yield": null,
+  "52_week_high": 66.03,
+  "52_week_low": 25.08,
+  "avg_volume_10d": 4721180,
+  "avg_volume_3m": 6221580,
+  "fetched_at": "2026-03-02"
+}

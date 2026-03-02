@@ -1,0 +1,21 @@
+{
+  "symbol": "NRG",
+  "name": "NRG Energy, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38418694144,
+  "pe_ratio": 44.62843,
+  "forward_pe": 15.895448,
+  "pb_ratio": 33.04284,
+  "dividend_yield": 1.06,
+  "52_week_high": 189.96,
+  "52_week_low": 79.57,
+  "avg_volume_10d": 2466790,
+  "avg_volume_3m": 2000920,
+  "fetched_at": "2026-03-02"
+}

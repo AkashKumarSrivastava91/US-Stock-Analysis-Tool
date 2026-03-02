@@ -1,0 +1,21 @@
+{
+  "symbol": "SU",
+  "name": "Suncor Energy Inc.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 68362194944,
+  "pe_ratio": 15.966102,
+  "forward_pe": 16.957779,
+  "pb_ratio": 2.044671,
+  "dividend_yield": 3.1,
+  "52_week_high": 57.13,
+  "52_week_low": 30.79,
+  "avg_volume_10d": 4182320,
+  "avg_volume_3m": 4971268,
+  "fetched_at": "2026-03-02"
+}

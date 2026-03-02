@@ -1,0 +1,21 @@
+{
+  "symbol": "ABNB",
+  "name": "Airbnb, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 81000333312,
+  "pe_ratio": 33.526054,
+  "forward_pe": 23.232021,
+  "pb_ratio": 9.9199705,
+  "dividend_yield": null,
+  "52_week_high": 144.75,
+  "52_week_low": 99.88,
+  "avg_volume_10d": 6666920,
+  "avg_volume_3m": 4846721,
+  "fetched_at": "2026-03-02"
+}

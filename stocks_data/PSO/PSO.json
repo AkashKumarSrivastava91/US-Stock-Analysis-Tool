@@ -1,0 +1,21 @@
+{
+  "symbol": "PSO",
+  "name": "Pearson plc",
+  "sector": "Communication Services",
+  "industry": "Publishing",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 8196807680,
+  "pe_ratio": 14.659091,
+  "forward_pe": 14.014884,
+  "pb_ratio": 1.6828458,
+  "dividend_yield": 2.53,
+  "52_week_high": 17.9,
+  "52_week_low": 12.02,
+  "avg_volume_10d": 1098460,
+  "avg_volume_3m": 992881,
+  "fetched_at": "2026-03-02"
+}

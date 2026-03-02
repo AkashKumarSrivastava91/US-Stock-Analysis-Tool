@@ -1,0 +1,21 @@
+{
+  "symbol": "BAX",
+  "name": "Baxter International Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 10480162816,
+  "pe_ratio": null,
+  "forward_pe": 9.889406,
+  "pb_ratio": 1.7091794,
+  "dividend_yield": 1.77,
+  "52_week_high": 37.74,
+  "52_week_low": 17.4,
+  "avg_volume_10d": 11911720,
+  "avg_volume_3m": 9495410,
+  "fetched_at": "2026-03-02"
+}

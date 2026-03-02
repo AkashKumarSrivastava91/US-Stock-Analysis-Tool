@@ -1,0 +1,21 @@
+{
+  "symbol": "NDBKY",
+  "name": "Nedbank Group Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 9276149760,
+  "pe_ratio": 9.280374,
+  "forward_pe": null,
+  "pb_ratio": 1.2891228,
+  "dividend_yield": 5.89,
+  "52_week_high": 20.28,
+  "52_week_low": 11.75,
+  "avg_volume_10d": 33450,
+  "avg_volume_3m": 17315,
+  "fetched_at": "2026-03-02"
+}

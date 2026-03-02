@@ -1,0 +1,21 @@
+{
+  "symbol": "BNTGY",
+  "name": "Brenntag SE",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 8989840384,
+  "pe_ratio": 18.028984,
+  "forward_pe": 13.159008,
+  "pb_ratio": 0.35213935,
+  "dividend_yield": 3.8,
+  "52_week_high": 14.82,
+  "52_week_low": 10.523,
+  "avg_volume_10d": 24130,
+  "avg_volume_3m": 34335,
+  "fetched_at": "2026-03-02"
+}

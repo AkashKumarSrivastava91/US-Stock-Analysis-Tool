@@ -1,0 +1,21 @@
+{
+  "symbol": "KRYAY",
+  "name": "Kerry Group plc",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "Ireland",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 14297319424,
+  "pe_ratio": 18.802967,
+  "forward_pe": 15.091142,
+  "pb_ratio": 2.035524,
+  "dividend_yield": 1.66,
+  "52_week_high": 113.38,
+  "52_week_low": 83.06,
+  "avg_volume_10d": 16820,
+  "avg_volume_3m": 15226,
+  "fetched_at": "2026-03-02"
+}

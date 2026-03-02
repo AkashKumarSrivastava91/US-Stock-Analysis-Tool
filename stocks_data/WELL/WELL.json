@@ -1,0 +1,21 @@
+{
+  "symbol": "WELL",
+  "name": "Welltower Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Healthcare Facilities",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 144518496256,
+  "pe_ratio": 144.83916,
+  "forward_pe": 62.574017,
+  "pb_ratio": 3.4242067,
+  "dividend_yield": 1.43,
+  "52_week_high": 216.43,
+  "52_week_low": 130.29,
+  "avg_volume_10d": 3257920,
+  "avg_volume_3m": 3391705,
+  "fetched_at": "2026-03-02"
+}

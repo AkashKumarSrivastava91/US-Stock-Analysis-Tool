@@ -1,0 +1,21 @@
+{
+  "symbol": "HON",
+  "name": "Honeywell International Inc.",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 164147920896,
+  "pe_ratio": 32.135883,
+  "forward_pe": 21.167088,
+  "pb_ratio": 11.129946,
+  "dividend_yield": 1.95,
+  "52_week_high": 246.0,
+  "52_week_low": 169.04807,
+  "avg_volume_10d": 3229280,
+  "avg_volume_3m": 4249426,
+  "fetched_at": "2026-03-02"
+}

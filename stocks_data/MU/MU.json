@@ -1,0 +1,21 @@
+{
+  "symbol": "MU",
+  "name": "Micron Technology, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 464126246912,
+  "pe_ratio": 39.198666,
+  "forward_pe": 9.255576,
+  "pb_ratio": 7.8958755,
+  "dividend_yield": 0.11,
+  "52_week_high": 455.5,
+  "52_week_low": 61.54,
+  "avg_volume_10d": 29634200,
+  "avg_volume_3m": 33044421,
+  "fetched_at": "2026-03-02"
+}

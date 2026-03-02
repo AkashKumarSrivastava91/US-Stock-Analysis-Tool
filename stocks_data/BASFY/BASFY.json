@@ -1,0 +1,21 @@
+{
+  "symbol": "BASFY",
+  "name": "BASF SE",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 51444977664,
+  "pe_ratio": 144.09999,
+  "forward_pe": 15.97561,
+  "pb_ratio": 0.32682016,
+  "dividend_yield": 4.37,
+  "52_week_high": 15.6,
+  "52_week_low": 10.75,
+  "avg_volume_10d": 194020,
+  "avg_volume_3m": 150948,
+  "fetched_at": "2026-03-02"
+}

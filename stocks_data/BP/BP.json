@@ -1,0 +1,21 @@
+{
+  "symbol": "BP",
+  "name": "BP p.l.c.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 99546103808,
+  "pe_ratio": 1943.0001,
+  "forward_pe": 13.827657,
+  "pb_ratio": 11.286669,
+  "dividend_yield": 5.14,
+  "52_week_high": 39.51,
+  "52_week_low": 25.22,
+  "avg_volume_10d": 8286980,
+  "avg_volume_3m": 8955405,
+  "fetched_at": "2026-03-02"
+}

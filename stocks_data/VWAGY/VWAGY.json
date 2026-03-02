@@ -1,0 +1,21 @@
+{
+  "symbol": "VWAGY",
+  "name": "Volkswagen AG",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 59954913280,
+  "pe_ratio": 7.56962,
+  "forward_pe": 4.0405407,
+  "pb_ratio": 0.030043898,
+  "dividend_yield": 5.96,
+  "52_week_high": 12.83,
+  "52_week_low": 9.197,
+  "avg_volume_10d": 105740,
+  "avg_volume_3m": 125736,
+  "fetched_at": "2026-03-02"
+}

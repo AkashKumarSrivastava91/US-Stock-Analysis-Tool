@@ -1,0 +1,21 @@
+{
+  "symbol": "DNZOY",
+  "name": "DENSO Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 38404980736,
+  "pe_ratio": 17.62963,
+  "forward_pe": null,
+  "pb_ratio": 1.1270921,
+  "dividend_yield": 2.98,
+  "52_week_high": 15.85,
+  "52_week_low": 10.96,
+  "avg_volume_10d": 50610,
+  "avg_volume_3m": 81415,
+  "fetched_at": "2026-03-02"
+}

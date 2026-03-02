@@ -1,0 +1,21 @@
+{
+  "symbol": "ROK",
+  "name": "Rockwell Automation, Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 45810900992,
+  "pe_ratio": 46.512558,
+  "forward_pe": 29.732586,
+  "pb_ratio": 12.221056,
+  "dividend_yield": 1.35,
+  "52_week_high": 438.72,
+  "52_week_low": 215.0,
+  "avg_volume_10d": 1233600,
+  "avg_volume_3m": 930388,
+  "fetched_at": "2026-03-02"
+}

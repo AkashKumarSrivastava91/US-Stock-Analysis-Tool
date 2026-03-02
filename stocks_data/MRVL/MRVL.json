@@ -1,0 +1,21 @@
+{
+  "symbol": "MRVL",
+  "name": "Marvell Technology, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 69281292288,
+  "pe_ratio": 28.764086,
+  "forward_pe": 24.149847,
+  "pb_ratio": 4.9317803,
+  "dividend_yield": 0.29,
+  "52_week_high": 102.77,
+  "52_week_low": 47.09,
+  "avg_volume_10d": 10495450,
+  "avg_volume_3m": 15598228,
+  "fetched_at": "2026-03-02"
+}

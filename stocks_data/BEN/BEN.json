@@ -1,0 +1,21 @@
+{
+  "symbol": "BEN",
+  "name": "Franklin Resources, Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13837709312,
+  "pe_ratio": 24.574074,
+  "forward_pe": 9.070435,
+  "pb_ratio": 1.13725,
+  "dividend_yield": 4.97,
+  "52_week_high": 28.32,
+  "52_week_low": 16.25,
+  "avg_volume_10d": 4891880,
+  "avg_volume_3m": 4943993,
+  "fetched_at": "2026-03-02"
+}

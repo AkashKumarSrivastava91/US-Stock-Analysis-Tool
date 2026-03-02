@@ -1,0 +1,21 @@
+{
+  "symbol": "APA",
+  "name": "APA Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 10865975296,
+  "pe_ratio": 7.2655506,
+  "forward_pe": 12.748935,
+  "pb_ratio": 1.7594578,
+  "dividend_yield": 3.29,
+  "52_week_high": 30.42,
+  "52_week_low": 13.58,
+  "avg_volume_10d": 7439640,
+  "avg_volume_3m": 6139000,
+  "fetched_at": "2026-03-02"
+}

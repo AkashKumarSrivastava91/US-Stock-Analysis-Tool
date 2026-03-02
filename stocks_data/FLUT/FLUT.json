@@ -1,0 +1,21 @@
+{
+  "symbol": "FLUT",
+  "name": "Flutter Entertainment plc",
+  "sector": "Consumer Cyclical",
+  "industry": "Gambling",
+  "country": "United States",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18602772480,
+  "pe_ratio": null,
+  "forward_pe": 9.2641,
+  "pb_ratio": 2.0577743,
+  "dividend_yield": null,
+  "52_week_high": 313.685,
+  "52_week_low": 99.96,
+  "avg_volume_10d": 6623830,
+  "avg_volume_3m": 3580923,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "IVZ",
+  "name": "Invesco Ltd.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11650874368,
+  "pe_ratio": null,
+  "forward_pe": 8.620351,
+  "pb_ratio": 1.1994702,
+  "dividend_yield": 3.2,
+  "52_week_high": 29.61,
+  "52_week_low": 11.6,
+  "avg_volume_10d": 4388500,
+  "avg_volume_3m": 5820658,
+  "fetched_at": "2026-03-02"
+}

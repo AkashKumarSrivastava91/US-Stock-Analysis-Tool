@@ -1,0 +1,21 @@
+{
+  "symbol": "BTGOF",
+  "name": "BT Group plc",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 27371595776,
+  "pe_ratio": 21.615385,
+  "forward_pe": 12.217391,
+  "pb_ratio": 1.6079872,
+  "dividend_yield": 3.96,
+  "52_week_high": 2.97,
+  "52_week_low": 1.8,
+  "avg_volume_10d": 11960,
+  "avg_volume_3m": 12230,
+  "fetched_at": "2026-03-02"
+}

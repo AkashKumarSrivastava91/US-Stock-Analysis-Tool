@@ -1,0 +1,21 @@
+{
+  "symbol": "OXY",
+  "name": "Occidental Petroleum Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 52351033344,
+  "pe_ratio": 39.31852,
+  "forward_pe": 26.990335,
+  "pb_ratio": 1.8862829,
+  "dividend_yield": 1.96,
+  "52_week_high": 53.33,
+  "52_week_low": 34.78,
+  "avg_volume_10d": 13938020,
+  "avg_volume_3m": 11249853,
+  "fetched_at": "2026-03-02"
+}

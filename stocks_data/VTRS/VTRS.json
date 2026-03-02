@@ -1,0 +1,21 @@
+{
+  "symbol": "VTRS",
+  "name": "Viatris Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 17236195328,
+  "pe_ratio": null,
+  "forward_pe": 5.593625,
+  "pb_ratio": 1.1696961,
+  "dividend_yield": 3.22,
+  "52_week_high": 16.47,
+  "52_week_low": 6.85,
+  "avg_volume_10d": 11745710,
+  "avg_volume_3m": 9579861,
+  "fetched_at": "2026-03-02"
+}

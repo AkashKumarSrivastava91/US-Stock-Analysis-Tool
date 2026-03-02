@@ -1,0 +1,21 @@
+{
+  "symbol": "GLD",
+  "name": "SPDR Gold Shares",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 125920124928,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 2.8453038,
+  "dividend_yield": 0.0,
+  "52_week_high": 509.7,
+  "52_week_low": 265.07,
+  "avg_volume_10d": 12995000,
+  "avg_volume_3m": 17531618,
+  "fetched_at": "2026-03-02"
+}

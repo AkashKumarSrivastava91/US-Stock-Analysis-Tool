@@ -1,0 +1,21 @@
+{
+  "symbol": "ASX",
+  "name": "ASE Technology Holding Co., Ltd.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Taiwan",
+  "region": "Taiwan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 53123309568,
+  "pe_ratio": 42.614037,
+  "forward_pe": 20.241667,
+  "pb_ratio": 9.550551,
+  "dividend_yield": 1.47,
+  "52_week_high": 25.29,
+  "52_week_low": 6.94,
+  "avg_volume_10d": 6912900,
+  "avg_volume_3m": 7588660,
+  "fetched_at": "2026-03-02"
+}

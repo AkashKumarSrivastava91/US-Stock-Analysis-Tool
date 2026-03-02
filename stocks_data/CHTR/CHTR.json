@@ -1,0 +1,21 @@
+{
+  "symbol": "CHTR",
+  "name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 30363320320,
+  "pe_ratio": 6.477913,
+  "forward_pe": 4.7380013,
+  "pb_ratio": 1.8507301,
+  "dividend_yield": null,
+  "52_week_high": 437.06,
+  "52_week_low": 180.38,
+  "avg_volume_10d": 1458310,
+  "avg_volume_3m": 1978156,
+  "fetched_at": "2026-03-02"
+}

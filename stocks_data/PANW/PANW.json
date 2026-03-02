@@ -1,0 +1,21 @@
+{
+  "symbol": "PANW",
+  "name": "Palo Alto Networks, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 121518718976,
+  "pe_ratio": 82.73334,
+  "forward_pe": 37.39031,
+  "pb_ratio": 11.145872,
+  "dividend_yield": null,
+  "52_week_high": 223.61,
+  "52_week_low": 139.57,
+  "avg_volume_10d": 17258650,
+  "avg_volume_3m": 9572280,
+  "fetched_at": "2026-03-02"
+}

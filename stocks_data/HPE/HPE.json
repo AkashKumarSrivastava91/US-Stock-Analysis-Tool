@@ -1,0 +1,21 @@
+{
+  "symbol": "HPE",
+  "name": "Hewlett Packard Enterprise Company",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 28652425216,
+  "pe_ratio": null,
+  "forward_pe": 7.8646126,
+  "pb_ratio": 1.146473,
+  "dividend_yield": 2.65,
+  "52_week_high": 26.44,
+  "52_week_low": 11.965,
+  "avg_volume_10d": 16019370,
+  "avg_volume_3m": 20222066,
+  "fetched_at": "2026-03-02"
+}

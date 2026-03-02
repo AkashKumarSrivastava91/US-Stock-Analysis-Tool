@@ -1,0 +1,21 @@
+{
+  "symbol": "BDRFY",
+  "name": "Beiersdorf Aktiengesellschaft",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 28068538368,
+  "pe_ratio": 27.258064,
+  "forward_pe": 22.643635,
+  "pb_ratio": 0.56082577,
+  "dividend_yield": 0.89,
+  "52_week_high": 29.73,
+  "52_week_low": 20.14,
+  "avg_volume_10d": 64460,
+  "avg_volume_3m": 156615,
+  "fetched_at": "2026-03-02"
+}

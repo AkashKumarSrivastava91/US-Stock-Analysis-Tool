@@ -1,0 +1,21 @@
+{
+  "symbol": "KR",
+  "name": "The Kroger Co.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 45221158912,
+  "pe_ratio": 60.389378,
+  "forward_pe": 12.919226,
+  "pb_ratio": 5.53088,
+  "dividend_yield": 2.01,
+  "52_week_high": 74.9,
+  "52_week_low": 58.6,
+  "avg_volume_10d": 5704790,
+  "avg_volume_3m": 6807078,
+  "fetched_at": "2026-03-02"
+}

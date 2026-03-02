@@ -1,0 +1,21 @@
+{
+  "symbol": "CPT",
+  "name": "Camden Property Trust",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11526868992,
+  "pe_ratio": 30.604519,
+  "forward_pe": 62.073864,
+  "pb_ratio": 2.6414726,
+  "dividend_yield": 3.91,
+  "52_week_high": 126.55,
+  "52_week_low": 97.17,
+  "avg_volume_10d": 983350,
+  "avg_volume_3m": 1306853,
+  "fetched_at": "2026-03-02"
+}

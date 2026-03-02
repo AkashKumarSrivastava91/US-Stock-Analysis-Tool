@@ -1,0 +1,21 @@
+{
+  "symbol": "CINF",
+  "name": "Cincinnati Financial Corporation",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 25583915008,
+  "pe_ratio": 10.809492,
+  "forward_pe": 17.817463,
+  "pb_ratio": 1.6015705,
+  "dividend_yield": 2.17,
+  "52_week_high": 174.27,
+  "52_week_low": 123.02,
+  "avg_volume_10d": 821450,
+  "avg_volume_3m": 662778,
+  "fetched_at": "2026-03-02"
+}

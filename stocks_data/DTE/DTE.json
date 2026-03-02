@@ -1,0 +1,21 @@
+{
+  "symbol": "DTE",
+  "name": "DTE Energy Company",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 30804830208,
+  "pe_ratio": 21.086771,
+  "forward_pe": 17.88934,
+  "pb_ratio": 2.503124,
+  "dividend_yield": 3.04,
+  "52_week_high": 154.63,
+  "52_week_low": 123.69,
+  "avg_volume_10d": 1502590,
+  "avg_volume_3m": 1637450,
+  "fetched_at": "2026-03-02"
+}

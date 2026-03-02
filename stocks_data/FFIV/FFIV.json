@@ -1,0 +1,21 @@
+{
+  "symbol": "FFIV",
+  "name": "F5, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 15416257536,
+  "pe_ratio": 22.463575,
+  "forward_pe": 16.15966,
+  "pb_ratio": 4.3628407,
+  "dividend_yield": null,
+  "52_week_high": 346.0,
+  "52_week_low": 223.76,
+  "avg_volume_10d": 747760,
+  "avg_volume_3m": 1080580,
+  "fetched_at": "2026-03-02"
+}

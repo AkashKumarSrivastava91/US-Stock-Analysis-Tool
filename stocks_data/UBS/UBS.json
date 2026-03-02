@@ -1,0 +1,21 @@
+{
+  "symbol": "UBS",
+  "name": "UBS Group AG",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "Switzerland",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 130905292800,
+  "pe_ratio": 17.555086,
+  "forward_pe": 11.288828,
+  "pb_ratio": 1.4198567,
+  "dividend_yield": 2.66,
+  "52_week_high": 49.36,
+  "52_week_low": 25.745,
+  "avg_volume_10d": 2485830,
+  "avg_volume_3m": 2377803,
+  "fetched_at": "2026-03-02"
+}

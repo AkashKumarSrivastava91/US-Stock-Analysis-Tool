@@ -1,0 +1,21 @@
+{
+  "symbol": "ENGIY",
+  "name": "Engie SA",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 82489606144,
+  "pe_ratio": 14.145833,
+  "forward_pe": 14.76087,
+  "pb_ratio": 2.4463382,
+  "dividend_yield": 4.95,
+  "52_week_high": 35.16,
+  "52_week_low": 17.47,
+  "avg_volume_10d": 133180,
+  "avg_volume_3m": 221230,
+  "fetched_at": "2026-03-02"
+}

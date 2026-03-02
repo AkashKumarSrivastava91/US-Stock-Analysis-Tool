@@ -1,0 +1,21 @@
+{
+  "symbol": "EWD",
+  "name": "iShares MSCI Sweden ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 418608000,
+  "pe_ratio": 19.322113,
+  "forward_pe": null,
+  "pb_ratio": 1.1431437,
+  "dividend_yield": 3.08,
+  "52_week_high": 54.93,
+  "52_week_low": 36.5,
+  "avg_volume_10d": 102010,
+  "avg_volume_3m": 113740,
+  "fetched_at": "2026-03-02"
+}

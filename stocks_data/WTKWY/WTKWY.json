@@ -1,0 +1,21 @@
+{
+  "symbol": "WTKWY",
+  "name": "Wolters Kluwer N.V.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "country": "Netherlands",
+  "region": "Netherlands",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 18283933696,
+  "pe_ratio": 12.183184,
+  "forward_pe": 10.973911,
+  "pb_ratio": 19.487593,
+  "dividend_yield": 3.47,
+  "52_week_high": 185.47,
+  "52_week_low": 70.05,
+  "avg_volume_10d": 340580,
+  "avg_volume_3m": 152590,
+  "fetched_at": "2026-03-02"
+}

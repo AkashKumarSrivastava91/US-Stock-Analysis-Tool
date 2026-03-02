@@ -1,0 +1,21 @@
+{
+  "symbol": "PKX",
+  "name": "POSCO Holdings Inc.",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21062184960,
+  "pe_ratio": 49.007042,
+  "forward_pe": 13.818863,
+  "pb_ratio": 0.10677491,
+  "dividend_yield": 2.54,
+  "52_week_high": 71.35,
+  "52_week_low": 40.8,
+  "avg_volume_10d": 162810,
+  "avg_volume_3m": 185780,
+  "fetched_at": "2026-03-02"
+}

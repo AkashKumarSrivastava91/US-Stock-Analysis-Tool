@@ -1,0 +1,21 @@
+{
+  "symbol": "ZS",
+  "name": "Zscaler, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 23440672768,
+  "pe_ratio": null,
+  "forward_pe": 31.986336,
+  "pb_ratio": 10.748027,
+  "dividend_yield": null,
+  "52_week_high": 336.99,
+  "52_week_low": 140.56,
+  "avg_volume_10d": 4494760,
+  "avg_volume_3m": 2347536,
+  "fetched_at": "2026-03-02"
+}

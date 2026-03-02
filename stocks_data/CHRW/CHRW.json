@@ -1,0 +1,21 @@
+{
+  "symbol": "CHRW",
+  "name": "C.H. Robinson Worldwide, Inc.",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 21974509568,
+  "pe_ratio": 38.35404,
+  "forward_pe": 25.882666,
+  "pb_ratio": 11.887193,
+  "dividend_yield": 1.36,
+  "52_week_high": 203.34,
+  "52_week_low": 84.68,
+  "avg_volume_10d": 2774640,
+  "avg_volume_3m": 2260381,
+  "fetched_at": "2026-03-02"
+}

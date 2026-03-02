@@ -1,0 +1,21 @@
+{
+  "symbol": "PALL",
+  "name": "abrdn Physical Palladium Shares ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": 0.19841406,
+  "pb_ratio": null,
+  "dividend_yield": 0.0,
+  "52_week_high": 197.41,
+  "52_week_low": 82.39,
+  "avg_volume_10d": 309470,
+  "avg_volume_3m": 649245,
+  "fetched_at": "2026-03-02"
+}

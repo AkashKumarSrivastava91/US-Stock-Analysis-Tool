@@ -1,0 +1,64 @@
+name: Analyse ROC Momentum (US)
+
+on:
+  workflow_run:
+    workflows: ["Fetch US Stock Data Daily"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyse-roc-momentum:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Pull latest data (fetched in previous workflow)
+        run: git pull origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-pandas
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install --upgrade pandas numpy
+
+      - name: Run ROC Momentum analysis
+        run: python3 analyze_roc_momentum.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add analysis_roc_momentum.json || true
+
+          TIMESTAMP=$(TZ="America/New_York" date +"ET %Y-%m-%d %H:%M")
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          for attempt in 1 2 3; do
+            git commit -m "ROC Momentum analysis — ${TIMESTAMP}" && break
+            echo "Commit attempt $attempt failed"
+            sleep 5
+          done
+
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Push attempt $attempt failed"
+            sleep 10
+          done

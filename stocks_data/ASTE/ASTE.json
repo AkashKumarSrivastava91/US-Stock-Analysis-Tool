@@ -1,0 +1,21 @@
+{
+  "symbol": "ASTE",
+  "name": "Astec Industries, Inc.",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1420360960,
+  "pe_ratio": 29.708136,
+  "forward_pe": 14.159635,
+  "pb_ratio": 2.0836968,
+  "dividend_yield": 0.84,
+  "52_week_high": 64.37,
+  "52_week_low": 29.65,
+  "avg_volume_10d": 257750,
+  "avg_volume_3m": 202503,
+  "fetched_at": "2026-03-02"
+}

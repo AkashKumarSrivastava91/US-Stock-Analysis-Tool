@@ -1,0 +1,21 @@
+{
+  "symbol": "HST",
+  "name": "Host Hotels & Resorts, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Hotel & Motel",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 13648140288,
+  "pe_ratio": 17.809092,
+  "forward_pe": 20.070488,
+  "pb_ratio": 2.0545359,
+  "dividend_yield": 4.08,
+  "52_week_high": 21.0,
+  "52_week_low": 12.22,
+  "avg_volume_10d": 10143500,
+  "avg_volume_3m": 8114275,
+  "fetched_at": "2026-03-02"
+}

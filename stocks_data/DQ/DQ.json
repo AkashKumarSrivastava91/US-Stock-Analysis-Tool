@@ -1,0 +1,21 @@
+{
+  "symbol": "DQ",
+  "name": "Daqo New Energy Corp.",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1617408000,
+  "pe_ratio": null,
+  "forward_pe": 36.278862,
+  "pb_ratio": 0.37419137,
+  "dividend_yield": null,
+  "52_week_high": 36.59,
+  "52_week_low": 12.41,
+  "avg_volume_10d": 577340,
+  "avg_volume_3m": 710403,
+  "fetched_at": "2026-03-02"
+}

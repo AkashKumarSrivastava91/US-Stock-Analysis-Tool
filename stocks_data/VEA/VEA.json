@@ -1,0 +1,21 @@
+{
+  "symbol": "VEA",
+  "name": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "International",
+  "region": "International",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 19.825745,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 3.04,
+  "52_week_high": 70.55,
+  "52_week_low": 45.14,
+  "avg_volume_10d": 17867710,
+  "avg_volume_3m": 19370940,
+  "fetched_at": "2026-03-02"
+}

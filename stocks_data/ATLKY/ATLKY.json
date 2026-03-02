@@ -1,0 +1,21 @@
+{
+  "symbol": "ATLKY",
+  "name": "Atlas Copco AB (publ)",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Sweden",
+  "region": "Sweden",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 105009864704,
+  "pe_ratio": 35.93333,
+  "forward_pe": 28.955921,
+  "pb_ratio": 0.9855098,
+  "dividend_yield": 2.59,
+  "52_week_high": 22.05,
+  "52_week_low": 13.41,
+  "avg_volume_10d": 169970,
+  "avg_volume_3m": 245980,
+  "fetched_at": "2026-03-02"
+}

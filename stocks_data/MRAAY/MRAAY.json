@@ -1,0 +1,21 @@
+{
+  "symbol": "MRAAY",
+  "name": "Murata Manufacturing Co., Ltd.",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 48122937344,
+  "pe_ratio": 39.666664,
+  "forward_pe": null,
+  "pb_ratio": 1.4134468,
+  "dividend_yield": 1.53,
+  "52_week_high": 14.1,
+  "52_week_low": 6.24,
+  "avg_volume_10d": 402880,
+  "avg_volume_3m": 384372,
+  "fetched_at": "2026-03-02"
+}

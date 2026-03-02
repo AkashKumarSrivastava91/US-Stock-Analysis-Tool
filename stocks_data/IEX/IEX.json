@@ -1,0 +1,21 @@
+{
+  "symbol": "IEX",
+  "name": "IDEX Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15770428416,
+  "pe_ratio": 32.678627,
+  "forward_pe": 23.33002,
+  "pb_ratio": 3.8799365,
+  "dividend_yield": 1.36,
+  "52_week_high": 217.16,
+  "52_week_low": 153.36,
+  "avg_volume_10d": 673530,
+  "avg_volume_3m": 762496,
+  "fetched_at": "2026-03-02"
+}

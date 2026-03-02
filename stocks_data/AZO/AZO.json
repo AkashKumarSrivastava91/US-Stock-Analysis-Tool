@@ -1,0 +1,21 @@
+{
+  "symbol": "AZO",
+  "name": "AutoZone, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 62465302528,
+  "pe_ratio": 26.178585,
+  "forward_pe": 21.400406,
+  "pb_ratio": -19.292034,
+  "dividend_yield": null,
+  "52_week_high": 4388.11,
+  "52_week_low": 3210.72,
+  "avg_volume_10d": 128570,
+  "avg_volume_3m": 170201,
+  "fetched_at": "2026-03-02"
+}

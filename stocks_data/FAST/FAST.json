@@ -1,0 +1,21 @@
+{
+  "symbol": "FAST",
+  "name": "Fastenal Company",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 52862173184,
+  "pe_ratio": 42.238533,
+  "forward_pe": 34.39106,
+  "pb_ratio": 13.403203,
+  "dividend_yield": 1.95,
+  "52_week_high": 50.63,
+  "52_week_low": 35.305,
+  "avg_volume_10d": 7276020,
+  "avg_volume_3m": 8401201,
+  "fetched_at": "2026-03-02"
+}

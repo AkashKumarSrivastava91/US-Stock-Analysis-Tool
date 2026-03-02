@@ -1,0 +1,21 @@
+{
+  "symbol": "UNH",
+  "name": "UnitedHealth Group Incorporated",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 265655271424,
+  "pe_ratio": 22.167044,
+  "forward_pe": 14.644535,
+  "pb_ratio": 2.6663575,
+  "dividend_yield": 3.01,
+  "52_week_high": 606.36,
+  "52_week_low": 234.6,
+  "avg_volume_10d": 8314260,
+  "avg_volume_3m": 8943398,
+  "fetched_at": "2026-03-02"
+}

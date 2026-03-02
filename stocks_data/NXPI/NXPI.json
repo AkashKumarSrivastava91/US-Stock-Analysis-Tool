@@ -1,0 +1,21 @@
+{
+  "symbol": "NXPI",
+  "name": "NXP Semiconductors N.V.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Netherlands",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 57363800064,
+  "pe_ratio": 28.554716,
+  "forward_pe": 13.543368,
+  "pb_ratio": 5.708071,
+  "dividend_yield": 1.79,
+  "52_week_high": 256.36,
+  "52_week_low": 148.09,
+  "avg_volume_10d": 2249590,
+  "avg_volume_3m": 2991568,
+  "fetched_at": "2026-03-02"
+}

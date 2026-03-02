@@ -1,0 +1,21 @@
+{
+  "symbol": "CBRE",
+  "name": "CBRE Group, Inc.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43942584320,
+  "pe_ratio": 38.35325,
+  "forward_pe": 16.977663,
+  "pb_ratio": 4.842264,
+  "dividend_yield": null,
+  "52_week_high": 174.27,
+  "52_week_low": 108.45,
+  "avg_volume_10d": 3402410,
+  "avg_volume_3m": 1979113,
+  "fetched_at": "2026-03-02"
+}

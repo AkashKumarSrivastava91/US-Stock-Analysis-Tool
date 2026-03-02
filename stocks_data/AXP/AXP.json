@@ -1,0 +1,21 @@
+{
+  "symbol": "AXP",
+  "name": "American Express Company",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 212786266112,
+  "pe_ratio": 20.084524,
+  "forward_pe": 15.367486,
+  "pb_ratio": 6.3304367,
+  "dividend_yield": 1.06,
+  "52_week_high": 387.49,
+  "52_week_low": 220.43,
+  "avg_volume_10d": 4630710,
+  "avg_volume_3m": 3172175,
+  "fetched_at": "2026-03-02"
+}

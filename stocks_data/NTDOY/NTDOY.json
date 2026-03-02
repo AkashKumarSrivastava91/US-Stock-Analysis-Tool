@@ -1,0 +1,21 @@
+{
+  "symbol": "NTDOY",
+  "name": "Nintendo Co., Ltd.",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 65922977792,
+  "pe_ratio": 27.568628,
+  "forward_pe": 6.570093,
+  "pb_ratio": 0.85752666,
+  "dividend_yield": 1.53,
+  "52_week_high": 24.92,
+  "52_week_low": 13.47,
+  "avg_volume_10d": 2176990,
+  "avg_volume_3m": 2596590,
+  "fetched_at": "2026-03-02"
+}

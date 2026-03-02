@@ -1,0 +1,21 @@
+{
+  "symbol": "RNMBY",
+  "name": "Rheinmetall AG",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 90751410176,
+  "pe_ratio": 88.51794,
+  "forward_pe": 44.90158,
+  "pb_ratio": 3.25846,
+  "dividend_yield": 0.46,
+  "52_week_high": 468.9,
+  "52_week_low": 219.59,
+  "avg_volume_10d": 71410,
+  "avg_volume_3m": 63076,
+  "fetched_at": "2026-03-02"
+}

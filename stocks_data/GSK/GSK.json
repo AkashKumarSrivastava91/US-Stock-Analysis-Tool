@@ -1,0 +1,21 @@
+{
+  "symbol": "GSK",
+  "name": "GSK plc",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 118652755968,
+  "pe_ratio": 15.726064,
+  "forward_pe": 11.569753,
+  "pb_ratio": 10.739823,
+  "dividend_yield": 3.02,
+  "52_week_high": 61.7,
+  "52_week_low": 32.38,
+  "avg_volume_10d": 5887150,
+  "avg_volume_3m": 5013905,
+  "fetched_at": "2026-03-02"
+}

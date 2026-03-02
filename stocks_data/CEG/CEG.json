@@ -1,0 +1,21 @@
+{
+  "symbol": "CEG",
+  "name": "Constellation Energy Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 119413374976,
+  "pe_ratio": 44.638702,
+  "forward_pe": 24.23012,
+  "pb_ratio": 7.097857,
+  "dividend_yield": 0.52,
+  "52_week_high": 412.7,
+  "52_week_low": 161.35,
+  "avg_volume_10d": 4046060,
+  "avg_volume_3m": 3483176,
+  "fetched_at": "2026-03-02"
+}

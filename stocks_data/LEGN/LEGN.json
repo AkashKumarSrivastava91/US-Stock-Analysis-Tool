@@ -1,0 +1,21 @@
+{
+  "symbol": "LEGN",
+  "name": "Legend Biotech Corporation",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 3509101824,
+  "pe_ratio": null,
+  "forward_pe": 48.52757,
+  "pb_ratio": 3.4703197,
+  "dividend_yield": null,
+  "52_week_high": 45.297,
+  "52_week_low": 16.24,
+  "avg_volume_10d": 2127140,
+  "avg_volume_3m": 2623631,
+  "fetched_at": "2026-03-02"
+}

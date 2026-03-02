@@ -1,0 +1,21 @@
+{
+  "symbol": "VTEX",
+  "name": "VTEX",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "Cayman Islands",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 624133888,
+  "pe_ratio": 49.0,
+  "forward_pe": 13.4068165,
+  "pb_ratio": 2.5407407,
+  "dividend_yield": null,
+  "52_week_high": 6.82,
+  "52_week_low": 2.841,
+  "avg_volume_10d": 1017170,
+  "avg_volume_3m": 956823,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "LZAGY",
+  "name": "Lonza Group AG",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 49330606080,
+  "pe_ratio": 41.26786,
+  "forward_pe": 23.698305,
+  "pb_ratio": 0.41112292,
+  "dividend_yield": 0.69,
+  "52_week_high": 73.85,
+  "52_week_low": 55.57,
+  "avg_volume_10d": 220250,
+  "avg_volume_3m": 101905,
+  "fetched_at": "2026-03-02"
+}

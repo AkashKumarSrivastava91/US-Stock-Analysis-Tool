@@ -1,0 +1,21 @@
+{
+  "symbol": "RHHBY",
+  "name": "Roche Holding AG",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Switzerland",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 383554879488,
+  "pe_ratio": 22.903847,
+  "forward_pe": 17.628565,
+  "pb_ratio": 1.0840038,
+  "dividend_yield": 2.68,
+  "52_week_high": 60.85,
+  "52_week_low": 34.75,
+  "avg_volume_10d": 2350860,
+  "avg_volume_3m": 2719435,
+  "fetched_at": "2026-03-02"
+}

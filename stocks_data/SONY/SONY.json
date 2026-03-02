@@ -1,0 +1,21 @@
+{
+  "symbol": "SONY",
+  "name": "Sony Group Corporation",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 137514647552,
+  "pe_ratio": 17.469696,
+  "forward_pe": 19.378149,
+  "pb_ratio": 2.6276886,
+  "dividend_yield": 0.65,
+  "52_week_high": 30.34,
+  "52_week_low": 20.42,
+  "avg_volume_10d": 5500830,
+  "avg_volume_3m": 5638755,
+  "fetched_at": "2026-03-02"
+}

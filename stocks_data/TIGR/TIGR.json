@@ -1,0 +1,21 @@
+{
+  "symbol": "TIGR",
+  "name": "UP Fintech Holding Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "Singapore",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1390898816,
+  "pe_ratio": 9.536586,
+  "forward_pe": 7.858428,
+  "pb_ratio": 1.7107854,
+  "dividend_yield": null,
+  "52_week_high": 13.55,
+  "52_week_low": 6.38,
+  "avg_volume_10d": 1681900,
+  "avg_volume_3m": 3222350,
+  "fetched_at": "2026-03-02"
+}

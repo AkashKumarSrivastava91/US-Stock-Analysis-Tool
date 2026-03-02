@@ -1,0 +1,21 @@
+{
+  "symbol": "SSEZF",
+  "name": "SSE plc",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 43259809792,
+  "pe_ratio": 30.415255,
+  "forward_pe": 0.15570971,
+  "pb_ratio": 2.9640012,
+  "dividend_yield": 2.46,
+  "52_week_high": 37.86,
+  "52_week_low": 18.45,
+  "avg_volume_10d": 530,
+  "avg_volume_3m": 289,
+  "fetched_at": "2026-03-02"
+}

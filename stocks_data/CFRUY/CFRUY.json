@@ -1,0 +1,21 @@
+{
+  "symbol": "CFRUY",
+  "name": "Compagnie Financi\u00e8re Richemont SA",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 119351877632,
+  "pe_ratio": 26.363636,
+  "forward_pe": 24.94072,
+  "pb_ratio": 0.45552874,
+  "dividend_yield": 1.86,
+  "52_week_high": 22.15,
+  "52_week_low": 14.82,
+  "avg_volume_10d": 581020,
+  "avg_volume_3m": 486680,
+  "fetched_at": "2026-03-02"
+}

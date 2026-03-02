@@ -1,0 +1,21 @@
+{
+  "symbol": "SYF",
+  "name": "Synchrony Financial",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24891424768,
+  "pe_ratio": 7.4471984,
+  "forward_pe": 6.6069355,
+  "pb_ratio": 1.5445647,
+  "dividend_yield": 1.74,
+  "52_week_high": 88.77,
+  "52_week_low": 40.545,
+  "avg_volume_10d": 4886090,
+  "avg_volume_3m": 4384900,
+  "fetched_at": "2026-03-02"
+}

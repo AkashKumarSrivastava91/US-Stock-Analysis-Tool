@@ -1,0 +1,21 @@
+{
+  "symbol": "SNDK",
+  "name": "Sandisk Corporation",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 93758324736,
+  "pe_ratio": null,
+  "forward_pe": 7.8434496,
+  "pb_ratio": 9.207181,
+  "dividend_yield": null,
+  "52_week_high": 725.0,
+  "52_week_low": 27.885,
+  "avg_volume_10d": 21385330,
+  "avg_volume_3m": 15810871,
+  "fetched_at": "2026-03-02"
+}

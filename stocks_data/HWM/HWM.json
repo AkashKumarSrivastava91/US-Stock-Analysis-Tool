@@ -1,0 +1,21 @@
+{
+  "symbol": "HWM",
+  "name": "Howmet Aerospace Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 105668321280,
+  "pe_ratio": 70.954056,
+  "forward_pe": 48.072994,
+  "pb_ratio": 19.69615,
+  "dividend_yield": 0.18,
+  "52_week_high": 262.63,
+  "52_week_low": 105.04,
+  "avg_volume_10d": 2626050,
+  "avg_volume_3m": 2574448,
+  "fetched_at": "2026-03-02"
+}

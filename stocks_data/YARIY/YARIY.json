@@ -1,0 +1,21 @@
+{
+  "symbol": "YARIY",
+  "name": "Yara International ASA",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "country": "Norway",
+  "region": "Norway",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 13000004608,
+  "pe_ratio": 9.390334,
+  "forward_pe": 19.581396,
+  "pb_ratio": 0.73753977,
+  "dividend_yield": 0.98,
+  "52_week_high": 25.37,
+  "52_week_low": 13.5,
+  "avg_volume_10d": 20600,
+  "avg_volume_3m": 18276,
+  "fetched_at": "2026-03-02"
+}

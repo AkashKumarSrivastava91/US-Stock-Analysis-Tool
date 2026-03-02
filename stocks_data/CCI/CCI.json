@@ -1,0 +1,21 @@
+{
+  "symbol": "CCI",
+  "name": "Crown Castle Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 39045746688,
+  "pe_ratio": 35.531746,
+  "forward_pe": 31.97583,
+  "pb_ratio": -23.820166,
+  "dividend_yield": 4.75,
+  "52_week_high": 115.76,
+  "52_week_low": 77.01,
+  "avg_volume_10d": 3594140,
+  "avg_volume_3m": 3300535,
+  "fetched_at": "2026-03-02"
+}

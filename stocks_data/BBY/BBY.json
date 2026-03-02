@@ -1,0 +1,21 @@
+{
+  "symbol": "BBY",
+  "name": "Best Buy Co., Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13019975680,
+  "pe_ratio": 20.452147,
+  "forward_pe": 9.322231,
+  "pb_ratio": 4.9054065,
+  "dividend_yield": 6.13,
+  "52_week_high": 90.86,
+  "52_week_low": 54.99,
+  "avg_volume_10d": 4676370,
+  "avg_volume_3m": 4515550,
+  "fetched_at": "2026-03-02"
+}

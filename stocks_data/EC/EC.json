@@ -1,0 +1,21 @@
+{
+  "symbol": "EC",
+  "name": "Ecopetrol S.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Colombia",
+  "region": "Colombia",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25507983360,
+  "pe_ratio": 8.873135,
+  "forward_pe": 9.495061,
+  "pb_ratio": 0.006056911,
+  "dividend_yield": 20.11,
+  "52_week_high": 13.27,
+  "52_week_low": 7.8,
+  "avg_volume_10d": 2867090,
+  "avg_volume_3m": 2738815,
+  "fetched_at": "2026-03-02"
+}

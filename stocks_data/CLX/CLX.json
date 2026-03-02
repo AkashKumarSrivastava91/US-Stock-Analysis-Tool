@@ -1,0 +1,21 @@
+{
+  "symbol": "CLX",
+  "name": "The Clorox Company",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15511024640,
+  "pe_ratio": 20.845903,
+  "forward_pe": 18.656378,
+  "pb_ratio": -122.97872,
+  "dividend_yield": 3.9,
+  "52_week_high": 158.91,
+  "52_week_low": 96.66,
+  "avg_volume_10d": 1843910,
+  "avg_volume_3m": 2268511,
+  "fetched_at": "2026-03-02"
+}

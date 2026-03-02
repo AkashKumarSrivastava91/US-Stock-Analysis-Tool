@@ -1,0 +1,21 @@
+{
+  "symbol": "MDIBY",
+  "name": "Mediobanca Banca di Credito Finanziario S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 17749739520,
+  "pe_ratio": 12.572254,
+  "forward_pe": null,
+  "pb_ratio": 1.3170438,
+  "dividend_yield": 6.05,
+  "52_week_high": 26.11,
+  "52_week_low": 15.12,
+  "avg_volume_10d": 9020,
+  "avg_volume_3m": 5955,
+  "fetched_at": "2026-03-02"
+}

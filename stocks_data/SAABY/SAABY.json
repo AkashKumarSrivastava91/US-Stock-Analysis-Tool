@@ -1,0 +1,21 @@
+{
+  "symbol": "SAABY",
+  "name": "Saab AB (publ)",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Sweden",
+  "region": "Sweden",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 39325433856,
+  "pe_ratio": 55.75385,
+  "forward_pe": null,
+  "pb_ratio": 0.4760654,
+  "dividend_yield": 0.29,
+  "52_week_high": 40.77,
+  "52_week_low": 16.271,
+  "avg_volume_10d": 223260,
+  "avg_volume_3m": 213671,
+  "fetched_at": "2026-03-02"
+}

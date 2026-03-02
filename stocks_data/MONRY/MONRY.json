@@ -1,0 +1,21 @@
+{
+  "symbol": "MONRY",
+  "name": "Moncler S.p.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 18656088064,
+  "pe_ratio": 25.161173,
+  "forward_pe": null,
+  "pb_ratio": 4.666996,
+  "dividend_yield": 2.4,
+  "52_week_high": 70.28,
+  "52_week_low": 53.24,
+  "avg_volume_10d": 18100,
+  "avg_volume_3m": 20438,
+  "fetched_at": "2026-03-02"
+}

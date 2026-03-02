@@ -1,0 +1,21 @@
+{
+  "symbol": "ERIE",
+  "name": "Erie Indemnity Company",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 14088982528,
+  "pe_ratio": 21.729033,
+  "forward_pe": 19.231977,
+  "pb_ratio": 6.1701937,
+  "dividend_yield": 2.17,
+  "52_week_high": 456.93,
+  "52_week_low": 247.01,
+  "avg_volume_10d": 249630,
+  "avg_volume_3m": 192351,
+  "fetched_at": "2026-03-02"
+}

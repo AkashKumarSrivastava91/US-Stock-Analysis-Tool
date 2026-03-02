@@ -1,0 +1,21 @@
+{
+  "symbol": "LNT",
+  "name": "Alliant Energy Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 18601566208,
+  "pe_ratio": 23.038214,
+  "forward_pe": 19.574999,
+  "pb_ratio": 2.5362878,
+  "dividend_yield": 2.84,
+  "52_week_high": 72.4,
+  "52_week_low": 57.09,
+  "avg_volume_10d": 3918670,
+  "avg_volume_3m": 2491543,
+  "fetched_at": "2026-03-02"
+}

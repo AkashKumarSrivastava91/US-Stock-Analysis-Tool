@@ -1,0 +1,21 @@
+{
+  "symbol": "SKM",
+  "name": "SK Telecom Co., Ltd.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11643030528,
+  "pe_ratio": 29.456312,
+  "forward_pe": 13.789655,
+  "pb_ratio": 0.7207432,
+  "dividend_yield": 4.61,
+  "52_week_high": 33.71,
+  "52_week_low": 19.66,
+  "avg_volume_10d": 1890450,
+  "avg_volume_3m": 1357076,
+  "fetched_at": "2026-03-02"
+}

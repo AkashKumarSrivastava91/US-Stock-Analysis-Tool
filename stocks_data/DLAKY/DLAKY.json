@@ -1,0 +1,21 @@
+{
+  "symbol": "DLAKY",
+  "name": "Deutsche Lufthansa AG",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 12941518848,
+  "pe_ratio": 6.695652,
+  "forward_pe": 7.2985783,
+  "pb_ratio": 0.96362484,
+  "dividend_yield": 3.13,
+  "52_week_high": 11.29,
+  "52_week_low": 6.21,
+  "avg_volume_10d": 61990,
+  "avg_volume_3m": 46875,
+  "fetched_at": "2026-03-02"
+}

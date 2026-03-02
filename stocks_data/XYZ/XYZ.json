@@ -1,0 +1,21 @@
+{
+  "symbol": "XYZ",
+  "name": "Block, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38830501888,
+  "pe_ratio": 12.816902,
+  "forward_pe": 14.013676,
+  "pb_ratio": 1.7272702,
+  "dividend_yield": null,
+  "52_week_high": 82.5,
+  "52_week_low": 44.27,
+  "avg_volume_10d": 13345190,
+  "avg_volume_3m": 8049465,
+  "fetched_at": "2026-03-02"
+}

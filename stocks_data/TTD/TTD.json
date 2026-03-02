@@ -1,0 +1,21 @@
+{
+  "symbol": "TTD",
+  "name": "The Trade Desk, Inc.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 11646619648,
+  "pe_ratio": 27.068182,
+  "forward_pe": 9.955447,
+  "pb_ratio": 4.6020093,
+  "dividend_yield": null,
+  "52_week_high": 91.45,
+  "52_week_low": 21.08,
+  "avg_volume_10d": 21249540,
+  "avg_volume_3m": 14832416,
+  "fetched_at": "2026-03-02"
+}

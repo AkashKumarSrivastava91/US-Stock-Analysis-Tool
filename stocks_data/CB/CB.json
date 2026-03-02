@@ -1,0 +1,21 @@
+{
+  "symbol": "CB",
+  "name": "Chubb Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "Switzerland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 134145736704,
+  "pe_ratio": 13.278535,
+  "forward_pe": 11.773561,
+  "pb_ratio": 1.807432,
+  "dividend_yield": 1.14,
+  "52_week_high": 342.69,
+  "52_week_low": 264.1,
+  "avg_volume_10d": 1724650,
+  "avg_volume_3m": 1801890,
+  "fetched_at": "2026-03-02"
+}

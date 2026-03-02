@@ -1,0 +1,21 @@
+{
+  "symbol": "CMI",
+  "name": "Cummins Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 80670662656,
+  "pe_ratio": 28.495363,
+  "forward_pe": 18.627207,
+  "pb_ratio": 6.529451,
+  "dividend_yield": 1.34,
+  "52_week_high": 617.98,
+  "52_week_low": 260.02,
+  "avg_volume_10d": 938570,
+  "avg_volume_3m": 947608,
+  "fetched_at": "2026-03-02"
+}

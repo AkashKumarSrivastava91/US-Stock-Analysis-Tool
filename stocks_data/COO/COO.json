@@ -1,0 +1,21 @@
+{
+  "symbol": "COO",
+  "name": "The Cooper Companies, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 16634342400,
+  "pe_ratio": 44.743313,
+  "forward_pe": 16.882566,
+  "pb_ratio": 1.989443,
+  "dividend_yield": null,
+  "52_week_high": 92.84,
+  "52_week_low": 61.78,
+  "avg_volume_10d": 1758020,
+  "avg_volume_3m": 2420726,
+  "fetched_at": "2026-03-02"
+}

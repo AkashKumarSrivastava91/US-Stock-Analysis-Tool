@@ -1,0 +1,21 @@
+{
+  "symbol": "NVR",
+  "name": "NVR, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21346252800,
+  "pe_ratio": 17.211845,
+  "forward_pe": 16.419847,
+  "pb_ratio": 5.445255,
+  "dividend_yield": null,
+  "52_week_high": 8618.28,
+  "52_week_low": 6562.85,
+  "avg_volume_10d": 26710,
+  "avg_volume_3m": 26883,
+  "fetched_at": "2026-03-02"
+}

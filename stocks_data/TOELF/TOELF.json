@@ -1,0 +1,21 @@
+{
+  "symbol": "TOELF",
+  "name": "Tokyo Electron Limited",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 130840371200,
+  "pe_ratio": 37.451527,
+  "forward_pe": 33.652744,
+  "pb_ratio": 9.998177,
+  "dividend_yield": 1.44,
+  "52_week_high": 306.01,
+  "52_week_low": 112.54,
+  "avg_volume_10d": 23690,
+  "avg_volume_3m": 7335,
+  "fetched_at": "2026-03-02"
+}

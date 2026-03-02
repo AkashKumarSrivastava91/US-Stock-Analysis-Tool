@@ -1,0 +1,21 @@
+{
+  "symbol": "MRK",
+  "name": "Merck & Co., Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 306131566592,
+  "pe_ratio": 17.008242,
+  "forward_pe": 12.678409,
+  "pb_ratio": 5.8246307,
+  "dividend_yield": 2.75,
+  "52_week_high": 125.14,
+  "52_week_low": 73.31,
+  "avg_volume_10d": 10334200,
+  "avg_volume_3m": 13429318,
+  "fetched_at": "2026-03-02"
+}

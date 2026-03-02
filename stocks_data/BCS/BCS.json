@@ -1,0 +1,21 @@
+{
+  "symbol": "BCS",
+  "name": "Barclays PLC",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 83646144512,
+  "pe_ratio": 10.60262,
+  "forward_pe": 6.833739,
+  "pb_ratio": 3.8308182,
+  "dividend_yield": 1.93,
+  "52_week_high": 27.7,
+  "52_week_low": 12.14,
+  "avg_volume_10d": 8800100,
+  "avg_volume_3m": 6014258,
+  "fetched_at": "2026-03-02"
+}

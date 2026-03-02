@@ -1,0 +1,21 @@
+{
+  "symbol": "BEKE",
+  "name": "KE Holdings Inc.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18442643456,
+  "pe_ratio": 38.255814,
+  "forward_pe": 18.491833,
+  "pb_ratio": 1.8876534,
+  "dividend_yield": 2.19,
+  "52_week_high": 25.165,
+  "52_week_low": 15.26,
+  "avg_volume_10d": 3959200,
+  "avg_volume_3m": 4668595,
+  "fetched_at": "2026-03-02"
+}

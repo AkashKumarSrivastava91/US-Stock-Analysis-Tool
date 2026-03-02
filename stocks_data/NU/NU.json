@@ -1,0 +1,21 @@
+{
+  "symbol": "NU",
+  "name": "Nu Holdings Ltd.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Brazil",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 72586723328,
+  "pe_ratio": 28.807692,
+  "forward_pe": 12.834903,
+  "pb_ratio": 6.4430103,
+  "dividend_yield": null,
+  "52_week_high": 18.98,
+  "52_week_low": 9.01,
+  "avg_volume_10d": 71006160,
+  "avg_volume_3m": 47383550,
+  "fetched_at": "2026-03-02"
+}

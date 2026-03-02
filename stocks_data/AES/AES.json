@@ -1,0 +1,21 @@
+{
+  "symbol": "AES",
+  "name": "The AES Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 12305451008,
+  "pe_ratio": 11.368422,
+  "forward_pe": 7.4277534,
+  "pb_ratio": 3.1840796,
+  "dividend_yield": 4.07,
+  "52_week_high": 17.65,
+  "52_week_low": 9.46,
+  "avg_volume_10d": 10298910,
+  "avg_volume_3m": 8809048,
+  "fetched_at": "2026-03-02"
+}

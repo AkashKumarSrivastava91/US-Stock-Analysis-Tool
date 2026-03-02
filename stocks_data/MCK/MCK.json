@@ -1,0 +1,21 @@
+{
+  "symbol": "MCK",
+  "name": "McKesson Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 121867771904,
+  "pe_ratio": 28.487305,
+  "forward_pe": 22.326712,
+  "pb_ratio": -93.562965,
+  "dividend_yield": 0.33,
+  "52_week_high": 987.37,
+  "52_week_low": 621.88,
+  "avg_volume_10d": 677820,
+  "avg_volume_3m": 740580,
+  "fetched_at": "2026-03-02"
+}

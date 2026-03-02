@@ -1,0 +1,21 @@
+{
+  "symbol": "LULU",
+  "name": "lululemon athletica inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "country": "Canada",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 21959153664,
+  "pe_ratio": 12.867964,
+  "forward_pe": 14.643871,
+  "pb_ratio": 4.8495407,
+  "dividend_yield": null,
+  "52_week_high": 367.01,
+  "52_week_low": 159.25,
+  "avg_volume_10d": 1898200,
+  "avg_volume_3m": 3629473,
+  "fetched_at": "2026-03-02"
+}

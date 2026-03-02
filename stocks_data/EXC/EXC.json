@@ -1,0 +1,21 @@
+{
+  "symbol": "EXC",
+  "name": "Exelon Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 50602500096,
+  "pe_ratio": 18.12088,
+  "forward_pe": 16.295702,
+  "pb_ratio": 1.7566224,
+  "dividend_yield": 3.4,
+  "52_week_high": 49.88,
+  "52_week_low": 41.71,
+  "avg_volume_10d": 9292770,
+  "avg_volume_3m": 8020000,
+  "fetched_at": "2026-03-02"
+}

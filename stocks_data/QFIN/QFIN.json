@@ -1,0 +1,21 @@
+{
+  "symbol": "QFIN",
+  "name": "Qfin Holdings, Inc.",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 2010821376,
+  "pe_ratio": 2.0363636,
+  "forward_pe": 2.5564923,
+  "pb_ratio": 0.53465056,
+  "dividend_yield": 10.03,
+  "52_week_high": 48.94,
+  "52_week_low": 14.28,
+  "avg_volume_10d": 2366150,
+  "avg_volume_3m": 1780258,
+  "fetched_at": "2026-03-02"
+}

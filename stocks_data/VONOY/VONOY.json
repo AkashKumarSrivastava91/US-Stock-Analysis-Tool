@@ -1,0 +1,21 @@
+{
+  "symbol": "VONOY",
+  "name": "Vonovia SE",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 28726810624,
+  "pe_ratio": 8.832461,
+  "forward_pe": 16.450832,
+  "pb_ratio": 0.46073908,
+  "dividend_yield": 4.21,
+  "52_week_high": 17.8,
+  "52_week_low": 12.91,
+  "avg_volume_10d": 200320,
+  "avg_volume_3m": 158641,
+  "fetched_at": "2026-03-02"
+}

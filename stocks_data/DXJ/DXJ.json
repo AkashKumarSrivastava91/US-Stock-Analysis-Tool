@@ -1,0 +1,21 @@
+{
+  "symbol": "DXJ",
+  "name": "WisdomTree Japan Hedged Equity Fund",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 17.457945,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 1.23,
+  "52_week_high": 170.55,
+  "52_week_low": 91.58,
+  "avg_volume_10d": 590460,
+  "avg_volume_3m": 629118,
+  "fetched_at": "2026-03-02"
+}

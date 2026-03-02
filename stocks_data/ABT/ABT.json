@@ -1,0 +1,21 @@
+{
+  "symbol": "ABT",
+  "name": "Abbott Laboratories",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 202502406144,
+  "pe_ratio": 31.27688,
+  "forward_pe": 18.634903,
+  "pb_ratio": 3.8760078,
+  "dividend_yield": 2.17,
+  "52_week_high": 141.23,
+  "52_week_low": 105.27,
+  "avg_volume_10d": 8194910,
+  "avg_volume_3m": 9106585,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "SNA",
+  "name": "Snap-on Incorporated",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 20034351104,
+  "pe_ratio": 20.084463,
+  "forward_pe": 17.969027,
+  "pb_ratio": 3.3683383,
+  "dividend_yield": 2.53,
+  "52_week_high": 390.13,
+  "52_week_low": 289.81,
+  "avg_volume_10d": 333780,
+  "avg_volume_3m": 329008,
+  "fetched_at": "2026-03-02"
+}

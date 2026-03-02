@@ -1,0 +1,21 @@
+{
+  "symbol": "RBGLY",
+  "name": "Reckitt Benckiser Group plc",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 55534153728,
+  "pe_ratio": 32.0,
+  "forward_pe": 23.151304,
+  "pb_ratio": 1.2568147,
+  "dividend_yield": 0.0343,
+  "52_week_high": 17.5,
+  "52_week_low": 12.489583,
+  "avg_volume_10d": 352125,
+  "avg_volume_3m": 337286,
+  "fetched_at": "2026-03-02"
+}

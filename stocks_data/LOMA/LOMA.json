@@ -1,0 +1,21 @@
+{
+  "symbol": "LOMA",
+  "name": "Loma Negra Compa\u00f1\u00eda Industrial Argentina Sociedad An\u00f3nima",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1367207552,
+  "pe_ratio": 173.33333,
+  "forward_pe": 17.568754,
+  "pb_ratio": 1.706459,
+  "dividend_yield": null,
+  "52_week_high": 14.17,
+  "52_week_low": 7.04,
+  "avg_volume_10d": 279170,
+  "avg_volume_3m": 326381,
+  "fetched_at": "2026-03-02"
+}

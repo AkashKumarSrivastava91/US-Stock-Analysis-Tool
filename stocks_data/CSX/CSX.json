@@ -1,0 +1,21 @@
+{
+  "symbol": "CSX",
+  "name": "CSX Corporation",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 79384477696,
+  "pe_ratio": 27.72078,
+  "forward_pe": 20.45863,
+  "pb_ratio": 6.0347753,
+  "dividend_yield": 1.31,
+  "52_week_high": 42.82,
+  "52_week_low": 26.22,
+  "avg_volume_10d": 11745390,
+  "avg_volume_3m": 13269603,
+  "fetched_at": "2026-03-02"
+}

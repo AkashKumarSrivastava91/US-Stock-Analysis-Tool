@@ -1,0 +1,21 @@
+{
+  "symbol": "ADDYY",
+  "name": "adidas AG",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 33295833088,
+  "pe_ratio": 23.25187,
+  "forward_pe": 14.518164,
+  "pb_ratio": 2.4770308,
+  "dividend_yield": 1.21,
+  "52_week_high": 131.79,
+  "52_week_low": 84.03,
+  "avg_volume_10d": 61140,
+  "avg_volume_3m": 105656,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "SFTBY",
+  "name": "SoftBank Group Corp.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 148851720192,
+  "pe_ratio": 7.637427,
+  "forward_pe": null,
+  "pb_ratio": 0.75103337,
+  "dividend_yield": 0.28,
+  "52_week_high": 22.5,
+  "52_week_low": 4.965,
+  "avg_volume_10d": 2071630,
+  "avg_volume_3m": 2543426,
+  "fetched_at": "2026-03-02"
+}

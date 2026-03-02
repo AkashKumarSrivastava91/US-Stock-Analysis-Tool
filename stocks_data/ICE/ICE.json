@@ -1,0 +1,21 @@
+{
+  "symbol": "ICE",
+  "name": "Intercontinental Exchange, Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 93583409152,
+  "pe_ratio": 28.396194,
+  "forward_pe": 19.250439,
+  "pb_ratio": 3.218488,
+  "dividend_yield": 1.27,
+  "52_week_high": 189.35,
+  "52_week_low": 143.17,
+  "avg_volume_10d": 4072560,
+  "avg_volume_3m": 3807775,
+  "fetched_at": "2026-03-02"
+}

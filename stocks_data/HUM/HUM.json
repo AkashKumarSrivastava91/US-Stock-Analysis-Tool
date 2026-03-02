@@ -1,0 +1,21 @@
+{
+  "symbol": "HUM",
+  "name": "Humana Inc.",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22916831232,
+  "pe_ratio": 17.824135,
+  "forward_pe": 12.087333,
+  "pb_ratio": 1.301325,
+  "dividend_yield": 1.86,
+  "52_week_high": 315.35,
+  "52_week_low": 169.61,
+  "avg_volume_10d": 1884840,
+  "avg_volume_3m": 1958475,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "RCL",
+  "name": "Royal Caribbean Cruises Ltd.",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 84802822144,
+  "pe_ratio": 19.920563,
+  "forward_pe": 15.002023,
+  "pb_ratio": 8.3780575,
+  "dividend_yield": 1.37,
+  "52_week_high": 366.5,
+  "52_week_low": 164.01,
+  "avg_volume_10d": 2289260,
+  "avg_volume_3m": 2347358,
+  "fetched_at": "2026-03-02"
+}

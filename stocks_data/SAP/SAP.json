@@ -1,0 +1,21 @@
+{
+  "symbol": "SAP",
+  "name": "SAP SE",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "Germany",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 235144069120,
+  "pe_ratio": 27.307587,
+  "forward_pe": 19.95965,
+  "pb_ratio": 4.471733,
+  "dividend_yield": 1.47,
+  "52_week_high": 313.28,
+  "52_week_low": 189.22,
+  "avg_volume_10d": 2226650,
+  "avg_volume_3m": 2419160,
+  "fetched_at": "2026-03-02"
+}

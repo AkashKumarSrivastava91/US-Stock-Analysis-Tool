@@ -1,0 +1,21 @@
+{
+  "symbol": "MOS",
+  "name": "The Mosaic Company",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 8836656128,
+  "pe_ratio": 16.37647,
+  "forward_pe": 11.415918,
+  "pb_ratio": 0.7312076,
+  "dividend_yield": 3.16,
+  "52_week_high": 38.23,
+  "52_week_low": 22.36,
+  "avg_volume_10d": 6595200,
+  "avg_volume_3m": 7090051,
+  "fetched_at": "2026-03-02"
+}

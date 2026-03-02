@@ -1,0 +1,21 @@
+{
+  "symbol": "LHX",
+  "name": "L3Harris Technologies, Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 68188246016,
+  "pe_ratio": 42.73623,
+  "forward_pe": 26.775745,
+  "pb_ratio": 3.4689023,
+  "dividend_yield": 1.37,
+  "52_week_high": 369.59,
+  "52_week_low": 195.72,
+  "avg_volume_10d": 1256210,
+  "avg_volume_3m": 1371016,
+  "fetched_at": "2026-03-02"
+}

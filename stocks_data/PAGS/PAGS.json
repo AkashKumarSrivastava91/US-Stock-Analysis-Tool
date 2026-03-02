@@ -1,0 +1,21 @@
+{
+  "symbol": "PAGS",
+  "name": "PagSeguro Digital Ltd.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "Brazil",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 3096756992,
+  "pe_ratio": 7.471831,
+  "forward_pe": 6.347242,
+  "pb_ratio": 1.0657884,
+  "dividend_yield": 1.32,
+  "52_week_high": 12.32,
+  "52_week_low": 6.7,
+  "avg_volume_10d": 3579750,
+  "avg_volume_3m": 3934180,
+  "fetched_at": "2026-03-02"
+}

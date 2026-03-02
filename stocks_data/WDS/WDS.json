@@ -1,0 +1,21 @@
+{
+  "symbol": "WDS",
+  "name": "Woodside Energy Group Ltd",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "Australia",
+  "region": "Australia",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38934532096,
+  "pe_ratio": 14.422535,
+  "forward_pe": null,
+  "pb_ratio": 1.0841141,
+  "dividend_yield": 5.47,
+  "52_week_high": 20.51,
+  "52_week_low": 11.26,
+  "avg_volume_10d": 931350,
+  "avg_volume_3m": 945803,
+  "fetched_at": "2026-03-02"
+}

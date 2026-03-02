@@ -1,0 +1,21 @@
+{
+  "symbol": "MHVYF",
+  "name": "Mitsubishi Heavy Industries, Ltd.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 106616471552,
+  "pe_ratio": 61.019234,
+  "forward_pe": 51.177418,
+  "pb_ratio": 6.232458,
+  "dividend_yield": 0.53,
+  "52_week_high": 34.5,
+  "52_week_low": 13.36,
+  "avg_volume_10d": 43150,
+  "avg_volume_3m": 27144,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "KNBWY",
+  "name": "Kirin Holdings Company, Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "Japan",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 14048007168,
+  "pe_ratio": 14.820514,
+  "forward_pe": 15.908257,
+  "pb_ratio": 1.7012719,
+  "dividend_yield": 2.83,
+  "52_week_high": 17.78,
+  "52_week_low": 13.15,
+  "avg_volume_10d": 27130,
+  "avg_volume_3m": 26101,
+  "fetched_at": "2026-03-02"
+}

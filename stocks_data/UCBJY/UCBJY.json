@@ -1,0 +1,21 @@
+{
+  "symbol": "UCBJY",
+  "name": "UCB SA",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "Belgium",
+  "region": "Belgium",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 56645472256,
+  "pe_ratio": 36.807407,
+  "forward_pe": 24.590405,
+  "pb_ratio": 2.205514,
+  "dividend_yield": 0.53,
+  "52_week_high": 168.76,
+  "52_week_low": 71.155,
+  "avg_volume_10d": 34600,
+  "avg_volume_3m": 26708,
+  "fetched_at": "2026-03-02"
+}

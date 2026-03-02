@@ -1,0 +1,21 @@
+{
+  "symbol": "CCL",
+  "name": "Carnival Corporation & plc",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43612102656,
+  "pe_ratio": 15.618812,
+  "forward_pe": 11.145888,
+  "pb_ratio": 3.3696463,
+  "dividend_yield": 0.48,
+  "52_week_high": 34.03,
+  "52_week_low": 15.07,
+  "avg_volume_10d": 18786250,
+  "avg_volume_3m": 20232148,
+  "fetched_at": "2026-03-02"
+}

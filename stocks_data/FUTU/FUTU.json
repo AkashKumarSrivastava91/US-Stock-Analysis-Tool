@@ -1,0 +1,21 @@
+{
+  "symbol": "FUTU",
+  "name": "Futu Holdings Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "Hong Kong",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 20722620416,
+  "pe_ratio": 16.723597,
+  "forward_pe": 12.755438,
+  "pb_ratio": 4.450989,
+  "dividend_yield": null,
+  "52_week_high": 202.53,
+  "52_week_low": 70.6,
+  "avg_volume_10d": 1482330,
+  "avg_volume_3m": 1391695,
+  "fetched_at": "2026-03-02"
+}

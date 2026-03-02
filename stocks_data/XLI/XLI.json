@@ -1,0 +1,21 @@
+{
+  "symbol": "XLI",
+  "name": "State Street Industrial Select Sector SPDR ETF",
+  "sector": "Industrials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 24201928704,
+  "pe_ratio": 32.70374,
+  "forward_pe": null,
+  "pb_ratio": 1.8005326,
+  "dividend_yield": 1.21,
+  "52_week_high": 178.22,
+  "52_week_low": 112.75,
+  "avg_volume_10d": 12012560,
+  "avg_volume_3m": 10703641,
+  "fetched_at": "2026-03-02"
+}

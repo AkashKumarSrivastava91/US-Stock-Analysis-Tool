@@ -1,0 +1,21 @@
+{
+  "symbol": "BABA",
+  "name": "Alibaba Group Holding Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "Hong Kong",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 344038047744,
+  "pe_ratio": 18.936924,
+  "forward_pe": 16.308266,
+  "pb_ratio": 2.2145383,
+  "dividend_yield": 0.73,
+  "52_week_high": 192.67,
+  "52_week_low": 95.73,
+  "avg_volume_10d": 8193910,
+  "avg_volume_3m": 10613586,
+  "fetched_at": "2026-03-02"
+}

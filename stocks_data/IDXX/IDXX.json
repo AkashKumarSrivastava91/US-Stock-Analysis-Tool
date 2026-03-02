@@ -1,0 +1,21 @@
+{
+  "symbol": "IDXX",
+  "name": "IDEXX Laboratories, Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 52541480960,
+  "pe_ratio": 50.24713,
+  "forward_pe": 40.04297,
+  "pb_ratio": 32.608242,
+  "dividend_yield": null,
+  "52_week_high": 769.98,
+  "52_week_low": 356.14,
+  "avg_volume_10d": 496620,
+  "avg_volume_3m": 512620,
+  "fetched_at": "2026-03-02"
+}

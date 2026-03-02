@@ -1,0 +1,21 @@
+{
+  "symbol": "AMT",
+  "name": "American Tower Corporation",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 89838682112,
+  "pe_ratio": 30.599682,
+  "forward_pe": 27.894737,
+  "pb_ratio": 24.493807,
+  "dividend_yield": 3.54,
+  "52_week_high": 234.33,
+  "52_week_low": 166.88,
+  "avg_volume_10d": 3174720,
+  "avg_volume_3m": 3284181,
+  "fetched_at": "2026-03-02"
+}

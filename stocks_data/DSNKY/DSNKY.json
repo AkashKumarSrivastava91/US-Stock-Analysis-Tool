@@ -1,0 +1,21 @@
+{
+  "symbol": "DSNKY",
+  "name": "Daiichi Sankyo Company, Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 36081717248,
+  "pe_ratio": 20.322918,
+  "forward_pe": null,
+  "pb_ratio": 3.2906163,
+  "dividend_yield": 2.34,
+  "52_week_high": 28.21,
+  "52_week_low": 17.8,
+  "avg_volume_10d": 312970,
+  "avg_volume_3m": 528278,
+  "fetched_at": "2026-03-02"
+}

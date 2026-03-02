@@ -1,0 +1,21 @@
+{
+  "symbol": "EWC",
+  "name": "iShares MSCI Canada ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 5496503808,
+  "pe_ratio": 21.469936,
+  "forward_pe": null,
+  "pb_ratio": 1.7897823,
+  "dividend_yield": 1.44,
+  "52_week_high": 58.78,
+  "52_week_low": 36.7,
+  "avg_volume_10d": 2278030,
+  "avg_volume_3m": 2515770,
+  "fetched_at": "2026-03-02"
+}

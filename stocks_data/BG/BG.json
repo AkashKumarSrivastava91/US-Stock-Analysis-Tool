@@ -1,0 +1,21 @@
+{
+  "symbol": "BG",
+  "name": "Bunge Global SA",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 23329009664,
+  "pe_ratio": 28.522459,
+  "forward_pe": 12.138694,
+  "pb_ratio": 1.467226,
+  "dividend_yield": 2.32,
+  "52_week_high": 124.78,
+  "52_week_low": 68.33,
+  "avg_volume_10d": 1439540,
+  "avg_volume_3m": 1553375,
+  "fetched_at": "2026-03-02"
+}

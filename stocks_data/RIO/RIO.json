@@ -1,0 +1,21 @@
+{
+  "symbol": "RIO",
+  "name": "Rio Tinto Group",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "country": "United Kingdom",
+  "region": "Australia",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 165003493376,
+  "pe_ratio": 16.338816,
+  "forward_pe": 11.124051,
+  "pb_ratio": 2.595021,
+  "dividend_yield": 4.05,
+  "52_week_high": 101.53,
+  "52_week_low": 51.67,
+  "avg_volume_10d": 3362610,
+  "avg_volume_3m": 3913286,
+  "fetched_at": "2026-03-02"
+}

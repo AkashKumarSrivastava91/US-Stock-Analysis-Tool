@@ -1,0 +1,21 @@
+{
+  "symbol": "COST",
+  "name": "Costco Wholesale Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 448747995136,
+  "pe_ratio": 54.052937,
+  "forward_pe": 45.32865,
+  "pb_ratio": 14.807506,
+  "dividend_yield": 0.51,
+  "52_week_high": 1067.08,
+  "52_week_low": 844.06,
+  "avg_volume_10d": 2018400,
+  "avg_volume_3m": 2649105,
+  "fetched_at": "2026-03-02"
+}

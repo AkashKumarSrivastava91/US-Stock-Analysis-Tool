@@ -1,0 +1,21 @@
+{
+  "symbol": "STZ",
+  "name": "Constellation Brands, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27482458112,
+  "pe_ratio": 24.742947,
+  "forward_pe": 12.771638,
+  "pb_ratio": 3.5496492,
+  "dividend_yield": 2.58,
+  "52_week_high": 196.91,
+  "52_week_low": 126.45,
+  "avg_volume_10d": 2500610,
+  "avg_volume_3m": 2640941,
+  "fetched_at": "2026-03-02"
+}

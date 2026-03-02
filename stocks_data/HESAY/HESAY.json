@@ -1,0 +1,21 @@
+{
+  "symbol": "HESAY",
+  "name": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 253932716032,
+  "pe_ratio": 47.34774,
+  "forward_pe": 37.0007,
+  "pb_ratio": 1.1364737,
+  "dividend_yield": 0.72,
+  "52_week_high": 294.72,
+  "52_week_low": 232.01,
+  "avg_volume_10d": 54280,
+  "avg_volume_3m": 44030,
+  "fetched_at": "2026-03-02"
+}

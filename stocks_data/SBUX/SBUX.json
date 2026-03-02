@@ -1,0 +1,21 @@
+{
+  "symbol": "SBUX",
+  "name": "Starbucks Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 111674179584,
+  "pe_ratio": 81.68333,
+  "forward_pe": 33.1414,
+  "pb_ratio": -13.3107,
+  "dividend_yield": 2.53,
+  "52_week_high": 117.46,
+  "52_week_low": 75.5,
+  "avg_volume_10d": 7220270,
+  "avg_volume_3m": 9502160,
+  "fetched_at": "2026-03-02"
+}

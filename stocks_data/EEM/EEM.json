@@ -1,0 +1,21 @@
+{
+  "symbol": "EEM",
+  "name": "iShares MSCI Emerging Markets ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Emerging Markets",
+  "region": "Emerging Markets",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 47085195264,
+  "pe_ratio": 16.871944,
+  "forward_pe": null,
+  "pb_ratio": 1.190662,
+  "dividend_yield": 2.05,
+  "52_week_high": 65.96,
+  "52_week_low": 38.19,
+  "avg_volume_10d": 41244660,
+  "avg_volume_3m": 35757260,
+  "fetched_at": "2026-03-02"
+}

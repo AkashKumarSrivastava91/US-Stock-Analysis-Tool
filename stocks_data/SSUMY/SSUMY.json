@@ -1,0 +1,21 @@
+{
+  "symbol": "SSUMY",
+  "name": "Sumitomo Corporation",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 50884845568,
+  "pe_ratio": 13.223603,
+  "forward_pe": 14.482993,
+  "pb_ratio": 1.7453581,
+  "dividend_yield": 2.09,
+  "52_week_high": 44.15,
+  "52_week_low": 19.18,
+  "avg_volume_10d": 92160,
+  "avg_volume_3m": 96705,
+  "fetched_at": "2026-03-02"
+}

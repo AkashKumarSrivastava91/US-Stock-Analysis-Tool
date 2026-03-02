@@ -1,0 +1,21 @@
+{
+  "symbol": "NTRS",
+  "name": "Northern Trust Corporation",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 27060805632,
+  "pe_ratio": 16.390608,
+  "forward_pe": 12.850033,
+  "pb_ratio": 2.2084856,
+  "dividend_yield": 2.2,
+  "52_week_high": 157.6,
+  "52_week_low": 81.62,
+  "avg_volume_10d": 1069160,
+  "avg_volume_3m": 1063018,
+  "fetched_at": "2026-03-02"
+}

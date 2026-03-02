@@ -1,0 +1,21 @@
+{
+  "symbol": "ZLNDY",
+  "name": "Zalando SE",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 6288912896,
+  "pe_ratio": 22.444443,
+  "forward_pe": null,
+  "pb_ratio": 0.8931044,
+  "dividend_yield": null,
+  "52_week_high": 20.64,
+  "52_week_low": 11.79,
+  "avg_volume_10d": 58730,
+  "avg_volume_3m": 38845,
+  "fetched_at": "2026-03-02"
+}

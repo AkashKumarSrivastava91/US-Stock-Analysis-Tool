@@ -1,0 +1,21 @@
+{
+  "symbol": "COR",
+  "name": "Cencora, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 72392654848,
+  "pe_ratio": 44.621105,
+  "forward_pe": 18.963959,
+  "pb_ratio": 37.93476,
+  "dividend_yield": 0.64,
+  "52_week_high": 377.54,
+  "52_week_low": 248.59,
+  "avg_volume_10d": 961730,
+  "avg_volume_3m": 1315013,
+  "fetched_at": "2026-03-02"
+}

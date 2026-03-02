@@ -1,0 +1,21 @@
+{
+  "symbol": "TRGP",
+  "name": "Targa Resources Corp.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 50742239232,
+  "pe_ratio": 31.736206,
+  "forward_pe": 21.342476,
+  "pb_ratio": 16.498741,
+  "dividend_yield": 1.7,
+  "52_week_high": 237.5,
+  "52_week_low": 144.14,
+  "avg_volume_10d": 1670910,
+  "avg_volume_3m": 1436480,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "GBOOY",
+  "name": "Grupo Financiero Banorte, S.A.B. de C.V.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Mexico",
+  "region": "Mexico",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 31647451136,
+  "pe_ratio": 9.089314,
+  "forward_pe": 8.1120825,
+  "pb_ratio": 11.109478,
+  "dividend_yield": 7.79,
+  "52_week_high": 62.89,
+  "52_week_low": 32.0,
+  "avg_volume_10d": 39060,
+  "avg_volume_3m": 54355,
+  "fetched_at": "2026-03-02"
+}

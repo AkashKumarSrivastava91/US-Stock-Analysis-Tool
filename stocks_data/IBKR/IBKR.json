@@ -1,0 +1,21 @@
+{
+  "symbol": "IBKR",
+  "name": "Interactive Brokers Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 121018556416,
+  "pe_ratio": 32.06757,
+  "forward_pe": 25.854462,
+  "pb_ratio": 5.911809,
+  "dividend_yield": 0.45,
+  "52_week_high": 79.18,
+  "52_week_low": 32.82,
+  "avg_volume_10d": 3983670,
+  "avg_volume_3m": 4497023,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ED",
+  "name": "Consolidated Edison, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 40612474880,
+  "pe_ratio": 19.67133,
+  "forward_pe": 17.420977,
+  "pb_ratio": 1.6797539,
+  "dividend_yield": 3.06,
+  "52_week_high": 115.25,
+  "52_week_low": 94.96,
+  "avg_volume_10d": 3315900,
+  "avg_volume_3m": 2153871,
+  "fetched_at": "2026-03-02"
+}

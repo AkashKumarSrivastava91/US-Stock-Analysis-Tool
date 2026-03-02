@@ -1,0 +1,21 @@
+{
+  "symbol": "REG",
+  "name": "Regency Centers Corporation",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 14752835584,
+  "pe_ratio": 28.014185,
+  "forward_pe": 30.869505,
+  "pb_ratio": 2.1565845,
+  "dividend_yield": 3.82,
+  "52_week_high": 79.08,
+  "52_week_low": 63.44,
+  "avg_volume_10d": 1204850,
+  "avg_volume_3m": 1318411,
+  "fetched_at": "2026-03-02"
+}

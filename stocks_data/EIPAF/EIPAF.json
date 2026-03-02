@@ -1,0 +1,21 @@
+{
+  "symbol": "EIPAF",
+  "name": "Eni S.p.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 72646467584,
+  "pe_ratio": 25.453608,
+  "forward_pe": null,
+  "pb_ratio": 1.2972575,
+  "dividend_yield": 4.98,
+  "52_week_high": 24.69,
+  "52_week_low": 12.56,
+  "avg_volume_10d": 131320,
+  "avg_volume_3m": 22550,
+  "fetched_at": "2026-03-02"
+}

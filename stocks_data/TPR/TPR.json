@@ -1,0 +1,21 @@
+{
+  "symbol": "TPR",
+  "name": "Tapestry, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 31816898560,
+  "pe_ratio": 60.259693,
+  "forward_pe": 21.628262,
+  "pb_ratio": 57.179108,
+  "dividend_yield": 1.03,
+  "52_week_high": 161.97,
+  "52_week_low": 58.39,
+  "avg_volume_10d": 2270220,
+  "avg_volume_3m": 2564903,
+  "fetched_at": "2026-03-02"
+}

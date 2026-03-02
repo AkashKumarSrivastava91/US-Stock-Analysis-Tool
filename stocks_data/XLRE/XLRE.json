@@ -1,0 +1,21 @@
+{
+  "symbol": "XLRE",
+  "name": "State Street Real Estate Select Sector SPDR ETF",
+  "sector": "Real Estate",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 34.992405,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 3.36,
+  "52_week_high": 44.025,
+  "52_week_low": 35.76,
+  "avg_volume_10d": 9322670,
+  "avg_volume_3m": 8878135,
+  "fetched_at": "2026-03-02"
+}

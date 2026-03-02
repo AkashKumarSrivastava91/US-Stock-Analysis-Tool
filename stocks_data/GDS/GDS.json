@@ -1,0 +1,21 @@
+{
+  "symbol": "GDS",
+  "name": "GDS Holdings Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 8277599744,
+  "pe_ratio": 58.1831,
+  "forward_pe": 785.1093,
+  "pb_ratio": 2.1277795,
+  "dividend_yield": null,
+  "52_week_high": 48.61,
+  "52_week_low": 16.925,
+  "avg_volume_10d": 1815920,
+  "avg_volume_3m": 2038096,
+  "fetched_at": "2026-03-02"
+}

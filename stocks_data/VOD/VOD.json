@@ -1,0 +1,21 @@
+{
+  "symbol": "VOD",
+  "name": "Vodafone Group Public Limited Company",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 35727982592,
+  "pe_ratio": null,
+  "forward_pe": 16.946566,
+  "pb_ratio": 6.039426,
+  "dividend_yield": 3.46,
+  "52_week_high": 15.91,
+  "52_week_low": 8.05,
+  "avg_volume_10d": 4332980,
+  "avg_volume_3m": 4682605,
+  "fetched_at": "2026-03-02"
+}

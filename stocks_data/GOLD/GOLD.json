@@ -1,0 +1,21 @@
+{
+  "symbol": "GOLD",
+  "name": "Gold.com, Inc.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "United States",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1617058688,
+  "pe_ratio": 119.72917,
+  "forward_pe": null,
+  "pb_ratio": 2.1884162,
+  "dividend_yield": 1.39,
+  "52_week_high": 66.7,
+  "52_week_low": 19.39,
+  "avg_volume_10d": 767420,
+  "avg_volume_3m": 805281,
+  "fetched_at": "2026-03-02"
+}

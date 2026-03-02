@@ -1,0 +1,21 @@
+{
+  "symbol": "WYNN",
+  "name": "Wynn Resorts, Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 11249220608,
+  "pe_ratio": 34.455414,
+  "forward_pe": 18.085955,
+  "pb_ratio": -30.10295,
+  "dividend_yield": 0.92,
+  "52_week_high": 134.72,
+  "52_week_low": 65.25,
+  "avg_volume_10d": 1892140,
+  "avg_volume_3m": 1440121,
+  "fetched_at": "2026-03-02"
+}

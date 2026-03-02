@@ -1,0 +1,21 @@
+{
+  "symbol": "RNLSY",
+  "name": "Renault SA",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 11383152640,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.09166315,
+  "dividend_yield": 6.28,
+  "52_week_high": 11.2,
+  "52_week_low": 7.09,
+  "avg_volume_10d": 69240,
+  "avg_volume_3m": 57416,
+  "fetched_at": "2026-03-02"
+}

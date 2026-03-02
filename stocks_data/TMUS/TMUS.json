@@ -1,0 +1,21 @@
+{
+  "symbol": "TMUS",
+  "name": "T-Mobile US, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 242816598016,
+  "pe_ratio": 22.311409,
+  "forward_pe": 15.445145,
+  "pb_ratio": 4.058971,
+  "dividend_yield": 1.88,
+  "52_week_high": 276.49,
+  "52_week_low": 181.36,
+  "avg_volume_10d": 6294840,
+  "avg_volume_3m": 6084493,
+  "fetched_at": "2026-03-02"
+}

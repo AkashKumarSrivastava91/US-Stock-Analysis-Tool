@@ -1,0 +1,21 @@
+{
+  "symbol": "HSY",
+  "name": "The Hershey Company",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 47914065920,
+  "pe_ratio": 54.31724,
+  "forward_pe": 24.13059,
+  "pb_ratio": 10.3364105,
+  "dividend_yield": 2.46,
+  "52_week_high": 236.78,
+  "52_week_low": 150.04,
+  "avg_volume_10d": 2061370,
+  "avg_volume_3m": 1923511,
+  "fetched_at": "2026-03-02"
+}

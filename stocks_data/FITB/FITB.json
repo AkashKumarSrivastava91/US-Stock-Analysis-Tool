@@ -1,0 +1,21 @@
+{
+  "symbol": "FITB",
+  "name": "Fifth Third Bancorp",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 44525395968,
+  "pe_ratio": 14.014165,
+  "forward_pe": 9.991659,
+  "pb_ratio": 1.6392193,
+  "dividend_yield": 3.23,
+  "52_week_high": 55.44,
+  "52_week_low": 32.25,
+  "avg_volume_10d": 9963790,
+  "avg_volume_3m": 11162925,
+  "fetched_at": "2026-03-02"
+}

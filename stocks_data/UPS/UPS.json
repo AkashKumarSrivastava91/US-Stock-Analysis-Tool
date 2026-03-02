@@ -1,0 +1,21 @@
+{
+  "symbol": "UPS",
+  "name": "United Parcel Service, Inc.",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 98461835264,
+  "pe_ratio": 17.676828,
+  "forward_pe": 14.561034,
+  "pb_ratio": 6.0670743,
+  "dividend_yield": 5.66,
+  "52_week_high": 123.7,
+  "52_week_low": 82.0,
+  "avg_volume_10d": 4677560,
+  "avg_volume_3m": 6027600,
+  "fetched_at": "2026-03-02"
+}

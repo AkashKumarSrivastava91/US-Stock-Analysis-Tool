@@ -1,0 +1,21 @@
+{
+  "symbol": "EQIX",
+  "name": "Equinix, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 95725846528,
+  "pe_ratio": 70.906845,
+  "forward_pe": 55.315266,
+  "pb_ratio": 6.7602487,
+  "dividend_yield": 1.97,
+  "52_week_high": 992.9,
+  "52_week_low": 701.41,
+  "avg_volume_10d": 778720,
+  "avg_volume_3m": 633350,
+  "fetched_at": "2026-03-02"
+}

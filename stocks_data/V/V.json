@@ -1,0 +1,21 @@
+{
+  "symbol": "V",
+  "name": "Visa Inc.",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 617242624000,
+  "pe_ratio": 30.031897,
+  "forward_pe": 22.039133,
+  "pb_ratio": 15.979835,
+  "dividend_yield": 0.84,
+  "52_week_high": 375.51,
+  "52_week_low": 299.0,
+  "avg_volume_10d": 9105710,
+  "avg_volume_3m": 7804361,
+  "fetched_at": "2026-03-02"
+}

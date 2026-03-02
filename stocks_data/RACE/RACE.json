@@ -1,0 +1,21 @@
+{
+  "symbol": "RACE",
+  "name": "Ferrari N.V.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Italy",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 67862937600,
+  "pe_ratio": 35.84151,
+  "forward_pe": 30.344995,
+  "pb_ratio": 14.607361,
+  "dividend_yield": 1.13,
+  "52_week_high": 519.1,
+  "52_week_low": 328.0,
+  "avg_volume_10d": 658470,
+  "avg_volume_3m": 742616,
+  "fetched_at": "2026-03-02"
+}

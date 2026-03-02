@@ -1,0 +1,21 @@
+{
+  "symbol": "CRZBY",
+  "name": "Commerzbank AG",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 45956743168,
+  "pe_ratio": 14.821817,
+  "forward_pe": null,
+  "pb_ratio": 1.6734271,
+  "dividend_yield": 1.79,
+  "52_week_high": 44.85,
+  "52_week_low": 21.45,
+  "avg_volume_10d": 66230,
+  "avg_volume_3m": 41377,
+  "fetched_at": "2026-03-02"
+}

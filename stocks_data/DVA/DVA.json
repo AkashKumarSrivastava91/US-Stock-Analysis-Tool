@@ -1,0 +1,21 @@
+{
+  "symbol": "DVA",
+  "name": "DaVita Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 10448498688,
+  "pe_ratio": 16.452631,
+  "forward_pe": 9.623786,
+  "pb_ratio": -16.456097,
+  "dividend_yield": null,
+  "52_week_high": 157.91,
+  "52_week_low": 101.0,
+  "avg_volume_10d": 848340,
+  "avg_volume_3m": 1042823,
+  "fetched_at": "2026-03-02"
+}

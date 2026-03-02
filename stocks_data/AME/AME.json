@@ -1,0 +1,21 @@
+{
+  "symbol": "AME",
+  "name": "AMETEK, Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 55069372416,
+  "pe_ratio": 37.319813,
+  "forward_pe": 27.469368,
+  "pb_ratio": 5.1549373,
+  "dividend_yield": 0.57,
+  "52_week_high": 239.94,
+  "52_week_low": 145.02,
+  "avg_volume_10d": 1150670,
+  "avg_volume_3m": 1351311,
+  "fetched_at": "2026-03-02"
+}

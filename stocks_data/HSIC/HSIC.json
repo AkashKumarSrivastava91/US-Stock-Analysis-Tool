@@ -1,0 +1,21 @@
+{
+  "symbol": "HSIC",
+  "name": "Henry Schein, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 9991303168,
+  "pe_ratio": 25.990536,
+  "forward_pe": 13.940755,
+  "pb_ratio": 2.9394555,
+  "dividend_yield": null,
+  "52_week_high": 89.29,
+  "52_week_low": 60.56,
+  "avg_volume_10d": 1974080,
+  "avg_volume_3m": 1354090,
+  "fetched_at": "2026-03-02"
+}

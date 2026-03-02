@@ -1,0 +1,21 @@
+{
+  "symbol": "LYG",
+  "name": "Lloyds Banking Group plc",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 81575124992,
+  "pe_ratio": 15.0,
+  "forward_pe": 10.431351,
+  "pb_ratio": 5.7941604,
+  "dividend_yield": 3.6,
+  "52_week_high": 6.34,
+  "52_week_low": 3.27,
+  "avg_volume_10d": 25163320,
+  "avg_volume_3m": 13096316,
+  "fetched_at": "2026-03-02"
+}

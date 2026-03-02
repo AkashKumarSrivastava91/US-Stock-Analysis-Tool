@@ -1,0 +1,21 @@
+{
+  "symbol": "KUBTY",
+  "name": "Kubota Corporation",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23444160512,
+  "pe_ratio": 19.435947,
+  "forward_pe": 15.495427,
+  "pb_ratio": 6.8339477,
+  "dividend_yield": 1.63,
+  "52_week_high": 107.97,
+  "52_week_low": 51.65,
+  "avg_volume_10d": 125020,
+  "avg_volume_3m": 54562,
+  "fetched_at": "2026-03-02"
+}

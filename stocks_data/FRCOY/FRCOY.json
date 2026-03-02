@@ -1,0 +1,21 @@
+{
+  "symbol": "FRCOY",
+  "name": "Fast Retailing Co., Ltd.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 135465353216,
+  "pe_ratio": 49.055557,
+  "forward_pe": 47.473118,
+  "pb_ratio": 0.83897716,
+  "dividend_yield": 0.77,
+  "52_week_high": 45.83,
+  "52_week_low": 28.46,
+  "avg_volume_10d": 59610,
+  "avg_volume_3m": 62862,
+  "fetched_at": "2026-03-02"
+}

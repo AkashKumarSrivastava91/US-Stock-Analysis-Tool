@@ -1,0 +1,21 @@
+{
+  "symbol": "NOW",
+  "name": "ServiceNow, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 113965998080,
+  "pe_ratio": 64.67665,
+  "forward_pe": 21.558496,
+  "pb_ratio": 8.725261,
+  "dividend_yield": null,
+  "52_week_high": 211.478,
+  "52_week_low": 98.0,
+  "avg_volume_10d": 20096170,
+  "avg_volume_3m": 16444800,
+  "fetched_at": "2026-03-02"
+}

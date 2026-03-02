@@ -1,0 +1,21 @@
+{
+  "symbol": "GE",
+  "name": "GE Aerospace",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 361020620800,
+  "pe_ratio": 42.569653,
+  "forward_pe": 40.13575,
+  "pb_ratio": 19.218372,
+  "dividend_yield": 0.55,
+  "52_week_high": 348.48,
+  "52_week_low": 159.36,
+  "avg_volume_10d": 5175470,
+  "avg_volume_3m": 5384938,
+  "fetched_at": "2026-03-02"
+}

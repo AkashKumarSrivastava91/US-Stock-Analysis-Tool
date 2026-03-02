@@ -1,0 +1,21 @@
+{
+  "symbol": "ARCO",
+  "name": "Arcos Dorados Holdings Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "Uruguay",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1853834880,
+  "pe_ratio": 7.521368,
+  "forward_pe": 12.876227,
+  "pb_ratio": 2.4893918,
+  "dividend_yield": 2.73,
+  "52_week_high": 8.98,
+  "52_week_low": 6.51,
+  "avg_volume_10d": 1374360,
+  "avg_volume_3m": 1267828,
+  "fetched_at": "2026-03-02"
+}

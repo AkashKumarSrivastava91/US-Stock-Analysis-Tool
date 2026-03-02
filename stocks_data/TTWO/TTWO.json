@@ -1,0 +1,21 @@
+{
+  "symbol": "TTWO",
+  "name": "Take-Two Interactive Software, Inc.",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 39160905728,
+  "pe_ratio": null,
+  "forward_pe": 27.019878,
+  "pb_ratio": 11.198305,
+  "dividend_yield": null,
+  "52_week_high": 264.79,
+  "52_week_low": 188.56,
+  "avg_volume_10d": 2150740,
+  "avg_volume_3m": 2058040,
+  "fetched_at": "2026-03-02"
+}

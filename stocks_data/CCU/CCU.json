@@ -1,0 +1,21 @@
+{
+  "symbol": "CCU",
+  "name": "Compa\u00f1\u00eda Cervecer\u00edas Unidas S.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "Chile",
+  "region": "Chile",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 2469758720,
+  "pe_ratio": 18.027027,
+  "forward_pe": 14.004662,
+  "pb_ratio": 0.0033290742,
+  "dividend_yield": 2.96,
+  "52_week_high": 15.75,
+  "52_week_low": 11.35,
+  "avg_volume_10d": 220420,
+  "avg_volume_3m": 191290,
+  "fetched_at": "2026-03-02"
+}

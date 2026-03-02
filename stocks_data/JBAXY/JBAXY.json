@@ -1,0 +1,21 @@
+{
+  "symbol": "JBAXY",
+  "name": "Julius B\u00e4r Gruppe AG",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 17330995200,
+  "pe_ratio": 15.522935,
+  "forward_pe": 11.0129,
+  "pb_ratio": 0.37111008,
+  "dividend_yield": 3.94,
+  "52_week_high": 17.7,
+  "52_week_low": 11.05,
+  "avg_volume_10d": 68660,
+  "avg_volume_3m": 67751,
+  "fetched_at": "2026-03-02"
+}

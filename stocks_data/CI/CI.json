@@ -1,0 +1,21 @@
+{
+  "symbol": "CI",
+  "name": "The Cigna Group",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 77418405888,
+  "pe_ratio": 13.072621,
+  "forward_pe": 8.657942,
+  "pb_ratio": 1.8305385,
+  "dividend_yield": 2.15,
+  "52_week_high": 350.0,
+  "52_week_low": 239.51,
+  "avg_volume_10d": 1496740,
+  "avg_volume_3m": 1666695,
+  "fetched_at": "2026-03-02"
+}

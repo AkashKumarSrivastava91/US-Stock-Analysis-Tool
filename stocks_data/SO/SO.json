@@ -1,0 +1,21 @@
+{
+  "symbol": "SO",
+  "name": "The Southern Company",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 107225587712,
+  "pe_ratio": 24.22388,
+  "forward_pe": 19.816647,
+  "pb_ratio": 3.026197,
+  "dividend_yield": 3.04,
+  "52_week_high": 100.84,
+  "52_week_low": 83.09,
+  "avg_volume_10d": 8607770,
+  "avg_volume_3m": 6342668,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "SYIEY",
+  "name": "Symrise AG",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 12928650240,
+  "pe_ratio": 21.3271,
+  "forward_pe": 5.042079,
+  "pb_ratio": 0.7263385,
+  "dividend_yield": 1.49,
+  "52_week_high": 30.58,
+  "52_week_low": 19.31,
+  "avg_volume_10d": 91810,
+  "avg_volume_3m": 263764,
+  "fetched_at": "2026-03-02"
+}

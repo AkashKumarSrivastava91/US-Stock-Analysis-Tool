@@ -1,0 +1,21 @@
+{
+  "symbol": "IBM",
+  "name": "International Business Machines Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 224532758528,
+  "pe_ratio": 21.543499,
+  "forward_pe": 17.90178,
+  "pb_ratio": 6.893672,
+  "dividend_yield": 2.8,
+  "52_week_high": 324.9,
+  "52_week_low": 214.5,
+  "avg_volume_10d": 8082540,
+  "avg_volume_3m": 5199118,
+  "fetched_at": "2026-03-02"
+}

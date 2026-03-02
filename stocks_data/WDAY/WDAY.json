@@ -1,0 +1,21 @@
+{
+  "symbol": "WDAY",
+  "name": "Workday, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 35713916928,
+  "pe_ratio": 56.43882,
+  "forward_pe": 10.706333,
+  "pb_ratio": 4.477622,
+  "dividend_yield": null,
+  "52_week_high": 276.0,
+  "52_week_low": 117.76,
+  "avg_volume_10d": 8167040,
+  "avg_volume_3m": 4320026,
+  "fetched_at": "2026-03-02"
+}

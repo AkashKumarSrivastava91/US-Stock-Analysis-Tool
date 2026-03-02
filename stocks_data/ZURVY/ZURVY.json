@@ -1,0 +1,21 @@
+{
+  "symbol": "ZURVY",
+  "name": "Zurich Insurance Group AG",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 109074481152,
+  "pe_ratio": 18.546799,
+  "forward_pe": 15.674177,
+  "pb_ratio": 0.18785831,
+  "dividend_yield": 4.51,
+  "52_week_high": 38.29,
+  "52_week_low": 30.81,
+  "avg_volume_10d": 147910,
+  "avg_volume_3m": 148533,
+  "fetched_at": "2026-03-02"
+}

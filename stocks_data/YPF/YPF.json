@@ -1,0 +1,21 @@
+{
+  "symbol": "YPF",
+  "name": "YPF Sociedad An\u00f3nima",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15047141376,
+  "pe_ratio": null,
+  "forward_pe": 6.520786,
+  "pb_ratio": 1.2603725,
+  "dividend_yield": null,
+  "52_week_high": 40.38,
+  "52_week_low": 22.82,
+  "avg_volume_10d": 1138450,
+  "avg_volume_3m": 1345457,
+  "fetched_at": "2026-03-02"
+}

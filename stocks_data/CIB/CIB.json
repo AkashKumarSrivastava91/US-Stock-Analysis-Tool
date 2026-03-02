@@ -1,0 +1,21 @@
+{
+  "symbol": "CIB",
+  "name": "Grupo Cibest S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Colombia",
+  "region": "Colombia",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17646354432,
+  "pe_ratio": 8.850064,
+  "forward_pe": 8.006869,
+  "pb_ratio": 0.0015290187,
+  "dividend_yield": 9.13,
+  "52_week_high": 86.31,
+  "52_week_low": 35.44,
+  "avg_volume_10d": 619310,
+  "avg_volume_3m": 416790,
+  "fetched_at": "2026-03-02"
+}

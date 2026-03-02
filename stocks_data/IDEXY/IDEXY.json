@@ -1,0 +1,21 @@
+{
+  "symbol": "IDEXY",
+  "name": "Industria de Dise\u00f1o Textil, S.A.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "country": "Spain",
+  "region": "Spain",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 208409280512,
+  "pe_ratio": 29.333332,
+  "forward_pe": 26.237328,
+  "pb_ratio": 2.3490846,
+  "dividend_yield": 2.89,
+  "52_week_high": 17.34,
+  "52_week_low": 11.56,
+  "avg_volume_10d": 414780,
+  "avg_volume_3m": 519498,
+  "fetched_at": "2026-03-02"
+}

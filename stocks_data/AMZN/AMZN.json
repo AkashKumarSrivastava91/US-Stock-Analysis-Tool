@@ -1,0 +1,21 @@
+{
+  "symbol": "AMZN",
+  "name": "Amazon.com, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 2254333280256,
+  "pe_ratio": 29.329609,
+  "forward_pe": 22.494295,
+  "pb_ratio": 5.48217,
+  "dividend_yield": null,
+  "52_week_high": 258.6,
+  "52_week_low": 161.38,
+  "avg_volume_10d": 52980810,
+  "avg_volume_3m": 47503276,
+  "fetched_at": "2026-03-02"
+}

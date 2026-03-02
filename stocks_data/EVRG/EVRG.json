@@ -1,0 +1,21 @@
+{
+  "symbol": "EVRG",
+  "name": "Evergy, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 19265357824,
+  "pe_ratio": 22.857924,
+  "forward_pe": 18.334991,
+  "pb_ratio": 1.8846588,
+  "dividend_yield": 3.32,
+  "52_week_high": 84.08,
+  "52_week_low": 61.94,
+  "avg_volume_10d": 2634810,
+  "avg_volume_3m": 2154216,
+  "fetched_at": "2026-03-02"
+}

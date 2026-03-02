@@ -1,0 +1,21 @@
+{
+  "symbol": "FICO",
+  "name": "Fair Isaac Corporation",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 33433026560,
+  "pe_ratio": 52.08278,
+  "forward_pe": 26.419313,
+  "pb_ratio": -18.522278,
+  "dividend_yield": null,
+  "52_week_high": 2217.6,
+  "52_week_low": 1193.1,
+  "avg_volume_10d": 276820,
+  "avg_volume_3m": 275568,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "USO",
+  "name": "United States Oil Fund, LP",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 9760244736,
+  "pe_ratio": 24.795763,
+  "forward_pe": null,
+  "pb_ratio": 2.028415,
+  "dividend_yield": 0.0,
+  "52_week_high": 83.57,
+  "52_week_low": 60.67,
+  "avg_volume_10d": 10094790,
+  "avg_volume_3m": 6916121,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "AMKBY",
+  "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "country": "Denmark",
+  "region": "Denmark",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 36158586880,
+  "pe_ratio": 13.88764,
+  "forward_pe": -43.73363,
+  "pb_ratio": 0.0032617378,
+  "dividend_yield": 9.27,
+  "52_week_high": 12.69,
+  "52_week_low": 6.69,
+  "avg_volume_10d": 97920,
+  "avg_volume_3m": 80323,
+  "fetched_at": "2026-03-02"
+}

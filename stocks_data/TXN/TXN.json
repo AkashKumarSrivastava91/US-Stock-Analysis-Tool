@@ -1,0 +1,21 @@
+{
+  "symbol": "TXN",
+  "name": "Texas Instruments Incorporated",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 192728039424,
+  "pe_ratio": 38.919266,
+  "forward_pe": 26.820171,
+  "pb_ratio": 11.821982,
+  "dividend_yield": 2.68,
+  "52_week_high": 231.32,
+  "52_week_low": 139.95,
+  "avg_volume_10d": 6627980,
+  "avg_volume_3m": 7788805,
+  "fetched_at": "2026-03-02"
+}

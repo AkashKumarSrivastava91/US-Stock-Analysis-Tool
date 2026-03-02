@@ -1,0 +1,21 @@
+{
+  "symbol": "T",
+  "name": "AT&T Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 198575489024,
+  "pe_ratio": 9.213816,
+  "forward_pe": 10.996561,
+  "pb_ratio": 1.7833948,
+  "dividend_yield": 3.96,
+  "52_week_high": 29.79,
+  "52_week_low": 22.95,
+  "avg_volume_10d": 37189270,
+  "avg_volume_3m": 42267611,
+  "fetched_at": "2026-03-02"
+}

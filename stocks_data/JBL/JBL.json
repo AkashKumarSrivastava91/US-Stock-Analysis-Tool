@@ -1,0 +1,21 @@
+{
+  "symbol": "JBL",
+  "name": "Jabil Inc.",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 28307015680,
+  "pe_ratio": 41.469482,
+  "forward_pe": 19.650373,
+  "pb_ratio": 21.061039,
+  "dividend_yield": 0.12,
+  "52_week_high": 281.37,
+  "52_week_low": 108.66,
+  "avg_volume_10d": 1170760,
+  "avg_volume_3m": 1209541,
+  "fetched_at": "2026-03-02"
+}

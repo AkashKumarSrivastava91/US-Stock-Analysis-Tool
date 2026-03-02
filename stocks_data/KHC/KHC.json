@@ -1,0 +1,21 @@
+{
+  "symbol": "KHC",
+  "name": "The Kraft Heinz Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 29131960320,
+  "pe_ratio": null,
+  "forward_pe": 11.463948,
+  "pb_ratio": 0.69936633,
+  "dividend_yield": 6.5,
+  "52_week_high": 33.35,
+  "52_week_low": 21.985,
+  "avg_volume_10d": 14250190,
+  "avg_volume_3m": 15201183,
+  "fetched_at": "2026-03-02"
+}

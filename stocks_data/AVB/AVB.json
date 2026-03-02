@@ -1,0 +1,21 @@
+{
+  "symbol": "AVB",
+  "name": "AvalonBay Communities, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25094871040,
+  "pe_ratio": 23.917679,
+  "forward_pe": 34.424557,
+  "pb_ratio": 2.1111627,
+  "dividend_yield": 4.02,
+  "52_week_high": 230.21,
+  "52_week_low": 166.73,
+  "avg_volume_10d": 996080,
+  "avg_volume_3m": 1143968,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "IFF",
+  "name": "International Flavors & Fragrances Inc.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21074487296,
+  "pe_ratio": null,
+  "forward_pe": 17.121727,
+  "pb_ratio": 1.4845372,
+  "dividend_yield": 1.95,
+  "52_week_high": 84.45,
+  "52_week_low": 59.14,
+  "avg_volume_10d": 1825150,
+  "avg_volume_3m": 1934171,
+  "fetched_at": "2026-03-02"
+}

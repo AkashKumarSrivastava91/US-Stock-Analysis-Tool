@@ -1,0 +1,21 @@
+{
+  "symbol": "CTAS",
+  "name": "Cintas Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 80827449344,
+  "pe_ratio": 43.440605,
+  "forward_pe": 37.190926,
+  "pb_ratio": 18.051517,
+  "dividend_yield": 0.89,
+  "52_week_high": 229.24,
+  "52_week_low": 180.39,
+  "avg_volume_10d": 1798180,
+  "avg_volume_3m": 1881570,
+  "fetched_at": "2026-03-02"
+}

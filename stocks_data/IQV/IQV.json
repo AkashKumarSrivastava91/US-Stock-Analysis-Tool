@@ -1,0 +1,21 @@
+{
+  "symbol": "IQV",
+  "name": "IQVIA Holdings Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 30451343360,
+  "pe_ratio": 22.836527,
+  "forward_pe": 12.723593,
+  "pb_ratio": 4.6634326,
+  "dividend_yield": null,
+  "52_week_high": 247.05,
+  "52_week_low": 134.65,
+  "avg_volume_10d": 3304560,
+  "avg_volume_3m": 2004310,
+  "fetched_at": "2026-03-02"
+}

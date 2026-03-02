@@ -1,0 +1,21 @@
+{
+  "symbol": "XLV",
+  "name": "State Street Health Care Select Sector SPDR ETF",
+  "sector": "Health Care",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 31625883648,
+  "pe_ratio": 27.614965,
+  "forward_pe": null,
+  "pb_ratio": 1.2588798,
+  "dividend_yield": 1.6,
+  "52_week_high": 160.59,
+  "52_week_low": 127.35,
+  "avg_volume_10d": 13855650,
+  "avg_volume_3m": 12530161,
+  "fetched_at": "2026-03-02"
+}

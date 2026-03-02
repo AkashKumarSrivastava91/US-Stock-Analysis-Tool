@@ -1,0 +1,21 @@
+{
+  "symbol": "DBOEY",
+  "name": "Deutsche B\u00f6rse AG",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 50294980608,
+  "pe_ratio": 21.201551,
+  "forward_pe": 20.279972,
+  "pb_ratio": 0.35825372,
+  "dividend_yield": 1.65,
+  "52_week_high": 33.52,
+  "52_week_low": 23.25,
+  "avg_volume_10d": 303000,
+  "avg_volume_3m": 414855,
+  "fetched_at": "2026-03-02"
+}

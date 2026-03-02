@@ -1,0 +1,21 @@
+{
+  "symbol": "LW",
+  "name": "Lamb Weston Holdings, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 6715395584,
+  "pe_ratio": 17.460144,
+  "forward_pe": 15.997318,
+  "pb_ratio": 3.8146124,
+  "dividend_yield": 3.15,
+  "52_week_high": 67.07,
+  "52_week_low": 39.79,
+  "avg_volume_10d": 1558350,
+  "avg_volume_3m": 2797225,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "TER",
+  "name": "Teradyne, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 50102599680,
+  "pe_ratio": 92.49422,
+  "forward_pe": 39.864025,
+  "pb_ratio": 17.867792,
+  "dividend_yield": 0.16,
+  "52_week_high": 344.92,
+  "52_week_low": 65.77,
+  "avg_volume_10d": 2944990,
+  "avg_volume_3m": 3286350,
+  "fetched_at": "2026-03-02"
+}

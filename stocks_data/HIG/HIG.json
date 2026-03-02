@@ -1,0 +1,21 @@
+{
+  "symbol": "HIG",
+  "name": "The Hartford Insurance Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 39277527040,
+  "pe_ratio": 10.572824,
+  "forward_pe": 9.718909,
+  "pb_ratio": 2.0916693,
+  "dividend_yield": 1.7,
+  "52_week_high": 144.5,
+  "52_week_low": 107.49,
+  "avg_volume_10d": 1742610,
+  "avg_volume_3m": 1600193,
+  "fetched_at": "2026-03-02"
+}

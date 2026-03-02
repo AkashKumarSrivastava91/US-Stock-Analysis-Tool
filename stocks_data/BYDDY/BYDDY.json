@@ -1,0 +1,21 @@
+{
+  "symbol": "BYDDY",
+  "name": "BYD Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 109497540608,
+  "pe_ratio": 60.05,
+  "forward_pe": 19.793007,
+  "pb_ratio": 3.5312166,
+  "dividend_yield": 1.53,
+  "52_week_high": 20.05,
+  "52_week_low": 11.2,
+  "avg_volume_10d": 1505040,
+  "avg_volume_3m": 1764884,
+  "fetched_at": "2026-03-02"
+}

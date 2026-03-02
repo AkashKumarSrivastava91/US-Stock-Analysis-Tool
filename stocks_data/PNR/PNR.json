@@ -1,0 +1,21 @@
+{
+  "symbol": "PNR",
+  "name": "Pentair plc",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United Kingdom",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16231639040,
+  "pe_ratio": 25.239185,
+  "forward_pe": 17.077522,
+  "pb_ratio": 4.1847024,
+  "dividend_yield": 1.05,
+  "52_week_high": 113.95,
+  "52_week_low": 74.25,
+  "avg_volume_10d": 1531460,
+  "avg_volume_3m": 1643623,
+  "fetched_at": "2026-03-02"
+}

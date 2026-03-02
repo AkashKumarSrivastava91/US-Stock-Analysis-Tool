@@ -1,0 +1,21 @@
+{
+  "symbol": "C",
+  "name": "Citigroup Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 197159239680,
+  "pe_ratio": 15.763949,
+  "forward_pe": 9.121689,
+  "pb_ratio": 1.0016727,
+  "dividend_yield": 2.18,
+  "52_week_high": 125.16,
+  "52_week_low": 55.51,
+  "avg_volume_10d": 15221560,
+  "avg_volume_3m": 14581950,
+  "fetched_at": "2026-03-02"
+}

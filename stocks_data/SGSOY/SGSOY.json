@@ -1,0 +1,21 @@
+{
+  "symbol": "SGSOY",
+  "name": "SGS SA",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "country": "Switzerland",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 24617099264,
+  "pe_ratio": 27.955557,
+  "forward_pe": 21.214165,
+  "pb_ratio": 2.083744,
+  "dividend_yield": 3.07,
+  "52_week_high": 12.76,
+  "52_week_low": 8.42,
+  "avg_volume_10d": 134010,
+  "avg_volume_3m": 74411,
+  "fetched_at": "2026-03-02"
+}

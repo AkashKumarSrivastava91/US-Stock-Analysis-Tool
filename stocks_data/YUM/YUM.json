@@ -1,0 +1,21 @@
+{
+  "symbol": "YUM",
+  "name": "Yum! Brands, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 46690099200,
+  "pe_ratio": 30.299099,
+  "forward_pe": 22.543219,
+  "pb_ratio": -6.3590984,
+  "dividend_yield": 1.78,
+  "52_week_high": 169.39,
+  "52_week_low": 137.33,
+  "avg_volume_10d": 1909280,
+  "avg_volume_3m": 2074441,
+  "fetched_at": "2026-03-02"
+}

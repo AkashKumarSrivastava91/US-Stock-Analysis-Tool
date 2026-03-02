@@ -1,0 +1,21 @@
+{
+  "symbol": "EQR",
+  "name": "Equity Residential",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24787077120,
+  "pe_ratio": 21.573378,
+  "forward_pe": 42.00949,
+  "pb_ratio": 2.1662097,
+  "dividend_yield": 4.38,
+  "52_week_high": 75.86,
+  "52_week_low": 58.38,
+  "avg_volume_10d": 2746400,
+  "avg_volume_3m": 2619650,
+  "fetched_at": "2026-03-02"
+}

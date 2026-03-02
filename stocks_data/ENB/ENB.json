@@ -1,0 +1,21 @@
+{
+  "symbol": "ENB",
+  "name": "Enbridge Inc.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 115942449152,
+  "pe_ratio": 22.612766,
+  "forward_pe": 22.608368,
+  "pb_ratio": 2.8566945,
+  "dividend_yield": 5.36,
+  "52_week_high": 54.2,
+  "52_week_low": 39.73,
+  "avg_volume_10d": 6978580,
+  "avg_volume_3m": 4796173,
+  "fetched_at": "2026-03-02"
+}

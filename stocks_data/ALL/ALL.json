@@ -1,0 +1,21 @@
+{
+  "symbol": "ALL",
+  "name": "The Allstate Corporation",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 56135962624,
+  "pe_ratio": 5.6363635,
+  "forward_pe": 8.541975,
+  "pb_ratio": 1.9495615,
+  "dividend_yield": 2.01,
+  "52_week_high": 216.75,
+  "52_week_low": 176.0,
+  "avg_volume_10d": 1725940,
+  "avg_volume_3m": 1761808,
+  "fetched_at": "2026-03-02"
+}

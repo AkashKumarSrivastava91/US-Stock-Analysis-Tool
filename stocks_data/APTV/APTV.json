@@ -1,0 +1,21 @@
+{
+  "symbol": "APTV",
+  "name": "Aptiv PLC",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "country": "Switzerland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15890480128,
+  "pe_ratio": 98.05334,
+  "forward_pe": 7.7749023,
+  "pb_ratio": 1.699286,
+  "dividend_yield": null,
+  "52_week_high": 88.93,
+  "52_week_low": 47.19,
+  "avg_volume_10d": 1940630,
+  "avg_volume_3m": 2202225,
+  "fetched_at": "2026-03-02"
+}

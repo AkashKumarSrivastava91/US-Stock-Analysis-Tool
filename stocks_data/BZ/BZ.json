@@ -1,0 +1,21 @@
+{
+  "symbol": "BZ",
+  "name": "Kanzhun Limited",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 7783886336,
+  "pe_ratio": 20.35443,
+  "forward_pe": 12.523284,
+  "pb_ratio": 2.6278584,
+  "dividend_yield": 1.04,
+  "52_week_high": 25.26,
+  "52_week_low": 13.28,
+  "avg_volume_10d": 3178940,
+  "avg_volume_3m": 3167190,
+  "fetched_at": "2026-03-02"
+}

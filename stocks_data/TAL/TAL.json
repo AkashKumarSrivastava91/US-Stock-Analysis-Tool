@@ -1,0 +1,21 @@
+{
+  "symbol": "TAL",
+  "name": "TAL Education Group",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 6407733760,
+  "pe_ratio": 21.9375,
+  "forward_pe": 13.383324,
+  "pb_ratio": 1.6708981,
+  "dividend_yield": null,
+  "52_week_high": 14.66,
+  "52_week_low": 8.5,
+  "avg_volume_10d": 4469780,
+  "avg_volume_3m": 3709540,
+  "fetched_at": "2026-03-02"
+}

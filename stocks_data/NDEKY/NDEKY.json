@@ -1,0 +1,21 @@
+{
+  "symbol": "NDEKY",
+  "name": "Nitto Denko Corporation",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 15903052800,
+  "pe_ratio": 19.837606,
+  "forward_pe": null,
+  "pb_ratio": 2.2081602,
+  "dividend_yield": 1.64,
+  "52_week_high": 26.48,
+  "52_week_low": 15.32,
+  "avg_volume_10d": 41440,
+  "avg_volume_3m": 89408,
+  "fetched_at": "2026-03-02"
+}

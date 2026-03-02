@@ -1,0 +1,21 @@
+{
+  "symbol": "KYOCY",
+  "name": "Kyocera Corporation",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23659710464,
+  "pe_ratio": 88.450005,
+  "forward_pe": 30.500002,
+  "pb_ratio": 1.1093973,
+  "dividend_yield": 1.88,
+  "52_week_high": 18.1,
+  "52_week_low": 10.35,
+  "avg_volume_10d": 35860,
+  "avg_volume_3m": 33718,
+  "fetched_at": "2026-03-02"
+}

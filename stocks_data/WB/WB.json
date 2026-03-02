@@ -1,0 +1,21 @@
+{
+  "symbol": "WB",
+  "name": "Weibo Corporation",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 2448414720,
+  "pe_ratio": 5.674286,
+  "forward_pe": 5.666709,
+  "pb_ratio": 0.6155086,
+  "dividend_yield": 8.26,
+  "52_week_high": 12.96,
+  "52_week_low": 7.1,
+  "avg_volume_10d": 666380,
+  "avg_volume_3m": 982270,
+  "fetched_at": "2026-03-02"
+}

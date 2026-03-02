@@ -1,0 +1,21 @@
+{
+  "symbol": "CMS",
+  "name": "CMS Energy Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 23922278400,
+  "pe_ratio": 22.116148,
+  "forward_pe": 18.721106,
+  "pb_ratio": 2.6818042,
+  "dividend_yield": 2.92,
+  "52_week_high": 78.31,
+  "52_week_low": 67.71,
+  "avg_volume_10d": 3810610,
+  "avg_volume_3m": 2885210,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "STNE",
+  "name": "StoneCo Ltd.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "Cayman Islands",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 4494410240,
+  "pe_ratio": null,
+  "forward_pe": 7.9362283,
+  "pb_ratio": 1.9282504,
+  "dividend_yield": null,
+  "52_week_high": 19.95,
+  "52_week_low": 8.64,
+  "avg_volume_10d": 4105120,
+  "avg_volume_3m": 5530155,
+  "fetched_at": "2026-03-02"
+}

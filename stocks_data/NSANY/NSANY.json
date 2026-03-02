@@ -1,0 +1,21 @@
+{
+  "symbol": "NSANY",
+  "name": "Nissan Motor Co., Ltd.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 9508409344,
+  "pe_ratio": null,
+  "forward_pe": 6.3255816,
+  "pb_ratio": 0.60544413,
+  "dividend_yield": null,
+  "52_week_high": 6.06,
+  "52_week_low": 4.1,
+  "avg_volume_10d": 153360,
+  "avg_volume_3m": 147591,
+  "fetched_at": "2026-03-02"
+}

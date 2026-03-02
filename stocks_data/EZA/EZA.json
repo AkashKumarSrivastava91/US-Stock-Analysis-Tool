@@ -1,0 +1,21 @@
+{
+  "symbol": "EZA",
+  "name": "iShares MSCI South Africa ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 644640000,
+  "pe_ratio": 18.456194,
+  "forward_pe": null,
+  "pb_ratio": 1.7734504,
+  "dividend_yield": 5.89,
+  "52_week_high": 81.76,
+  "52_week_low": 39.74,
+  "avg_volume_10d": 346090,
+  "avg_volume_3m": 361190,
+  "fetched_at": "2026-03-02"
+}

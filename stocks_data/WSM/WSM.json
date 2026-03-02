@@ -1,0 +1,21 @@
+{
+  "symbol": "WSM",
+  "name": "Williams-Sonoma, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24550643712,
+  "pe_ratio": 22.673649,
+  "forward_pe": 22.475286,
+  "pb_ratio": 11.973102,
+  "dividend_yield": 1.28,
+  "52_week_high": 222.0,
+  "52_week_low": 130.07,
+  "avg_volume_10d": 971640,
+  "avg_volume_3m": 1086905,
+  "fetched_at": "2026-03-02"
+}

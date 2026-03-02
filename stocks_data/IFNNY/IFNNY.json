@@ -1,0 +1,21 @@
+{
+  "symbol": "IFNNY",
+  "name": "Infineon Technologies AG",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 70341591040,
+  "pe_ratio": 59.362637,
+  "forward_pe": 21.910362,
+  "pb_ratio": 3.5397635,
+  "dividend_yield": 0.76,
+  "52_week_high": 56.19,
+  "52_week_low": 25.8,
+  "avg_volume_10d": 382560,
+  "avg_volume_3m": 316881,
+  "fetched_at": "2026-03-02"
+}

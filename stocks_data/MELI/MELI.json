@@ -1,0 +1,21 @@
+{
+  "symbol": "MELI",
+  "name": "MercadoLibre, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "Uruguay",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 89104351232,
+  "pe_ratio": 44.64262,
+  "forward_pe": 22.049318,
+  "pb_ratio": 13.204561,
+  "dividend_yield": null,
+  "52_week_high": 2645.22,
+  "52_week_low": 1654.24,
+  "avg_volume_10d": 774660,
+  "avg_volume_3m": 572351,
+  "fetched_at": "2026-03-02"
+}

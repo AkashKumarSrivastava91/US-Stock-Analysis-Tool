@@ -1,0 +1,21 @@
+{
+  "symbol": "DBB",
+  "name": "Invesco DB Base Metals Fund",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 256308000,
+  "pe_ratio": 4.2872343,
+  "forward_pe": null,
+  "pb_ratio": 1.2938784,
+  "dividend_yield": 2.49,
+  "52_week_high": 26.03,
+  "52_week_low": 17.13,
+  "avg_volume_10d": 224200,
+  "avg_volume_3m": 417094,
+  "fetched_at": "2026-03-02"
+}

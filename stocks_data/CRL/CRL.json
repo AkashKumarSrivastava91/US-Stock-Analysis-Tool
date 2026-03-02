@@ -1,0 +1,21 @@
+{
+  "symbol": "CRL",
+  "name": "Charles River Laboratories International, Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 8784470016,
+  "pe_ratio": null,
+  "forward_pe": 14.856401,
+  "pb_ratio": 2.7758942,
+  "dividend_yield": null,
+  "52_week_high": 228.88,
+  "52_week_low": 91.86,
+  "avg_volume_10d": 1531640,
+  "avg_volume_3m": 904180,
+  "fetched_at": "2026-03-02"
+}

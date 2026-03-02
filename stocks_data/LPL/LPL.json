@@ -1,0 +1,21 @@
+{
+  "symbol": "LPL",
+  "name": "LG Display Co., Ltd.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 5059999744,
+  "pe_ratio": 31.625,
+  "forward_pe": 42.212395,
+  "pb_ratio": 0.5496326,
+  "dividend_yield": null,
+  "52_week_high": 5.67,
+  "52_week_low": 2.43,
+  "avg_volume_10d": 1133260,
+  "avg_volume_3m": 669858,
+  "fetched_at": "2026-03-02"
+}

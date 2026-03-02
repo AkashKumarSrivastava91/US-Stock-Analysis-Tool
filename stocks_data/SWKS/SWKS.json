@@ -1,0 +1,21 @@
+{
+  "symbol": "SWKS",
+  "name": "Skyworks Solutions, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 8959260672,
+  "pe_ratio": 22.827587,
+  "forward_pe": 11.916548,
+  "pb_ratio": 1.5508356,
+  "dividend_yield": 4.77,
+  "52_week_high": 90.9,
+  "52_week_low": 47.93,
+  "avg_volume_10d": 2960180,
+  "avg_volume_3m": 3525320,
+  "fetched_at": "2026-03-02"
+}

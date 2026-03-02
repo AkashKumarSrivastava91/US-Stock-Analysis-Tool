@@ -1,0 +1,21 @@
+{
+  "symbol": "DGX",
+  "name": "Quest Diagnostics Incorporated",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 23573368832,
+  "pe_ratio": 24.218287,
+  "forward_pe": 18.460104,
+  "pb_ratio": 3.251051,
+  "dividend_yield": 1.62,
+  "52_week_high": 213.5,
+  "52_week_low": 157.2,
+  "avg_volume_10d": 896070,
+  "avg_volume_3m": 1025310,
+  "fetched_at": "2026-03-02"
+}

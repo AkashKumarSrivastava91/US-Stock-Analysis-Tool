@@ -1,0 +1,21 @@
+{
+  "symbol": "SCHW",
+  "name": "The Charles Schwab Corporation",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 172808880128,
+  "pe_ratio": 20.473118,
+  "forward_pe": 14.014096,
+  "pb_ratio": 3.9236696,
+  "dividend_yield": 1.34,
+  "52_week_high": 107.5,
+  "52_week_low": 65.88,
+  "avg_volume_10d": 11877640,
+  "avg_volume_3m": 10690305,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "PKG",
+  "name": "Packaging Corporation of America",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 20887674880,
+  "pe_ratio": 27.024446,
+  "forward_pe": 19.010122,
+  "pb_ratio": 4.473867,
+  "dividend_yield": 2.15,
+  "52_week_high": 249.51,
+  "52_week_low": 172.72,
+  "avg_volume_10d": 1113860,
+  "avg_volume_3m": 987906,
+  "fetched_at": "2026-03-02"
+}

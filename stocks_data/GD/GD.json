@@ -1,0 +1,21 @@
+{
+  "symbol": "GD",
+  "name": "General Dynamics Corporation",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 96542662656,
+  "pe_ratio": 23.095083,
+  "forward_pe": 19.758286,
+  "pb_ratio": 3.762302,
+  "dividend_yield": 1.68,
+  "52_week_high": 369.7,
+  "52_week_low": 239.2,
+  "avg_volume_10d": 1130840,
+  "avg_volume_3m": 1333820,
+  "fetched_at": "2026-03-02"
+}

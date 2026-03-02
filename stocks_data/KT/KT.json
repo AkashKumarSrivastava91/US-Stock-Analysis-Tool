@@ -1,0 +1,21 @@
+{
+  "symbol": "KT",
+  "name": "KT Corporation",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11477904384,
+  "pe_ratio": 16.190475,
+  "forward_pe": 5.601318,
+  "pb_ratio": 0.42309147,
+  "dividend_yield": 3.38,
+  "52_week_high": 24.58,
+  "52_week_low": 16.25,
+  "avg_volume_10d": 2366760,
+  "avg_volume_3m": 1891498,
+  "fetched_at": "2026-03-02"
+}

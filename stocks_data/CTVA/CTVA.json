@@ -1,0 +1,21 @@
+{
+  "symbol": "CTVA",
+  "name": "Corteva, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 54139645952,
+  "pe_ratio": 45.78286,
+  "forward_pe": 19.910192,
+  "pb_ratio": 2.2305124,
+  "dividend_yield": 0.9,
+  "52_week_high": 80.225,
+  "52_week_low": 53.4,
+  "avg_volume_10d": 4040600,
+  "avg_volume_3m": 3915700,
+  "fetched_at": "2026-03-02"
+}

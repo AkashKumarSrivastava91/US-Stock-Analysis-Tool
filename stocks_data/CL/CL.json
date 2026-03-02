@@ -1,0 +1,21 @@
+{
+  "symbol": "CL",
+  "name": "Colgate-Palmolive Company",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 79465472000,
+  "pe_ratio": 37.695816,
+  "forward_pe": 23.90177,
+  "pb_ratio": 1479.7014,
+  "dividend_yield": 2.1,
+  "52_week_high": 100.18,
+  "52_week_low": 74.55,
+  "avg_volume_10d": 6087380,
+  "avg_volume_3m": 6736023,
+  "fetched_at": "2026-03-02"
+}

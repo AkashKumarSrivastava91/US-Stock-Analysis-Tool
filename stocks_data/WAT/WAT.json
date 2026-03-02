@@ -1,0 +1,21 @@
+{
+  "symbol": "WAT",
+  "name": "Waters Corporation",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 31327834112,
+  "pe_ratio": 29.682156,
+  "forward_pe": 19.615093,
+  "pb_ratio": 7.4255424,
+  "dividend_yield": null,
+  "52_week_high": 414.15,
+  "52_week_low": 275.05,
+  "avg_volume_10d": 1526470,
+  "avg_volume_3m": 898836,
+  "fetched_at": "2026-03-02"
+}

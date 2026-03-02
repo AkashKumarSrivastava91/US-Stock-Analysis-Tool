@@ -1,0 +1,21 @@
+{
+  "symbol": "GL",
+  "name": "Globe Life Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11766573056,
+  "pe_ratio": 10.316761,
+  "forward_pe": 8.785001,
+  "pb_ratio": 1.9229801,
+  "dividend_yield": 0.74,
+  "52_week_high": 152.71,
+  "52_week_low": 109.38,
+  "avg_volume_10d": 461490,
+  "avg_volume_3m": 508015,
+  "fetched_at": "2026-03-02"
+}

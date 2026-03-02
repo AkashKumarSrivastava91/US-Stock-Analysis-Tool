@@ -1,0 +1,21 @@
+{
+  "symbol": "CRRFY",
+  "name": "Carrefour SA",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 13312502784,
+  "pe_ratio": 34.272728,
+  "forward_pe": 9.065551,
+  "pb_ratio": 0.20527081,
+  "dividend_yield": 5.56,
+  "52_week_high": 3.88,
+  "52_week_low": 2.56,
+  "avg_volume_10d": 490610,
+  "avg_volume_3m": 245323,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "PRYMY",
+  "name": "Prysmian S.p.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 34465386496,
+  "pe_ratio": 24.728394,
+  "forward_pe": null,
+  "pb_ratio": 2.4063501,
+  "dividend_yield": 0.76,
+  "52_week_high": 63.22,
+  "52_week_low": 21.62,
+  "avg_volume_10d": 76390,
+  "avg_volume_3m": 80586,
+  "fetched_at": "2026-03-02"
+}

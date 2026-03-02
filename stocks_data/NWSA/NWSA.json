@@ -1,0 +1,21 @@
+{
+  "symbol": "NWSA",
+  "name": "News Corporation",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 14000373760,
+  "pe_ratio": 31.545456,
+  "forward_pe": 19.552286,
+  "pb_ratio": 1.5405594,
+  "dividend_yield": 0.82,
+  "52_week_high": 31.61,
+  "52_week_low": 22.2,
+  "avg_volume_10d": 3961770,
+  "avg_volume_3m": 3885395,
+  "fetched_at": "2026-03-02"
+}

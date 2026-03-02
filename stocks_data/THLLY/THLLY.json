@@ -1,0 +1,21 @@
+{
+  "symbol": "THLLY",
+  "name": "Thales S.A.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 62639796224,
+  "pe_ratio": 50.80833,
+  "forward_pe": null,
+  "pb_ratio": 1.4844538,
+  "dividend_yield": 1.42,
+  "52_week_high": 65.46,
+  "52_week_low": 46.05,
+  "avg_volume_10d": 96030,
+  "avg_volume_3m": 112889,
+  "fetched_at": "2026-03-02"
+}

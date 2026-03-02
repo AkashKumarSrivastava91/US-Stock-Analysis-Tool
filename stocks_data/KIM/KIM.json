@@ -1,0 +1,21 @@
+{
+  "symbol": "KIM",
+  "name": "Kimco Realty Corporation",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15947919360,
+  "pe_ratio": 28.719511,
+  "forward_pe": 27.304346,
+  "pb_ratio": 1.5276335,
+  "dividend_yield": 4.42,
+  "52_week_high": 23.91,
+  "52_week_low": 17.93,
+  "avg_volume_10d": 7800910,
+  "avg_volume_3m": 5490485,
+  "fetched_at": "2026-03-02"
+}

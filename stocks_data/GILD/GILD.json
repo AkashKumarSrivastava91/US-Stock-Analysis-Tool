@@ -1,0 +1,21 @@
+{
+  "symbol": "GILD",
+  "name": "Gilead Sciences, Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 184909578240,
+  "pe_ratio": 21.969025,
+  "forward_pe": 15.41123,
+  "pb_ratio": 8.142459,
+  "dividend_yield": 2.2,
+  "52_week_high": 157.29,
+  "52_week_low": 93.37,
+  "avg_volume_10d": 7200200,
+  "avg_volume_3m": 7429458,
+  "fetched_at": "2026-03-02"
+}

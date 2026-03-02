@@ -1,0 +1,21 @@
+{
+  "symbol": "HII",
+  "name": "Huntington Ingalls Industries, Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17444159488,
+  "pe_ratio": 28.90247,
+  "forward_pe": 21.883436,
+  "pb_ratio": 3.4385345,
+  "dividend_yield": 1.24,
+  "52_week_high": 451.86,
+  "52_week_low": 167.7,
+  "avg_volume_10d": 502400,
+  "avg_volume_3m": 566690,
+  "fetched_at": "2026-03-02"
+}

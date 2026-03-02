@@ -1,0 +1,21 @@
+{
+  "symbol": "SSL",
+  "name": "Sasol Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 5686836224,
+  "pe_ratio": 13.515151,
+  "forward_pe": 5.2460403,
+  "pb_ratio": 0.59626883,
+  "dividend_yield": null,
+  "52_week_high": 9.17,
+  "52_week_low": 2.78,
+  "avg_volume_10d": 2549390,
+  "avg_volume_3m": 1635023,
+  "fetched_at": "2026-03-02"
+}

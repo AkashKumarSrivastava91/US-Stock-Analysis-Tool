@@ -1,0 +1,21 @@
+{
+  "symbol": "VALE",
+  "name": "Vale S.A.",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 73337643008,
+  "pe_ratio": 31.236364,
+  "forward_pe": 7.997766,
+  "pb_ratio": 2.0451703,
+  "dividend_yield": 7.27,
+  "52_week_high": 17.72,
+  "52_week_low": 8.06,
+  "avg_volume_10d": 31715160,
+  "avg_volume_3m": 37957568,
+  "fetched_at": "2026-03-02"
+}

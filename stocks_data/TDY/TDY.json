@@ -1,0 +1,21 @@
+{
+  "symbol": "TDY",
+  "name": "Teledyne Technologies Incorporated",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 31978315776,
+  "pe_ratio": 36.094326,
+  "forward_pe": 26.452652,
+  "pb_ratio": 2.991939,
+  "dividend_yield": null,
+  "52_week_high": 691.87,
+  "52_week_low": 419.0,
+  "avg_volume_10d": 299090,
+  "avg_volume_3m": 362385,
+  "fetched_at": "2026-03-02"
+}

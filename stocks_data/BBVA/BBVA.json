@@ -1,0 +1,21 @@
+{
+  "symbol": "BBVA",
+  "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "Spain",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 132444880896,
+  "pe_ratio": 11.120193,
+  "forward_pe": 11.125541,
+  "pb_ratio": 1.9447018,
+  "dividend_yield": 3.58,
+  "52_week_high": 26.2,
+  "52_week_low": 11.59,
+  "avg_volume_10d": 2617500,
+  "avg_volume_3m": 1837043,
+  "fetched_at": "2026-03-02"
+}

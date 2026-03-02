@@ -1,0 +1,21 @@
+{
+  "symbol": "FTV",
+  "name": "Fortive Corporation",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18802610176,
+  "pe_ratio": 37.232704,
+  "forward_pe": 18.613192,
+  "pb_ratio": 2.874903,
+  "dividend_yield": 0.44,
+  "52_week_high": 62.42,
+  "52_week_low": 45.504898,
+  "avg_volume_10d": 3723990,
+  "avg_volume_3m": 3820560,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "GFI",
+  "name": "Gold Fields Limited",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 52954681344,
+  "pe_ratio": 28.15311,
+  "forward_pe": 11.166293,
+  "pb_ratio": 6.240984,
+  "dividend_yield": 1.34,
+  "52_week_high": 61.64,
+  "52_week_low": 18.25,
+  "avg_volume_10d": 2619460,
+  "avg_volume_3m": 3148903,
+  "fetched_at": "2026-03-02"
+}

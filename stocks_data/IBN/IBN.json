@@ -1,0 +1,21 @@
+{
+  "symbol": "IBN",
+  "name": "ICICI Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "India",
+  "region": "India",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 111369756672,
+  "pe_ratio": 18.95031,
+  "forward_pe": 17.121788,
+  "pb_ratio": 5.6941357,
+  "dividend_yield": 0.82,
+  "52_week_high": 34.57,
+  "52_week_low": 27.53,
+  "avg_volume_10d": 3965770,
+  "avg_volume_3m": 6221741,
+  "fetched_at": "2026-03-02"
+}

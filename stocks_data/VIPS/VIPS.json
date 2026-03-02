@@ -1,0 +1,21 @@
+{
+  "symbol": "VIPS",
+  "name": "Vipshop Holdings Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 8588060160,
+  "pe_ratio": 8.979382,
+  "forward_pe": 5.2024355,
+  "pb_ratio": 1.3922795,
+  "dividend_yield": 3.56,
+  "52_week_high": 21.08,
+  "52_week_low": 12.14,
+  "avg_volume_10d": 1630740,
+  "avg_volume_3m": 2314471,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ITUB",
+  "name": "Ita\u00fa Unibanco Holding S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 99790577664,
+  "pe_ratio": 11.602565,
+  "forward_pe": 9.510299,
+  "pb_ratio": 2.5079966,
+  "dividend_yield": 0.44,
+  "52_week_high": 9.6,
+  "52_week_low": 4.730803,
+  "avg_volume_10d": 24174890,
+  "avg_volume_3m": 24153133,
+  "fetched_at": "2026-03-02"
+}

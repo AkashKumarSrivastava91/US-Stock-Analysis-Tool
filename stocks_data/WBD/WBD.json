@@ -1,0 +1,21 @@
+{
+  "symbol": "WBD",
+  "name": "Warner Bros. Discovery, Inc.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 69858426880,
+  "pe_ratio": 148.26315,
+  "forward_pe": -968.374,
+  "pb_ratio": 1.945039,
+  "dividend_yield": null,
+  "52_week_high": 30.0,
+  "52_week_low": 7.52,
+  "avg_volume_10d": 25983370,
+  "avg_volume_3m": 39192655,
+  "fetched_at": "2026-03-02"
+}

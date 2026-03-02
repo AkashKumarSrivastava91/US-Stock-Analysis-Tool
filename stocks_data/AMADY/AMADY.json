@@ -1,0 +1,21 @@
+{
+  "symbol": "AMADY",
+  "name": "Amadeus IT Group, S.A.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "Spain",
+  "region": "Spain",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 26631981056,
+  "pe_ratio": 17.329609,
+  "forward_pe": 15.965701,
+  "pb_ratio": 4.506108,
+  "dividend_yield": 2.67,
+  "52_week_high": 85.89,
+  "52_week_low": 54.75,
+  "avg_volume_10d": 350720,
+  "avg_volume_3m": 160357,
+  "fetched_at": "2026-03-02"
+}

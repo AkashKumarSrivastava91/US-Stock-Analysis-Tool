@@ -1,0 +1,21 @@
+{
+  "symbol": "MSCI",
+  "name": "MSCI Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 42967044096,
+  "pe_ratio": 36.492023,
+  "forward_pe": 25.97,
+  "pb_ratio": -15.846751,
+  "dividend_yield": 1.43,
+  "52_week_high": 626.28,
+  "52_week_low": 486.74,
+  "avg_volume_10d": 727330,
+  "avg_volume_3m": 674005,
+  "fetched_at": "2026-03-02"
+}

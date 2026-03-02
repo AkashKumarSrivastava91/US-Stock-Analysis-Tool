@@ -1,0 +1,21 @@
+{
+  "symbol": "XLU",
+  "name": "State Street Utilities Select Sector SPDR ETF",
+  "sector": "Utilities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 7793068032,
+  "pe_ratio": 23.515528,
+  "forward_pe": null,
+  "pb_ratio": 0.74589777,
+  "dividend_yield": 2.67,
+  "52_week_high": 47.8,
+  "52_week_low": 35.51,
+  "avg_volume_10d": 30983130,
+  "avg_volume_3m": 24178725,
+  "fetched_at": "2026-03-02"
+}

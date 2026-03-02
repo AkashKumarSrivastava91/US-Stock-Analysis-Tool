@@ -1,0 +1,21 @@
+{
+  "symbol": "LGGNY",
+  "name": "Legal & General Group Plc",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 20730134528,
+  "pe_ratio": 60.933334,
+  "forward_pe": 13.641791,
+  "pb_ratio": 40.957123,
+  "dividend_yield": 7.94,
+  "52_week_high": 18.87,
+  "52_week_low": 13.64,
+  "avg_volume_10d": 26950,
+  "avg_volume_3m": 28422,
+  "fetched_at": "2026-03-02"
+}

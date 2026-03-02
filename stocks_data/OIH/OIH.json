@@ -1,0 +1,21 @@
+{
+  "symbol": "OIH",
+  "name": "VanEck Oil Services ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 22.407894,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 1.4,
+  "52_week_high": 403.73,
+  "52_week_low": 191.21,
+  "avg_volume_10d": 585780,
+  "avg_volume_3m": 625093,
+  "fetched_at": "2026-03-02"
+}

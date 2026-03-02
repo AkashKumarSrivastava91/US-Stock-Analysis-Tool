@@ -1,0 +1,21 @@
+{
+  "symbol": "PUK",
+  "name": "Prudential plc",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "Hong Kong",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38727741440,
+  "pe_ratio": 11.964981,
+  "forward_pe": 13.283454,
+  "pb_ratio": 4.4276457,
+  "dividend_yield": 1.56,
+  "52_week_high": 34.03,
+  "52_week_low": 17.79,
+  "avg_volume_10d": 924560,
+  "avg_volume_3m": 817748,
+  "fetched_at": "2026-03-02"
+}

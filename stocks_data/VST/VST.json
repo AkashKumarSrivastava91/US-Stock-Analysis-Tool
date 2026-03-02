@@ -1,0 +1,21 @@
+{
+  "symbol": "VST",
+  "name": "Vistra Corp.",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 58918367232,
+  "pe_ratio": 62.55036,
+  "forward_pe": 15.40824,
+  "pb_ratio": 21.5397,
+  "dividend_yield": 0.52,
+  "52_week_high": 219.82,
+  "52_week_low": 90.51,
+  "avg_volume_10d": 4783860,
+  "avg_volume_3m": 5426921,
+  "fetched_at": "2026-03-02"
+}

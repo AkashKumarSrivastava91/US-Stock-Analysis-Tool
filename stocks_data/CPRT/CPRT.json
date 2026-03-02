@@ -1,0 +1,21 @@
+{
+  "symbol": "CPRT",
+  "name": "Copart, Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 36871794688,
+  "pe_ratio": 23.3681,
+  "forward_pe": 22.672485,
+  "pb_ratio": 3.763462,
+  "dividend_yield": null,
+  "52_week_high": 63.85,
+  "52_week_low": 33.81,
+  "avg_volume_10d": 13373770,
+  "avg_volume_3m": 9163691,
+  "fetched_at": "2026-03-02"
+}

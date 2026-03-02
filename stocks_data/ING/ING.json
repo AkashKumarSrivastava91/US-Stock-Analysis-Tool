@@ -1,0 +1,21 @@
+{
+  "symbol": "ING",
+  "name": "ING Groep N.V.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "Netherlands",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 83218866176,
+  "pe_ratio": 11.462152,
+  "forward_pe": 9.448493,
+  "pb_ratio": 1.423678,
+  "dividend_yield": 4.47,
+  "52_week_high": 31.18,
+  "52_week_low": 16.47,
+  "avg_volume_10d": 3122140,
+  "avg_volume_3m": 2344398,
+  "fetched_at": "2026-03-02"
+}

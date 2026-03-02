@@ -1,0 +1,21 @@
+{
+  "symbol": "SHEL",
+  "name": "Shell plc",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 236167872512,
+  "pe_ratio": 13.918334,
+  "forward_pe": 11.740921,
+  "pb_ratio": 2.748486,
+  "dividend_yield": 3.56,
+  "52_week_high": 83.665,
+  "52_week_low": 58.545,
+  "avg_volume_10d": 3031719,
+  "avg_volume_3m": 4971268,
+  "fetched_at": "2026-03-02"
+}

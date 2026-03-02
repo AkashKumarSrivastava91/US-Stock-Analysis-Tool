@@ -1,0 +1,21 @@
+{
+  "symbol": "AIZ",
+  "name": "Assurant, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11584929792,
+  "pe_ratio": 13.569149,
+  "forward_pe": 10.315239,
+  "pb_ratio": 1.946998,
+  "dividend_yield": 1.46,
+  "52_week_high": 246.31,
+  "52_week_low": 174.97,
+  "avg_volume_10d": 497560,
+  "avg_volume_3m": 394898,
+  "fetched_at": "2026-03-02"
+}

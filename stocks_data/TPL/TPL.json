@@ -1,0 +1,21 @@
+{
+  "symbol": "TPL",
+  "name": "Texas Pacific Land Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 36145364992,
+  "pe_ratio": 75.22095,
+  "forward_pe": 7.1702676,
+  "pb_ratio": 24.773897,
+  "dividend_yield": 0.46,
+  "52_week_high": 547.2,
+  "52_week_low": 269.23334,
+  "avg_volume_10d": 869390,
+  "avg_volume_3m": 500230,
+  "fetched_at": "2026-03-02"
+}

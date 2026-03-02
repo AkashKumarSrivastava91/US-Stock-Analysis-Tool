@@ -1,0 +1,21 @@
+{
+  "symbol": "HUBB",
+  "name": "Hubbell Incorporated",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27199070208,
+  "pe_ratio": 30.951603,
+  "forward_pe": 23.716143,
+  "pb_ratio": 7.0807962,
+  "dividend_yield": 1.11,
+  "52_week_high": 533.8,
+  "52_week_low": 299.425,
+  "avg_volume_10d": 271420,
+  "avg_volume_3m": 500019,
+  "fetched_at": "2026-03-02"
+}

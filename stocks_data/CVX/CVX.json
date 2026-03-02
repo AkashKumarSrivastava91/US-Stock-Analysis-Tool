@@ -1,0 +1,21 @@
+{
+  "symbol": "CVX",
+  "name": "Chevron Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 373399257088,
+  "pe_ratio": 28.168928,
+  "forward_pe": 20.396662,
+  "pb_ratio": 1.9835378,
+  "dividend_yield": 3.81,
+  "52_week_high": 187.9,
+  "52_week_low": 132.04,
+  "avg_volume_10d": 9263430,
+  "avg_volume_3m": 10641236,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "JKHY",
+  "name": "Jack Henry & Associates, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 11758390272,
+  "pe_ratio": 23.308466,
+  "forward_pe": 23.328547,
+  "pb_ratio": 5.3218465,
+  "dividend_yield": 1.45,
+  "52_week_high": 196.0,
+  "52_week_low": 144.12,
+  "avg_volume_10d": 1147990,
+  "avg_volume_3m": 929368,
+  "fetched_at": "2026-03-02"
+}

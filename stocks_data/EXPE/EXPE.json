@@ -1,0 +1,21 @@
+{
+  "symbol": "EXPE",
+  "name": "Expedia Group, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 26429546496,
+  "pe_ratio": 21.986748,
+  "forward_pe": 9.463322,
+  "pb_ratio": 20.577179,
+  "dividend_yield": 0.78,
+  "52_week_high": 303.8,
+  "52_week_low": 130.01,
+  "avg_volume_10d": 4391010,
+  "avg_volume_3m": 2455560,
+  "fetched_at": "2026-03-02"
+}

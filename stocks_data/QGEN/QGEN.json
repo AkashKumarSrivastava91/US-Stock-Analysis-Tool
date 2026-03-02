@@ -1,0 +1,21 @@
+{
+  "symbol": "QGEN",
+  "name": "Qiagen N.V.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "Netherlands",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 10262532096,
+  "pe_ratio": 24.411764,
+  "forward_pe": 17.797155,
+  "pb_ratio": 2.716265,
+  "dividend_yield": 0.53,
+  "52_week_high": 57.82,
+  "52_week_low": 37.63,
+  "avg_volume_10d": 1750630,
+  "avg_volume_3m": 2170910,
+  "fetched_at": "2026-03-02"
+}

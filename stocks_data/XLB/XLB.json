@@ -1,0 +1,21 @@
+{
+  "symbol": "XLB",
+  "name": "State Street Materials Select Sector SPDR ETF",
+  "sector": "Materials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 3841444608,
+  "pe_ratio": 27.10067,
+  "forward_pe": null,
+  "pb_ratio": 0.67510176,
+  "dividend_yield": 1.76,
+  "52_week_high": 54.14,
+  "52_week_low": 36.56,
+  "avg_volume_10d": 15941960,
+  "avg_volume_3m": 14915911,
+  "fetched_at": "2026-03-02"
+}

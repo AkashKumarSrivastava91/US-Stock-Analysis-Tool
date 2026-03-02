@@ -1,0 +1,21 @@
+{
+  "symbol": "TEF",
+  "name": "Telef\u00f3nica, S.A.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Spain",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21491091456,
+  "pe_ratio": null,
+  "forward_pe": 15.55102,
+  "pb_ratio": 1.0489005,
+  "dividend_yield": 0.0915,
+  "52_week_high": 5.72,
+  "52_week_low": 3.67,
+  "avg_volume_10d": 1939505,
+  "avg_volume_3m": 1660029,
+  "fetched_at": "2026-03-02"
+}

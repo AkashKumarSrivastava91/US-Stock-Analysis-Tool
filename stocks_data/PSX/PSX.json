@@ -1,0 +1,21 @@
+{
+  "symbol": "PSX",
+  "name": "Phillips 66",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 62368497664,
+  "pe_ratio": 14.303059,
+  "forward_pe": 12.362511,
+  "pb_ratio": 2.1279266,
+  "dividend_yield": 3.29,
+  "52_week_high": 163.79,
+  "52_week_low": 91.01,
+  "avg_volume_10d": 2761950,
+  "avg_volume_3m": 2517500,
+  "fetched_at": "2026-03-02"
+}

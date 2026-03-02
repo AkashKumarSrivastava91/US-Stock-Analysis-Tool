@@ -1,0 +1,21 @@
+{
+  "symbol": "PWR",
+  "name": "Quanta Services, Inc.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 83964174336,
+  "pe_ratio": 83.29586,
+  "forward_pe": 36.826733,
+  "pb_ratio": 9.42283,
+  "dividend_yield": 0.08,
+  "52_week_high": 573.94,
+  "52_week_low": 227.08,
+  "avg_volume_10d": 1192580,
+  "avg_volume_3m": 1031870,
+  "fetched_at": "2026-03-02"
+}

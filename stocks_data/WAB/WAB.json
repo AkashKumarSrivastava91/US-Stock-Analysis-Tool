@@ -1,0 +1,21 @@
+{
+  "symbol": "WAB",
+  "name": "Westinghouse Air Brake Technologies Corporation",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 45124149248,
+  "pe_ratio": 38.589184,
+  "forward_pe": 22.394398,
+  "pb_ratio": 4.041433,
+  "dividend_yield": 0.4,
+  "52_week_high": 266.27,
+  "52_week_low": 151.81,
+  "avg_volume_10d": 939860,
+  "avg_volume_3m": 815401,
+  "fetched_at": "2026-03-02"
+}

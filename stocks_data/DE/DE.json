@@ -1,0 +1,21 @@
+{
+  "symbol": "DE",
+  "name": "Deere & Company",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 170698309632,
+  "pe_ratio": 34.01999,
+  "forward_pe": 27.270185,
+  "pb_ratio": 6.467253,
+  "dividend_yield": 1.03,
+  "52_week_high": 674.19,
+  "52_week_low": 404.42,
+  "avg_volume_10d": 2464110,
+  "avg_volume_3m": 1621891,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ELV",
+  "name": "Elevance Health, Inc.",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 70625492992,
+  "pe_ratio": 12.688343,
+  "forward_pe": 10.82626,
+  "pb_ratio": 1.609585,
+  "dividend_yield": 2.15,
+  "52_week_high": 458.75,
+  "52_week_low": 273.71,
+  "avg_volume_10d": 1566420,
+  "avg_volume_3m": 1652943,
+  "fetched_at": "2026-03-02"
+}

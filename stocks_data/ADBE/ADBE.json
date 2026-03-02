@@ -1,0 +1,21 @@
+{
+  "symbol": "ADBE",
+  "name": "Adobe Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 109844824064,
+  "pe_ratio": 15.722589,
+  "forward_pe": 9.94047,
+  "pb_ratio": 9.324166,
+  "dividend_yield": null,
+  "52_week_high": 453.26,
+  "52_week_low": 244.28,
+  "avg_volume_10d": 5658220,
+  "avg_volume_3m": 5180658,
+  "fetched_at": "2026-03-02"
+}

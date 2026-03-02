@@ -1,0 +1,21 @@
+{
+  "symbol": "POAHY",
+  "name": "Porsche Automobil Holding SE",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 13062904832,
+  "pe_ratio": null,
+  "forward_pe": 3.2368693,
+  "pb_ratio": 0.031043625,
+  "dividend_yield": 5.14,
+  "52_week_high": 4.79,
+  "52_week_low": 3.3,
+  "avg_volume_10d": 109970,
+  "avg_volume_3m": 115045,
+  "fetched_at": "2026-03-02"
+}

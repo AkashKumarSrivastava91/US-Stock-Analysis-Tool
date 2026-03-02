@@ -1,0 +1,21 @@
+{
+  "symbol": "JBHT",
+  "name": "J.B. Hunt Transport Services, Inc.",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 22224914432,
+  "pe_ratio": 38.13889,
+  "forward_pe": 26.39268,
+  "pb_ratio": 6.193218,
+  "dividend_yield": 0.77,
+  "52_week_high": 234.82,
+  "52_week_low": 122.79,
+  "avg_volume_10d": 798550,
+  "avg_volume_3m": 1130948,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "XLK",
+  "name": "State Street Technology Select Sector SPDR ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 37750489088,
+  "pe_ratio": 35.10793,
+  "forward_pe": null,
+  "pb_ratio": 0.92906165,
+  "dividend_yield": 0.54,
+  "52_week_high": 152.995,
+  "52_week_low": 86.225,
+  "avg_volume_10d": 17755240,
+  "avg_volume_3m": 16621293,
+  "fetched_at": "2026-03-02"
+}

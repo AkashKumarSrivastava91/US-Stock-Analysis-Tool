@@ -1,0 +1,21 @@
+{
+  "symbol": "TTE",
+  "name": "TotalEnergies SE",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "France",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 170634117120,
+  "pe_ratio": 13.8996525,
+  "forward_pe": 11.114169,
+  "pb_ratio": 1.498573,
+  "dividend_yield": 4.87,
+  "52_week_high": 80.36,
+  "52_week_low": 52.78,
+  "avg_volume_10d": 1210830,
+  "avg_volume_3m": 1345140,
+  "fetched_at": "2026-03-02"
+}

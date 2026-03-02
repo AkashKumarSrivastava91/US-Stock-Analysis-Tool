@@ -1,0 +1,21 @@
+{
+  "symbol": "VEOEY",
+  "name": "Veolia Environnement SA",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 30955780096,
+  "pe_ratio": 23.252747,
+  "forward_pe": 9.008088,
+  "pb_ratio": 1.8642796,
+  "dividend_yield": 3.7,
+  "52_week_high": 21.28,
+  "52_week_low": 15.13,
+  "avg_volume_10d": 143810,
+  "avg_volume_3m": 98579,
+  "fetched_at": "2026-03-02"
+}

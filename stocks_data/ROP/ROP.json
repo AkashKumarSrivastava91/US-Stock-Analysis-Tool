@@ -1,0 +1,21 @@
+{
+  "symbol": "ROP",
+  "name": "Roper Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 37644042240,
+  "pe_ratio": 24.628874,
+  "forward_pe": 14.988096,
+  "pb_ratio": 1.8751676,
+  "dividend_yield": 1.04,
+  "52_week_high": 595.17,
+  "52_week_low": 313.07,
+  "avg_volume_10d": 1835100,
+  "avg_volume_3m": 1571023,
+  "fetched_at": "2026-03-02"
+}

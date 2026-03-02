@@ -1,0 +1,21 @@
+{
+  "symbol": "SPGI",
+  "name": "S&P Global Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 133801263104,
+  "pe_ratio": 30.121336,
+  "forward_pe": 20.021832,
+  "pb_ratio": 4.2417903,
+  "dividend_yield": 0.88,
+  "52_week_high": 579.05,
+  "52_week_low": 381.61,
+  "avg_volume_10d": 3267430,
+  "avg_volume_3m": 2379170,
+  "fetched_at": "2026-03-02"
+}

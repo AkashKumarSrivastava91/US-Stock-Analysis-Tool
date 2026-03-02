@@ -1,0 +1,21 @@
+{
+  "symbol": "EPAM",
+  "name": "EPAM Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 7853264384,
+  "pe_ratio": 21.493902,
+  "forward_pe": 10.112021,
+  "pb_ratio": 2.0810888,
+  "dividend_yield": null,
+  "52_week_high": 222.53,
+  "52_week_low": 125.57,
+  "avg_volume_10d": 1952320,
+  "avg_volume_3m": 1021563,
+  "fetched_at": "2026-03-02"
+}

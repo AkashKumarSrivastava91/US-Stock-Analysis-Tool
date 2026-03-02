@@ -1,0 +1,21 @@
+{
+  "symbol": "ADI",
+  "name": "Analog Devices, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 174214037504,
+  "pe_ratio": 78.1956,
+  "forward_pe": 27.585432,
+  "pb_ratio": 5.140954,
+  "dividend_yield": 1.14,
+  "52_week_high": 363.2,
+  "52_week_low": 158.65,
+  "avg_volume_10d": 4977940,
+  "avg_volume_3m": 3952655,
+  "fetched_at": "2026-03-02"
+}

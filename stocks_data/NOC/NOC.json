@@ -1,0 +1,21 @@
+{
+  "symbol": "NOC",
+  "name": "Northrop Grumman Corporation",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 103383564288,
+  "pe_ratio": 24.935629,
+  "forward_pe": 24.116875,
+  "pb_ratio": 6.168874,
+  "dividend_yield": 1.28,
+  "52_week_high": 745.55,
+  "52_week_low": 450.13,
+  "avg_volume_10d": 865880,
+  "avg_volume_3m": 905425,
+  "fetched_at": "2026-03-02"
+}

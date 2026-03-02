@@ -1,0 +1,21 @@
+{
+  "symbol": "MTSUY",
+  "name": "Mitsubishi Corporation",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 124727689216,
+  "pe_ratio": 30.214285,
+  "forward_pe": null,
+  "pb_ratio": 2.1471758,
+  "dividend_yield": 2.05,
+  "52_week_high": 34.92,
+  "52_week_low": 15.66,
+  "avg_volume_10d": 1201160,
+  "avg_volume_3m": 296825,
+  "fetched_at": "2026-03-02"
+}

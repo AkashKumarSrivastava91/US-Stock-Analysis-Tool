@@ -1,0 +1,21 @@
+{
+  "symbol": "INTU",
+  "name": "Intuit Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 113873952768,
+  "pe_ratio": 28.092718,
+  "forward_pe": 15.501705,
+  "pb_ratio": 5.9565454,
+  "dividend_yield": 1.1,
+  "52_week_high": 813.7,
+  "52_week_low": 349.0,
+  "avg_volume_10d": 5732000,
+  "avg_volume_3m": 3287058,
+  "fetched_at": "2026-03-02"
+}

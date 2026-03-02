@@ -1,0 +1,21 @@
+{
+  "symbol": "SQM",
+  "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "Chile",
+  "region": "Chile",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21794166784,
+  "pe_ratio": null,
+  "forward_pe": 15.792132,
+  "pb_ratio": 3.9685843,
+  "dividend_yield": null,
+  "52_week_high": 86.13,
+  "52_week_low": 29.36,
+  "avg_volume_10d": 1214320,
+  "avg_volume_3m": 1427215,
+  "fetched_at": "2026-03-02"
+}

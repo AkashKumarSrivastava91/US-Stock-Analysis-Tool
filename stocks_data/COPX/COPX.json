@@ -1,0 +1,21 @@
+{
+  "symbol": "COPX",
+  "name": "Global X Copper Miners ETF",
+  "sector": "Materials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 27.759031,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.22,
+  "52_week_high": 99.99,
+  "52_week_low": 30.77,
+  "avg_volume_10d": 4829960,
+  "avg_volume_3m": 4935296,
+  "fetched_at": "2026-03-02"
+}

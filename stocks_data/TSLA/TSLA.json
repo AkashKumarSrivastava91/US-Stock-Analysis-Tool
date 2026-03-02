@@ -1,0 +1,21 @@
+{
+  "symbol": "TSLA",
+  "name": "Tesla, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1510391414784,
+  "pe_ratio": 369.27524,
+  "forward_pe": 143.53212,
+  "pb_ratio": 18.381971,
+  "dividend_yield": null,
+  "52_week_high": 498.83,
+  "52_week_low": 214.25,
+  "avg_volume_10d": 55939870,
+  "avg_volume_3m": 66280905,
+  "fetched_at": "2026-03-02"
+}

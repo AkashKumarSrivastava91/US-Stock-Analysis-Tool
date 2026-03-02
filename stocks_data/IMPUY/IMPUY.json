@@ -1,0 +1,21 @@
+{
+  "symbol": "IMPUY",
+  "name": "Impala Platinum Holdings Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 19966464000,
+  "pe_ratio": 442.8,
+  "forward_pe": 5.5174127,
+  "pb_ratio": 3.459001,
+  "dividend_yield": 0.43,
+  "52_week_high": 23.5,
+  "52_week_low": 4.57,
+  "avg_volume_10d": 205940,
+  "avg_volume_3m": 394086,
+  "fetched_at": "2026-03-02"
+}

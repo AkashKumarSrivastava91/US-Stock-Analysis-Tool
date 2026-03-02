@@ -1,0 +1,21 @@
+{
+  "symbol": "SHOP",
+  "name": "Shopify Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "Canada",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 157562748928,
+  "pe_ratio": 128.43617,
+  "forward_pe": 52.67843,
+  "pb_ratio": 11.683926,
+  "dividend_yield": null,
+  "52_week_high": 182.19,
+  "52_week_low": 69.84,
+  "avg_volume_10d": 13566290,
+  "avg_volume_3m": 10725963,
+  "fetched_at": "2026-03-02"
+}

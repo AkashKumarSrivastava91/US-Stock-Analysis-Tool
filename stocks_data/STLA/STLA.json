@@ -1,0 +1,21 @@
+{
+  "symbol": "STLA",
+  "name": "Stellantis N.V.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Netherlands",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 23369777152,
+  "pe_ratio": null,
+  "forward_pe": 4.2184854,
+  "pb_ratio": 0.36991456,
+  "dividend_yield": 10.58,
+  "52_week_high": 13.14,
+  "52_week_low": 7.03,
+  "avg_volume_10d": 13799950,
+  "avg_volume_3m": 14742601,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "GXG",
+  "name": "Global X MSCI Colombia ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 9.962434,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 6.41,
+  "52_week_high": 30.48,
+  "52_week_low": 22.3,
+  "avg_volume_10d": 119040,
+  "avg_volume_3m": 82636,
+  "fetched_at": "2026-03-02"
+}

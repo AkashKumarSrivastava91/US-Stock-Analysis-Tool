@@ -1,0 +1,21 @@
+{
+  "symbol": "UMC",
+  "name": "United Microelectronics Corporation",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Taiwan",
+  "region": "Taiwan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 26284068864,
+  "pe_ratio": 19.333332,
+  "forward_pe": 13.907575,
+  "pb_ratio": 10.823551,
+  "dividend_yield": 4.63,
+  "52_week_high": 12.68,
+  "52_week_low": 5.71,
+  "avg_volume_10d": 6691200,
+  "avg_volume_3m": 10559085,
+  "fetched_at": "2026-03-02"
+}

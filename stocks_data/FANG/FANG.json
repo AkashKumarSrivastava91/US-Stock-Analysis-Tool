@@ -1,0 +1,21 @@
+{
+  "symbol": "FANG",
+  "name": "Diamondback Energy, Inc.",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 49878376448,
+  "pe_ratio": 30.380453,
+  "forward_pe": 13.59471,
+  "pb_ratio": 1.3399943,
+  "dividend_yield": 2.41,
+  "52_week_high": 177.25,
+  "52_week_low": 114.0,
+  "avg_volume_10d": 2548720,
+  "avg_volume_3m": 2035436,
+  "fetched_at": "2026-03-02"
+}

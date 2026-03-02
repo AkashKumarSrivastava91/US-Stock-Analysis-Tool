@@ -1,0 +1,21 @@
+{
+  "symbol": "TECH",
+  "name": "Bio-Techne Corporation",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 9230744576,
+  "pe_ratio": 111.32076,
+  "forward_pe": 27.208124,
+  "pb_ratio": 4.573289,
+  "dividend_yield": 0.54,
+  "52_week_high": 72.16,
+  "52_week_low": 46.01,
+  "avg_volume_10d": 2537100,
+  "avg_volume_3m": 2190620,
+  "fetched_at": "2026-03-02"
+}

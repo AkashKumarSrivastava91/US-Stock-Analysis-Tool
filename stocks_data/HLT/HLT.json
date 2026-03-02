@@ -1,0 +1,21 @@
+{
+  "symbol": "HLT",
+  "name": "Hilton Worldwide Holdings Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 72468635648,
+  "pe_ratio": 51.02782,
+  "forward_pe": 29.921907,
+  "pb_ratio": -13.334188,
+  "dividend_yield": 0.19,
+  "52_week_high": 333.86,
+  "52_week_low": 196.04,
+  "avg_volume_10d": 1786580,
+  "avg_volume_3m": 1857673,
+  "fetched_at": "2026-03-02"
+}

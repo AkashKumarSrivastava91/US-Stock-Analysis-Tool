@@ -1,0 +1,21 @@
+{
+  "symbol": "SPY",
+  "name": "State Street SPDR S&P 500 ETF Trust",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 629589278720,
+  "pe_ratio": 27.622122,
+  "forward_pe": null,
+  "pb_ratio": 1.5982246,
+  "dividend_yield": 1.05,
+  "52_week_high": 697.84,
+  "52_week_low": 481.8,
+  "avg_volume_10d": 78537830,
+  "avg_volume_3m": 80171525,
+  "fetched_at": "2026-03-02"
+}

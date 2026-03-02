@@ -1,0 +1,21 @@
+{
+  "symbol": "SUPV",
+  "name": "Grupo Supervielle S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 880001856,
+  "pe_ratio": 42.545452,
+  "forward_pe": 12.153476,
+  "pb_ratio": 6.013716,
+  "dividend_yield": null,
+  "52_week_high": 17.02,
+  "52_week_low": 4.54,
+  "avg_volume_10d": 824700,
+  "avg_volume_3m": 1108967,
+  "fetched_at": "2026-03-02"
+}

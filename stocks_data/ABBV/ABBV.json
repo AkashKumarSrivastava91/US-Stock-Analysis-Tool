@@ -1,0 +1,21 @@
+{
+  "symbol": "ABBV",
+  "name": "AbbVie Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 410356645888,
+  "pe_ratio": 97.92406,
+  "forward_pe": 14.400291,
+  "pb_ratio": -125.44865,
+  "dividend_yield": 2.9,
+  "52_week_high": 244.81,
+  "52_week_low": 164.39,
+  "avg_volume_10d": 6241580,
+  "avg_volume_3m": 6510666,
+  "fetched_at": "2026-03-02"
+}

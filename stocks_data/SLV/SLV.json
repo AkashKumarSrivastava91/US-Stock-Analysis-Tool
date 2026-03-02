@@ -1,0 +1,21 @@
+{
+  "symbol": "SLV",
+  "name": "iShares Silver Trust",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 29019834368,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 3.9811692,
+  "dividend_yield": 0.0,
+  "52_week_high": 109.83,
+  "52_week_low": 26.57,
+  "avg_volume_10d": 68846860,
+  "avg_volume_3m": 108292755,
+  "fetched_at": "2026-03-02"
+}

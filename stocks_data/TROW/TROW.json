@@ -1,0 +1,21 @@
+{
+  "symbol": "TROW",
+  "name": "T. Rowe Price Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 20651765760,
+  "pe_ratio": 10.241342,
+  "forward_pe": 9.2556095,
+  "pb_ratio": 1.9044839,
+  "dividend_yield": 5.5,
+  "52_week_high": 118.22,
+  "52_week_low": 77.85,
+  "avg_volume_10d": 1959520,
+  "avg_volume_3m": 2021203,
+  "fetched_at": "2026-03-02"
+}

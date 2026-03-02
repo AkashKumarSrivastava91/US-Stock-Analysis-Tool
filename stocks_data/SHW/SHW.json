@@ -1,0 +1,21 @@
+{
+  "symbol": "SHW",
+  "name": "The Sherwin-Williams Company",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 89840648192,
+  "pe_ratio": 35.340157,
+  "forward_pe": 26.75779,
+  "pb_ratio": 19.419956,
+  "dividend_yield": 0.88,
+  "52_week_high": 379.65,
+  "52_week_low": 308.84,
+  "avg_volume_10d": 1608280,
+  "avg_volume_3m": 1764286,
+  "fetched_at": "2026-03-02"
+}

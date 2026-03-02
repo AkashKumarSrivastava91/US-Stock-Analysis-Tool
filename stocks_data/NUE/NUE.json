@@ -1,0 +1,21 @@
+{
+  "symbol": "NUE",
+  "name": "Nucor Corporation",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 40480518144,
+  "pe_ratio": 23.521276,
+  "forward_pe": 13.015175,
+  "pb_ratio": 1.9288144,
+  "dividend_yield": 1.27,
+  "52_week_high": 196.9,
+  "52_week_low": 97.59,
+  "avg_volume_10d": 1784960,
+  "avg_volume_3m": 1761171,
+  "fetched_at": "2026-03-02"
+}

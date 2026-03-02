@@ -1,0 +1,21 @@
+{
+  "symbol": "BAP",
+  "name": "Credicorp Ltd.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Peru",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27490906112,
+  "pe_ratio": 13.567568,
+  "forward_pe": 10.766441,
+  "pb_ratio": 2.4537888,
+  "dividend_yield": 3.18,
+  "52_week_high": 380.2,
+  "52_week_low": 165.51,
+  "avg_volume_10d": 611540,
+  "avg_volume_3m": 471950,
+  "fetched_at": "2026-03-02"
+}

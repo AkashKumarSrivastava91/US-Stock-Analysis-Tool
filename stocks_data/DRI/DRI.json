@@ -1,0 +1,21 @@
+{
+  "symbol": "DRI",
+  "name": "Darden Restaurants, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24873697280,
+  "pe_ratio": 22.416143,
+  "forward_pe": 18.768206,
+  "pb_ratio": 11.852242,
+  "dividend_yield": 2.81,
+  "52_week_high": 228.27,
+  "52_week_low": 169.0,
+  "avg_volume_10d": 1085620,
+  "avg_volume_3m": 1565583,
+  "fetched_at": "2026-03-02"
+}

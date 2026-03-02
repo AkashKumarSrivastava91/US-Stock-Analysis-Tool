@@ -1,0 +1,21 @@
+{
+  "symbol": "AKAM",
+  "name": "Akamai Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 14255541248,
+  "pe_ratio": 32.04886,
+  "forward_pe": 12.948541,
+  "pb_ratio": 2.8605902,
+  "dividend_yield": null,
+  "52_week_high": 113.5,
+  "52_week_low": 67.51,
+  "avg_volume_10d": 6252500,
+  "avg_volume_3m": 3587673,
+  "fetched_at": "2026-03-02"
+}

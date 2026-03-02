@@ -1,0 +1,21 @@
+{
+  "symbol": "NDAQ",
+  "name": "Nasdaq, Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 50007781376,
+  "pe_ratio": 28.343044,
+  "forward_pe": 20.052479,
+  "pb_ratio": 4.082032,
+  "dividend_yield": 1.23,
+  "52_week_high": 101.79,
+  "52_week_low": 64.84,
+  "avg_volume_10d": 4990390,
+  "avg_volume_3m": 4632481,
+  "fetched_at": "2026-03-02"
+}

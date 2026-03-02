@@ -1,0 +1,21 @@
+{
+  "symbol": "ODFL",
+  "name": "Old Dominion Freight Line, Inc.",
+  "sector": "Industrials",
+  "industry": "Trucking",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 42674642944,
+  "pe_ratio": 41.95248,
+  "forward_pe": 33.86074,
+  "pb_ratio": 9.822941,
+  "dividend_yield": 0.57,
+  "52_week_high": 208.74,
+  "52_week_low": 126.01,
+  "avg_volume_10d": 1961490,
+  "avg_volume_3m": 2387641,
+  "fetched_at": "2026-03-02"
+}

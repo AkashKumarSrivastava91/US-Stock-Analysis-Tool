@@ -1,0 +1,21 @@
+{
+  "symbol": "SBGSY",
+  "name": "Schneider Electric S.E.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 183312777216,
+  "pe_ratio": 34.321053,
+  "forward_pe": 24.459866,
+  "pb_ratio": 1.2837294,
+  "dividend_yield": 1.34,
+  "52_week_high": 65.67,
+  "52_week_low": 39.77,
+  "avg_volume_10d": 398480,
+  "avg_volume_3m": 480498,
+  "fetched_at": "2026-03-02"
+}

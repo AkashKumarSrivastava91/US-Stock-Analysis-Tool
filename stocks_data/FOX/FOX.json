@@ -1,0 +1,21 @@
+{
+  "symbol": "FOX",
+  "name": "Fox Corporation",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 24150353920,
+  "pe_ratio": 12.405275,
+  "forward_pe": 10.436442,
+  "pb_ratio": 2.0130754,
+  "dividend_yield": 1.08,
+  "52_week_high": 68.175,
+  "52_week_low": 43.18,
+  "avg_volume_10d": 1962020,
+  "avg_volume_3m": 1551633,
+  "fetched_at": "2026-03-02"
+}

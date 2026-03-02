@@ -1,0 +1,21 @@
+{
+  "symbol": "SNN",
+  "name": "Smith & Nephew plc",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15662429184,
+  "pe_ratio": 33.243244,
+  "forward_pe": 20.349752,
+  "pb_ratio": 5.8293843,
+  "dividend_yield": 2.07,
+  "52_week_high": 38.79,
+  "52_week_low": 23.91,
+  "avg_volume_10d": 718840,
+  "avg_volume_3m": 784549,
+  "fetched_at": "2026-03-02"
+}

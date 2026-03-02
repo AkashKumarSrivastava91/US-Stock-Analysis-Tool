@@ -1,0 +1,21 @@
+{
+  "symbol": "AIG",
+  "name": "American International Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43430477824,
+  "pe_ratio": 14.823204,
+  "forward_pe": 9.095161,
+  "pb_ratio": 1.0529689,
+  "dividend_yield": 2.24,
+  "52_week_high": 88.07,
+  "52_week_low": 71.25,
+  "avg_volume_10d": 3996670,
+  "avg_volume_3m": 5056096,
+  "fetched_at": "2026-03-02"
+}

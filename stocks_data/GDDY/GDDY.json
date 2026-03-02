@@ -1,0 +1,21 @@
+{
+  "symbol": "GDDY",
+  "name": "GoDaddy Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 12067217408,
+  "pe_ratio": 15.027586,
+  "forward_pe": 6.662081,
+  "pb_ratio": 54.611534,
+  "dividend_yield": null,
+  "52_week_high": 193.55,
+  "52_week_low": 73.06,
+  "avg_volume_10d": 3425120,
+  "avg_volume_3m": 1901463,
+  "fetched_at": "2026-03-02"
+}

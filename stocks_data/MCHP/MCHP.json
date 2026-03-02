@@ -1,0 +1,21 @@
+{
+  "symbol": "MCHP",
+  "name": "Microchip Technology Incorporated",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 40390352896,
+  "pe_ratio": null,
+  "forward_pe": 28.1149,
+  "pb_ratio": 6.156892,
+  "dividend_yield": 2.44,
+  "52_week_high": 83.35,
+  "52_week_low": 34.13,
+  "avg_volume_10d": 7370320,
+  "avg_volume_3m": 9279183,
+  "fetched_at": "2026-03-02"
+}

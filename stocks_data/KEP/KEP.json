@@ -1,0 +1,21 @@
+{
+  "symbol": "KEP",
+  "name": "Korea Electric Power Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25036599296,
+  "pe_ratio": 4.3429847,
+  "forward_pe": 3.1443498,
+  "pb_ratio": 0.3841446,
+  "dividend_yield": 0.45,
+  "52_week_high": 23.41,
+  "52_week_low": 7.08,
+  "avg_volume_10d": 646310,
+  "avg_volume_3m": 571911,
+  "fetched_at": "2026-03-02"
+}

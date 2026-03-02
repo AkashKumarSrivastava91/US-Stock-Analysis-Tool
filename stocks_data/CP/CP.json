@@ -1,0 +1,21 @@
+{
+  "symbol": "CP",
+  "name": "Canadian Pacific Kansas City Limited",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 78629904384,
+  "pe_ratio": 26.6231,
+  "forward_pe": 20.380426,
+  "pb_ratio": 2.3438706,
+  "dividend_yield": 0.76,
+  "52_week_high": 88.96,
+  "52_week_low": 66.49,
+  "avg_volume_10d": 3080090,
+  "avg_volume_3m": 2529746,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "LQD",
+  "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+  "sector": "Fixed Income",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 32778080256,
+  "pe_ratio": 33.77079,
+  "forward_pe": null,
+  "pb_ratio": 0.82565075,
+  "dividend_yield": 4.47,
+  "52_week_high": 112.93,
+  "52_week_low": 103.45,
+  "avg_volume_10d": 36823970,
+  "avg_volume_3m": 30405384,
+  "fetched_at": "2026-03-02"
+}

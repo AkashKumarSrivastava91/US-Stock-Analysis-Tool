@@ -1,0 +1,21 @@
+{
+  "symbol": "LDOS",
+  "name": "Leidos Holdings, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22387441664,
+  "pe_ratio": 15.718133,
+  "forward_pe": 13.554709,
+  "pb_ratio": 4.5015173,
+  "dividend_yield": 0.95,
+  "52_week_high": 205.77,
+  "52_week_low": 127.39,
+  "avg_volume_10d": 1528230,
+  "avg_volume_3m": 991090,
+  "fetched_at": "2026-03-02"
+}

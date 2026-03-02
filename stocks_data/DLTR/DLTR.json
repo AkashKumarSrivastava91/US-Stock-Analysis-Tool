@@ -1,0 +1,21 @@
+{
+  "symbol": "DLTR",
+  "name": "Dollar Tree, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 25797853184,
+  "pe_ratio": 24.0,
+  "forward_pe": 18.78269,
+  "pb_ratio": 7.326228,
+  "dividend_yield": null,
+  "52_week_high": 142.4,
+  "52_week_low": 61.8,
+  "avg_volume_10d": 2887460,
+  "avg_volume_3m": 3222011,
+  "fetched_at": "2026-03-02"
+}

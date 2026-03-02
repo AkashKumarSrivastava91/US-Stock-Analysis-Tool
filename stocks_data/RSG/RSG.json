@@ -1,0 +1,21 @@
+{
+  "symbol": "RSG",
+  "name": "Republic Services, Inc.",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 70890061824,
+  "pe_ratio": 33.430656,
+  "forward_pe": 28.462374,
+  "pb_ratio": 5.8934045,
+  "dividend_yield": 1.09,
+  "52_week_high": 258.75,
+  "52_week_low": 201.42,
+  "avg_volume_10d": 1588120,
+  "avg_volume_3m": 1506625,
+  "fetched_at": "2026-03-02"
+}

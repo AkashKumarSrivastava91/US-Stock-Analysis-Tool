@@ -1,0 +1,21 @@
+{
+  "symbol": "HCMLY",
+  "name": "Holcim AG",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 51274772480,
+  "pe_ratio": 12.4625845,
+  "forward_pe": 17.405184,
+  "pb_ratio": 0.53434104,
+  "dividend_yield": 4.08,
+  "52_week_high": 30.0,
+  "52_week_low": 15.14,
+  "avg_volume_10d": 189980,
+  "avg_volume_3m": 129398,
+  "fetched_at": "2026-03-02"
+}

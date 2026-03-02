@@ -1,0 +1,21 @@
+{
+  "symbol": "TSCDY",
+  "name": "Tesco PLC",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 41035235328,
+  "pe_ratio": 21.054348,
+  "forward_pe": 15.571366,
+  "pb_ratio": 8.644022,
+  "dividend_yield": 2.97,
+  "52_week_high": 20.54,
+  "52_week_low": 12.16,
+  "avg_volume_10d": 431150,
+  "avg_volume_3m": 370801,
+  "fetched_at": "2026-03-02"
+}

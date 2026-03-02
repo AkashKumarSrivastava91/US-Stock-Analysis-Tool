@@ -1,0 +1,21 @@
+{
+  "symbol": "ETN",
+  "name": "Eaton Corporation plc",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 146345656320,
+  "pe_ratio": 35.97321,
+  "forward_pe": 24.470757,
+  "pb_ratio": 7.5068398,
+  "dividend_yield": 1.17,
+  "52_week_high": 408.45,
+  "52_week_low": 231.85,
+  "avg_volume_10d": 2397390,
+  "avg_volume_3m": 2999628,
+  "fetched_at": "2026-03-02"
+}

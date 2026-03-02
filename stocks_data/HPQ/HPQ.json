@@ -1,0 +1,21 @@
+{
+  "symbol": "HPQ",
+  "name": "HP Inc.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17749987328,
+  "pe_ratio": 7.1660376,
+  "forward_pe": 6.321508,
+  "pb_ratio": -22.742516,
+  "dividend_yield": 6.32,
+  "52_week_high": 31.43,
+  "52_week_low": 17.56,
+  "avg_volume_10d": 23238080,
+  "avg_volume_3m": 17519725,
+  "fetched_at": "2026-03-02"
+}

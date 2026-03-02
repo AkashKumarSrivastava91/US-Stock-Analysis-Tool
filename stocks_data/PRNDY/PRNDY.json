@@ -1,0 +1,21 @@
+{
+  "symbol": "PRNDY",
+  "name": "Pernod Ricard SA",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23330574336,
+  "pe_ratio": 12.111112,
+  "forward_pe": 13.301845,
+  "pb_ratio": 0.25535056,
+  "dividend_yield": 5.9,
+  "52_week_high": 24.13,
+  "52_week_low": 16.73,
+  "avg_volume_10d": 371210,
+  "avg_volume_3m": 727985,
+  "fetched_at": "2026-03-02"
+}

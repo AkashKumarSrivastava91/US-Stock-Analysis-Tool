@@ -1,0 +1,21 @@
+{
+  "symbol": "RJF",
+  "name": "Raymond James Financial, Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 30228692992,
+  "pe_ratio": 14.963833,
+  "forward_pe": 11.128995,
+  "pb_ratio": 2.4146633,
+  "dividend_yield": 1.41,
+  "52_week_high": 177.66,
+  "52_week_low": 117.57,
+  "avg_volume_10d": 1397310,
+  "avg_volume_3m": 1382688,
+  "fetched_at": "2026-03-02"
+}

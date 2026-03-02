@@ -1,0 +1,21 @@
+{
+  "symbol": "DHLGY",
+  "name": "Deutsche Post AG",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 68253474816,
+  "pe_ratio": 16.231403,
+  "forward_pe": 15.751442,
+  "pb_ratio": 2.5929778,
+  "dividend_yield": 3.56,
+  "52_week_high": 61.18,
+  "52_week_low": 35.59,
+  "avg_volume_10d": 134780,
+  "avg_volume_3m": 277630,
+  "fetched_at": "2026-03-02"
+}

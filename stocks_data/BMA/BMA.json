@@ -1,0 +1,21 @@
+{
+  "symbol": "BMA",
+  "name": "Banco Macro S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 5440844288,
+  "pe_ratio": 30.03113,
+  "forward_pe": 7.780817,
+  "pb_ratio": 13.045556,
+  "dividend_yield": 3.73,
+  "52_week_high": 106.15,
+  "52_week_low": 38.3,
+  "avg_volume_10d": 397940,
+  "avg_volume_3m": 286847,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EADSY",
+  "name": "Airbus SE",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Netherlands",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 173954826240,
+  "pe_ratio": 28.661375,
+  "forward_pe": 23.643044,
+  "pb_ratio": 1.3842329,
+  "dividend_yield": 1.05,
+  "52_week_high": 64.35,
+  "52_week_low": 36.28,
+  "avg_volume_10d": 846760,
+  "avg_volume_3m": 545913,
+  "fetched_at": "2026-03-02"
+}

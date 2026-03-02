@@ -1,0 +1,21 @@
+{
+  "symbol": "APP",
+  "name": "AppLovin Corporation",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 146932695040,
+  "pe_ratio": 43.303783,
+  "forward_pe": 21.84653,
+  "pb_ratio": 68.90174,
+  "dividend_yield": null,
+  "52_week_high": 745.61,
+  "52_week_low": 200.5,
+  "avg_volume_10d": 6398440,
+  "avg_volume_3m": 5633191,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "VNET",
+  "name": "VNET Group, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 2900099072,
+  "pe_ratio": null,
+  "forward_pe": 106.48196,
+  "pb_ratio": 3.4526634,
+  "dividend_yield": null,
+  "52_week_high": 14.48,
+  "52_week_low": 4.65,
+  "avg_volume_10d": 8374260,
+  "avg_volume_3m": 5500713,
+  "fetched_at": "2026-03-02"
+}

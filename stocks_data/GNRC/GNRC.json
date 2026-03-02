@@ -1,0 +1,21 @@
+{
+  "symbol": "GNRC",
+  "name": "Generac Holdings Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13225627648,
+  "pe_ratio": 84.09328,
+  "forward_pe": 21.943878,
+  "pb_ratio": 5.023516,
+  "dividend_yield": null,
+  "52_week_high": 241.09,
+  "52_week_low": 99.5,
+  "avg_volume_10d": 1358610,
+  "avg_volume_3m": 1183403,
+  "fetched_at": "2026-03-02"
+}

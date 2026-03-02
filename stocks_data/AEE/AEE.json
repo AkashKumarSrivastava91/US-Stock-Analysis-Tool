@@ -1,0 +1,21 @@
+{
+  "symbol": "AEE",
+  "name": "Ameren Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 31310592000,
+  "pe_ratio": 21.784616,
+  "forward_pe": 19.502687,
+  "pb_ratio": 2.3364408,
+  "dividend_yield": 2.65,
+  "52_week_high": 113.44,
+  "52_week_low": 91.77,
+  "avg_volume_10d": 1974010,
+  "avg_volume_3m": 1850381,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "CX",
+  "name": "CEMEX, S.A.B. de C.V.",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "Mexico",
+  "region": "Mexico",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18149918720,
+  "pe_ratio": 46.333332,
+  "forward_pe": 12.986205,
+  "pb_ratio": 15.977012,
+  "dividend_yield": 0.7,
+  "52_week_high": 13.35,
+  "52_week_low": 4.89,
+  "avg_volume_10d": 5443080,
+  "avg_volume_3m": 6274826,
+  "fetched_at": "2026-03-02"
+}

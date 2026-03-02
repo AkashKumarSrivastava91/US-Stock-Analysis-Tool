@@ -1,0 +1,21 @@
+{
+  "symbol": "CDW",
+  "name": "CDW Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 16073289728,
+  "pe_ratio": 15.178218,
+  "forward_pe": 10.890704,
+  "pb_ratio": 6.0893745,
+  "dividend_yield": 2.05,
+  "52_week_high": 192.3,
+  "52_week_low": 118.44,
+  "avg_volume_10d": 1895700,
+  "avg_volume_3m": 1828326,
+  "fetched_at": "2026-03-02"
+}

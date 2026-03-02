@@ -1,0 +1,21 @@
+{
+  "symbol": "FUJIY",
+  "name": "FUJIFILM Holdings Corporation",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 25071738880,
+  "pe_ratio": 14.25,
+  "forward_pe": 12.825,
+  "pb_ratio": 0.5180831,
+  "dividend_yield": 2.27,
+  "52_week_high": 12.99,
+  "52_week_low": 8.69,
+  "avg_volume_10d": 441690,
+  "avg_volume_3m": 339786,
+  "fetched_at": "2026-03-02"
+}

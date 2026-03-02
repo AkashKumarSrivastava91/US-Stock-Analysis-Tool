@@ -1,0 +1,21 @@
+{
+  "symbol": "SOHU",
+  "name": "Sohu.com Limited",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 545964288,
+  "pe_ratio": 1.1833811,
+  "forward_pe": -4.7762785,
+  "pb_ratio": 0.3446693,
+  "dividend_yield": null,
+  "52_week_high": 17.3,
+  "52_week_low": 7.79,
+  "avg_volume_10d": 28720,
+  "avg_volume_3m": 40843,
+  "fetched_at": "2026-03-02"
+}

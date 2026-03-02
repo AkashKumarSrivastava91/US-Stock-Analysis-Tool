@@ -1,0 +1,21 @@
+{
+  "symbol": "MTN",
+  "name": "Vail Resorts, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "country": "United States",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 4882805248,
+  "pe_ratio": 19.541008,
+  "forward_pe": 17.020418,
+  "pb_ratio": 31.206339,
+  "dividend_yield": 6.54,
+  "52_week_high": 175.51,
+  "52_week_low": 126.16,
+  "avg_volume_10d": 844790,
+  "avg_volume_3m": 952350,
+  "fetched_at": "2026-03-02"
+}

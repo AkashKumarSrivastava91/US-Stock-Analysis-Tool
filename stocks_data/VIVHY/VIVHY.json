@@ -1,0 +1,21 @@
+{
+  "symbol": "VIVHY",
+  "name": "Vivendi SE",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 2527377408,
+  "pe_ratio": null,
+  "forward_pe": 2.6736841,
+  "pb_ratio": 0.44272825,
+  "dividend_yield": 1.79,
+  "52_week_high": 4.16,
+  "52_week_low": 2.46,
+  "avg_volume_10d": 37970,
+  "avg_volume_3m": 63452,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "MKC",
+  "name": "McCormick & Company, Incorporated",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 19069853696,
+  "pe_ratio": 24.245733,
+  "forward_pe": 21.132229,
+  "pb_ratio": 3.3238199,
+  "dividend_yield": 2.7,
+  "52_week_high": 86.24,
+  "52_week_low": 59.62,
+  "avg_volume_10d": 3069440,
+  "avg_volume_3m": 3601060,
+  "fetched_at": "2026-03-02"
+}

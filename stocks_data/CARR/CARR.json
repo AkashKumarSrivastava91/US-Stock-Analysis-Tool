@@ -1,0 +1,21 @@
+{
+  "symbol": "CARR",
+  "name": "Carrier Global Corporation",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 53828349952,
+  "pe_ratio": 38.10651,
+  "forward_pe": 20.268463,
+  "pb_ratio": 3.9009025,
+  "dividend_yield": 1.49,
+  "52_week_high": 81.09,
+  "52_week_low": 50.24,
+  "avg_volume_10d": 5645630,
+  "avg_volume_3m": 7832531,
+  "fetched_at": "2026-03-02"
+}

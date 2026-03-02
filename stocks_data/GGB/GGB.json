@@ -1,0 +1,21 @@
+{
+  "symbol": "GGB",
+  "name": "Gerdau S.A.",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 7979839488,
+  "pe_ratio": 13.931035,
+  "forward_pe": 7.3189807,
+  "pb_ratio": 0.7653501,
+  "dividend_yield": 2.82,
+  "52_week_high": 4.66,
+  "52_week_low": 2.27,
+  "avg_volume_10d": 17661930,
+  "avg_volume_3m": 17692091,
+  "fetched_at": "2026-03-02"
+}

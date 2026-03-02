@@ -1,0 +1,21 @@
+{
+  "symbol": "CPER",
+  "name": "United States Copper Index Fund, LP",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 4.2695074,
+  "forward_pe": null,
+  "pb_ratio": 1.4969356,
+  "dividend_yield": 0.0,
+  "52_week_high": 40.44,
+  "52_week_low": 25.65,
+  "avg_volume_10d": 884770,
+  "avg_volume_3m": 1377089,
+  "fetched_at": "2026-03-02"
+}

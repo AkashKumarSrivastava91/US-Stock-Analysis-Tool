@@ -1,0 +1,21 @@
+{
+  "symbol": "INTC",
+  "name": "Intel Corporation",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 227830087680,
+  "pe_ratio": null,
+  "forward_pe": 46.01586,
+  "pb_ratio": 1.9930955,
+  "dividend_yield": null,
+  "52_week_high": 54.6,
+  "52_week_low": 17.67,
+  "avg_volume_10d": 74665460,
+  "avg_volume_3m": 103639473,
+  "fetched_at": "2026-03-02"
+}

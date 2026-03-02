@@ -1,0 +1,21 @@
+{
+  "symbol": "FDS",
+  "name": "FactSet Research Systems Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 8113016320,
+  "pe_ratio": 13.791985,
+  "forward_pe": 11.436791,
+  "pb_ratio": 3.7247458,
+  "dividend_yield": 2.03,
+  "52_week_high": 474.79,
+  "52_week_low": 185.0,
+  "avg_volume_10d": 1153900,
+  "avg_volume_3m": 916173,
+  "fetched_at": "2026-03-02"
+}

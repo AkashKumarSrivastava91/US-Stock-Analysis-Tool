@@ -1,0 +1,21 @@
+{
+  "symbol": "EFA",
+  "name": "iShares MSCI EAFE ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "International",
+  "region": "International",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 98888589312,
+  "pe_ratio": 19.847765,
+  "forward_pe": null,
+  "pb_ratio": 1.4540988,
+  "dividend_yield": 3.22,
+  "52_week_high": 105.94,
+  "52_week_low": 72.15,
+  "avg_volume_10d": 20048090,
+  "avg_volume_3m": 20458005,
+  "fetched_at": "2026-03-02"
+}

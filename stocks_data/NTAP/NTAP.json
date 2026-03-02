@@ -1,0 +1,21 @@
+{
+  "symbol": "NTAP",
+  "name": "NetApp, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 19768207360,
+  "pe_ratio": 17.252613,
+  "forward_pe": 11.594227,
+  "pb_ratio": 16.933994,
+  "dividend_yield": 2.1,
+  "52_week_high": 126.66,
+  "52_week_low": 71.84,
+  "avg_volume_10d": 2603320,
+  "avg_volume_3m": 2260648,
+  "fetched_at": "2026-03-02"
+}

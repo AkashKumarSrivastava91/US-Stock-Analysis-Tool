@@ -1,0 +1,21 @@
+{
+  "symbol": "VRSK",
+  "name": "Verisk Analytics, Inc.",
+  "sector": "Industrials",
+  "industry": "Consulting Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 29000638464,
+  "pe_ratio": 31.933847,
+  "forward_pe": 24.210281,
+  "pb_ratio": 92.955666,
+  "dividend_yield": 0.96,
+  "52_week_high": 322.92,
+  "52_week_low": 164.6,
+  "avg_volume_10d": 2701010,
+  "avg_volume_3m": 1829720,
+  "fetched_at": "2026-03-02"
+}

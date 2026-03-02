@@ -1,0 +1,21 @@
+{
+  "symbol": "CVS",
+  "name": "CVS Health Corporation",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 101649670144,
+  "pe_ratio": 57.482018,
+  "forward_pe": 9.763131,
+  "pb_ratio": 1.3501868,
+  "dividend_yield": 3.33,
+  "52_week_high": 85.15,
+  "52_week_low": 58.35,
+  "avg_volume_10d": 7709460,
+  "avg_volume_3m": 8630215,
+  "fetched_at": "2026-03-02"
+}

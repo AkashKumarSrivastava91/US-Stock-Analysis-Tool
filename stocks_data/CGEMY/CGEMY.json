@@ -1,0 +1,21 @@
+{
+  "symbol": "CGEMY",
+  "name": "Capgemini SE",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 21326667776,
+  "pe_ratio": 11.689815,
+  "forward_pe": 7.439753,
+  "pb_ratio": 0.329571,
+  "dividend_yield": 3.03,
+  "52_week_high": 35.9,
+  "52_week_low": 23.06,
+  "avg_volume_10d": 561520,
+  "avg_volume_3m": 347108,
+  "fetched_at": "2026-03-02"
+}

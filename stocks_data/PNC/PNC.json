@@ -1,0 +1,21 @@
+{
+  "symbol": "PNC",
+  "name": "The PNC Financial Services Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 85856059392,
+  "pe_ratio": 12.8076,
+  "forward_pe": 10.285555,
+  "pb_ratio": 1.512109,
+  "dividend_yield": 3.2,
+  "52_week_high": 243.94,
+  "52_week_low": 145.12,
+  "avg_volume_10d": 2378570,
+  "avg_volume_3m": 2462363,
+  "fetched_at": "2026-03-02"
+}

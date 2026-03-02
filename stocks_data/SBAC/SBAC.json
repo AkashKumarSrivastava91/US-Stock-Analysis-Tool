@@ -1,0 +1,21 @@
+{
+  "symbol": "SBAC",
+  "name": "SBA Communications Corporation",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 21436213248,
+  "pe_ratio": 25.335012,
+  "forward_pe": 25.117466,
+  "pb_ratio": -4.379422,
+  "dividend_yield": 2.49,
+  "52_week_high": 245.16,
+  "52_week_low": 177.49,
+  "avg_volume_10d": 1146120,
+  "avg_volume_3m": 849078,
+  "fetched_at": "2026-03-02"
+}

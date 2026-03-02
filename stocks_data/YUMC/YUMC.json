@@ -1,0 +1,21 @@
+{
+  "symbol": "YUMC",
+  "name": "Yum China Holdings, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 19398123520,
+  "pe_ratio": 21.876493,
+  "forward_pe": 16.848623,
+  "pb_ratio": 3.6136887,
+  "dividend_yield": 2.11,
+  "52_week_high": 58.39,
+  "52_week_low": 41.0,
+  "avg_volume_10d": 1768690,
+  "avg_volume_3m": 1470968,
+  "fetched_at": "2026-03-02"
+}

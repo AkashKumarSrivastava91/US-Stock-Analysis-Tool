@@ -1,0 +1,21 @@
+{
+  "symbol": "CRWD",
+  "name": "CrowdStrike Holdings, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 93775577088,
+  "pe_ratio": null,
+  "forward_pe": 76.953636,
+  "pb_ratio": 23.345049,
+  "dividend_yield": null,
+  "52_week_high": 566.9,
+  "52_week_low": 298.0,
+  "avg_volume_10d": 6030850,
+  "avg_volume_3m": 3324360,
+  "fetched_at": "2026-03-02"
+}

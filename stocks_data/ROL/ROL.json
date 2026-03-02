@@ -1,0 +1,21 @@
+{
+  "symbol": "ROL",
+  "name": "Rollins, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Personal Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 29293705216,
+  "pe_ratio": 55.862385,
+  "forward_pe": 43.261715,
+  "pb_ratio": 21.320028,
+  "dividend_yield": 1.2,
+  "52_week_high": 66.14,
+  "52_week_low": 49.73,
+  "avg_volume_10d": 4154310,
+  "avg_volume_3m": 2895121,
+  "fetched_at": "2026-03-02"
+}

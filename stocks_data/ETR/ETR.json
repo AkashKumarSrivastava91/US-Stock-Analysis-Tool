@@ -1,0 +1,21 @@
+{
+  "symbol": "ETR",
+  "name": "Entergy Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 48519741440,
+  "pe_ratio": 27.393862,
+  "forward_pe": 21.752287,
+  "pb_ratio": 2.8629851,
+  "dividend_yield": 2.32,
+  "52_week_high": 107.21,
+  "52_week_low": 75.57,
+  "avg_volume_10d": 2932710,
+  "avg_volume_3m": 2722666,
+  "fetched_at": "2026-03-02"
+}

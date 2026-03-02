@@ -1,0 +1,21 @@
+{
+  "symbol": "MGDDY",
+  "name": "Compagnie G\u00e9n\u00e9rale des \u00c9tablissements Michelin Soci\u00e9t\u00e9 en commandite par actions",
+  "sector": "Consumer Discretionary",
+  "industry": "",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 18086305792,
+  "pe_ratio": 9.071371,
+  "forward_pe": null,
+  "pb_ratio": 1.207764,
+  "dividend_yield": null,
+  "52_week_high": 20.48,
+  "52_week_low": 14.82,
+  "avg_volume_10d": 121270,
+  "avg_volume_3m": 170465,
+  "fetched_at": "2026-03-02"
+}

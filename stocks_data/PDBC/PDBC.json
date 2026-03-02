@@ -1,0 +1,21 @@
+{
+  "symbol": "PDBC",
+  "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 3.53,
+  "52_week_high": 15.265,
+  "52_week_low": 12.015,
+  "avg_volume_10d": 5714020,
+  "avg_volume_3m": 5852810,
+  "fetched_at": "2026-03-02"
+}

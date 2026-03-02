@@ -1,0 +1,21 @@
+{
+  "symbol": "NTES",
+  "name": "NetEase, Inc.",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 73950076928,
+  "pe_ratio": 15.068152,
+  "forward_pe": 11.264162,
+  "pb_ratio": 15.663059,
+  "dividend_yield": 2.59,
+  "52_week_high": 159.55,
+  "52_week_low": 88.54,
+  "avg_volume_10d": 739530,
+  "avg_volume_3m": 682171,
+  "fetched_at": "2026-03-02"
+}

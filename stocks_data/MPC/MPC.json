@@ -1,0 +1,21 @@
+{
+  "symbol": "MPC",
+  "name": "Marathon Petroleum Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 59582423040,
+  "pe_ratio": 14.993193,
+  "forward_pe": 14.369198,
+  "pb_ratio": 3.3771212,
+  "dividend_yield": 1.93,
+  "52_week_high": 210.32,
+  "52_week_low": 115.1,
+  "avg_volume_10d": 2192420,
+  "avg_volume_3m": 2335133,
+  "fetched_at": "2026-03-02"
+}

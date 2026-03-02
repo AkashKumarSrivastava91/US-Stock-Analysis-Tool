@@ -1,0 +1,21 @@
+{
+  "symbol": "PM",
+  "name": "Philip Morris International Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 290834448384,
+  "pe_ratio": 25.698763,
+  "forward_pe": 20.32714,
+  "pb_ratio": -29.101246,
+  "dividend_yield": 3.15,
+  "52_week_high": 191.3,
+  "52_week_low": 142.11,
+  "avg_volume_10d": 4510980,
+  "avg_volume_3m": 5648133,
+  "fetched_at": "2026-03-02"
+}

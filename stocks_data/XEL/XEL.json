@@ -1,0 +1,21 @@
+{
+  "symbol": "XEL",
+  "name": "Xcel Energy Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 49310756864,
+  "pe_ratio": 24.37427,
+  "forward_pe": 18.417866,
+  "pb_ratio": 2.2018542,
+  "dividend_yield": 2.84,
+  "52_week_high": 84.23,
+  "52_week_low": 65.21,
+  "avg_volume_10d": 4996150,
+  "avg_volume_3m": 5528696,
+  "fetched_at": "2026-03-02"
+}

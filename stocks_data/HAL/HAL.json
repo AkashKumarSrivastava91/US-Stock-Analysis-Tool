@@ -1,0 +1,21 @@
+{
+  "symbol": "HAL",
+  "name": "Halliburton Company",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 30298558464,
+  "pe_ratio": 24.0,
+  "forward_pe": 13.390118,
+  "pb_ratio": 2.8735633,
+  "dividend_yield": 1.89,
+  "52_week_high": 36.19,
+  "52_week_low": 18.72,
+  "avg_volume_10d": 10505860,
+  "avg_volume_3m": 12801445,
+  "fetched_at": "2026-03-02"
+}

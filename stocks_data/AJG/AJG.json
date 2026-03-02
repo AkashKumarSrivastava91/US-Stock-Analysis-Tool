@@ -1,0 +1,21 @@
+{
+  "symbol": "AJG",
+  "name": "Arthur J. Gallagher & Co.",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 58670219264,
+  "pe_ratio": 39.686954,
+  "forward_pe": 15.335691,
+  "pb_ratio": 2.5147946,
+  "dividend_yield": 1.23,
+  "52_week_high": 351.23,
+  "52_week_low": 195.0,
+  "avg_volume_10d": 2967820,
+  "avg_volume_3m": 2236761,
+  "fetched_at": "2026-03-02"
+}

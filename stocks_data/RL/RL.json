@@ -1,0 +1,21 @@
+{
+  "symbol": "RL",
+  "name": "Ralph Lauren Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21988302848,
+  "pe_ratio": 24.683458,
+  "forward_pe": 20.238081,
+  "pb_ratio": 7.6075788,
+  "dividend_yield": 1.01,
+  "52_week_high": 389.15,
+  "52_week_low": 176.61,
+  "avg_volume_10d": 580320,
+  "avg_volume_3m": 651006,
+  "fetched_at": "2026-03-02"
+}

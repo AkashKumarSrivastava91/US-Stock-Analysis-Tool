@@ -1,0 +1,21 @@
+{
+  "symbol": "MOH",
+  "name": "Molina Healthcare, Inc.",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 7933575168,
+  "pe_ratio": 17.27018,
+  "forward_pe": 14.436445,
+  "pb_ratio": 1.9308383,
+  "dividend_yield": null,
+  "52_week_high": 359.97,
+  "52_week_low": 121.06,
+  "avg_volume_10d": 1774270,
+  "avg_volume_3m": 1715750,
+  "fetched_at": "2026-03-02"
+}

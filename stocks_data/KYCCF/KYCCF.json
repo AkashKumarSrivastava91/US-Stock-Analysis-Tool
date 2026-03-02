@@ -1,0 +1,21 @@
+{
+  "symbol": "KYCCF",
+  "name": "Keyence Corporation",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 102103105536,
+  "pe_ratio": 39.053802,
+  "forward_pe": null,
+  "pb_ratio": 4.747523,
+  "dividend_yield": 0.91,
+  "52_week_high": 500.83,
+  "52_week_low": 303.33,
+  "avg_volume_10d": 4840,
+  "avg_volume_3m": 8028,
+  "fetched_at": "2026-03-02"
+}

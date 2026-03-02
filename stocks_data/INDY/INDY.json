@@ -1,0 +1,21 @@
+{
+  "symbol": "INDY",
+  "name": "iShares India 50 ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "India",
+  "region": "India",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 23.572903,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 7.91,
+  "52_week_high": 54.87,
+  "52_week_low": 46.51,
+  "avg_volume_10d": 142400,
+  "avg_volume_3m": 162046,
+  "fetched_at": "2026-03-02"
+}

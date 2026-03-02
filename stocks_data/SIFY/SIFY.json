@@ -1,0 +1,21 @@
+{
+  "symbol": "SIFY",
+  "name": "Sify Technologies Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "India",
+  "region": "India",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NCM",
+  "market_cap": 1133730816,
+  "pe_ratio": null,
+  "forward_pe": 783.5,
+  "pb_ratio": 5.3145504,
+  "dividend_yield": null,
+  "52_week_high": 17.85,
+  "52_week_low": 3.5,
+  "avg_volume_10d": 78470,
+  "avg_volume_3m": 76796,
+  "fetched_at": "2026-03-02"
+}

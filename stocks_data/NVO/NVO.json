@@ -1,0 +1,21 @@
+{
+  "symbol": "NVO",
+  "name": "Novo Nordisk A/S",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Denmark",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 166460030976,
+  "pe_ratio": 10.288462,
+  "forward_pe": 10.869704,
+  "pb_ratio": 5.430227,
+  "dividend_yield": 4.97,
+  "52_week_high": 91.9,
+  "52_week_low": 37.31,
+  "avg_volume_10d": 30958900,
+  "avg_volume_3m": 23171295,
+  "fetched_at": "2026-03-02"
+}

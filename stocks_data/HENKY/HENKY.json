@@ -1,0 +1,21 @@
+{
+  "symbol": "HENKY",
+  "name": "Henkel AG & Co. KGaA",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 39048589312,
+  "pe_ratio": 15.351351,
+  "forward_pe": null,
+  "pb_ratio": 0.40164903,
+  "dividend_yield": 2.51,
+  "52_week_high": 22.82,
+  "52_week_low": 16.54,
+  "avg_volume_10d": 73480,
+  "avg_volume_3m": 98967,
+  "fetched_at": "2026-03-02"
+}

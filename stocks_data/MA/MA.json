@@ -1,0 +1,21 @@
+{
+  "symbol": "MA",
+  "name": "Mastercard Incorporated",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 461577715712,
+  "pe_ratio": 31.346062,
+  "forward_pe": 22.853132,
+  "pb_ratio": 59.765427,
+  "dividend_yield": 0.67,
+  "52_week_high": 601.77,
+  "52_week_low": 465.59,
+  "avg_volume_10d": 4232850,
+  "avg_volume_3m": 3672516,
+  "fetched_at": "2026-03-02"
+}

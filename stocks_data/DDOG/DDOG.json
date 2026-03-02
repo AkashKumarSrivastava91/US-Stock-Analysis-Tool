@@ -1,0 +1,21 @@
+{
+  "symbol": "DDOG",
+  "name": "Datadog, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 39474417664,
+  "pe_ratio": 361.1613,
+  "forward_pe": 42.339325,
+  "pb_ratio": 10.575233,
+  "dividend_yield": null,
+  "52_week_high": 201.69,
+  "52_week_low": 81.63,
+  "avg_volume_10d": 6409990,
+  "avg_volume_3m": 5523390,
+  "fetched_at": "2026-03-02"
+}

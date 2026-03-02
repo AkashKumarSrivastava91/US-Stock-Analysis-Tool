@@ -1,0 +1,21 @@
+{
+  "symbol": "IFS",
+  "name": "Intercorp Financial Services Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Peru",
+  "region": "Peru",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 5374181376,
+  "pe_ratio": 9.754032,
+  "forward_pe": 8.017398,
+  "pb_ratio": 1.4891176,
+  "dividend_yield": 2.07,
+  "52_week_high": 52.58,
+  "52_week_low": 29.09,
+  "avg_volume_10d": 247500,
+  "avg_volume_3m": 227553,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "BF-B",
+  "name": "Brown-Forman Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13368224768,
+  "pe_ratio": 16.877193,
+  "forward_pe": 16.660221,
+  "pb_ratio": 3.2758229,
+  "dividend_yield": 3.17,
+  "52_week_high": 38.85,
+  "52_week_low": 25.32,
+  "avg_volume_10d": 5423640,
+  "avg_volume_3m": 5198130,
+  "fetched_at": "2026-03-02"
+}

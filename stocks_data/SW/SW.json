@@ -1,0 +1,21 @@
+{
+  "symbol": "SW",
+  "name": "Smurfit Westrock Plc",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24558049280,
+  "pe_ratio": 32.198627,
+  "forward_pe": 14.340712,
+  "pb_ratio": 1.3360426,
+  "dividend_yield": 3.85,
+  "52_week_high": 53.25,
+  "52_week_low": 32.729,
+  "avg_volume_10d": 6608430,
+  "avg_volume_3m": 5958410,
+  "fetched_at": "2026-03-02"
+}

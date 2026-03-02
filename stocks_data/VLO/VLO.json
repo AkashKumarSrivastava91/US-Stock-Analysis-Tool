@@ -1,0 +1,21 @@
+{
+  "symbol": "VLO",
+  "name": "Valero Energy Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 63571771392,
+  "pe_ratio": 27.033024,
+  "forward_pe": 15.938824,
+  "pb_ratio": 2.578499,
+  "dividend_yield": 2.35,
+  "52_week_high": 206.77,
+  "52_week_low": 99.0,
+  "avg_volume_10d": 2210290,
+  "avg_volume_3m": 3177771,
+  "fetched_at": "2026-03-02"
+}

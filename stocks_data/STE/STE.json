@@ -1,0 +1,21 @@
+{
+  "symbol": "STE",
+  "name": "STERIS plc",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24767397888,
+  "pe_ratio": 35.19526,
+  "forward_pe": 22.738783,
+  "pb_ratio": 3.46012,
+  "dividend_yield": 0.97,
+  "52_week_high": 269.44,
+  "52_week_low": 204.9,
+  "avg_volume_10d": 894230,
+  "avg_volume_3m": 708503,
+  "fetched_at": "2026-03-02"
+}

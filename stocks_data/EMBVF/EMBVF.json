@@ -1,0 +1,21 @@
+{
+  "symbol": "EMBVF",
+  "name": "Arca Continental, S.A.B. de C.V.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "Mexico",
+  "region": "Mexico",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 18391418880,
+  "pe_ratio": 16.164179,
+  "forward_pe": 16.66154,
+  "pb_ratio": 2.4696536,
+  "dividend_yield": 3.69,
+  "52_week_high": 12.39,
+  "52_week_low": 9.35,
+  "avg_volume_10d": 13700,
+  "avg_volume_3m": 3991,
+  "fetched_at": "2026-03-02"
+}

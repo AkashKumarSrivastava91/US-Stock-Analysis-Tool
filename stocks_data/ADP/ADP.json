@@ -1,0 +1,21 @@
+{
+  "symbol": "ADP",
+  "name": "Automatic Data Processing, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 86697631744,
+  "pe_ratio": 20.571978,
+  "forward_pe": 17.916546,
+  "pb_ratio": 13.512355,
+  "dividend_yield": 3.17,
+  "52_week_high": 329.93,
+  "52_week_low": 203.26,
+  "avg_volume_10d": 4236330,
+  "avg_volume_3m": 2973685,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ORCL",
+  "name": "Oracle Corporation",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 417892827136,
+  "pe_ratio": 27.330826,
+  "forward_pe": 18.32968,
+  "pb_ratio": 13.947242,
+  "dividend_yield": 1.38,
+  "52_week_high": 345.72,
+  "52_week_low": 118.86,
+  "avg_volume_10d": 23503480,
+  "avg_volume_3m": 28769058,
+  "fetched_at": "2026-03-02"
+}

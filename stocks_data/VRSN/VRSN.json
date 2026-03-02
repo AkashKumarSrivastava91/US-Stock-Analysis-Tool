@@ -1,0 +1,21 @@
+{
+  "symbol": "VRSN",
+  "name": "VeriSign, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 21130037248,
+  "pe_ratio": 25.843538,
+  "forward_pe": 22.389973,
+  "pb_ratio": -9.723988,
+  "dividend_yield": 1.42,
+  "52_week_high": 310.6,
+  "52_week_low": 208.86,
+  "avg_volume_10d": 799760,
+  "avg_volume_3m": 772851,
+  "fetched_at": "2026-03-02"
+}

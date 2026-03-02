@@ -1,0 +1,21 @@
+{
+  "symbol": "CAH",
+  "name": "Cardinal Health, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 53941489664,
+  "pe_ratio": 32.982735,
+  "forward_pe": 19.79855,
+  "pb_ratio": -18.758593,
+  "dividend_yield": 0.89,
+  "52_week_high": 230.81,
+  "52_week_low": 120.72,
+  "avg_volume_10d": 1272040,
+  "avg_volume_3m": 1861986,
+  "fetched_at": "2026-03-02"
+}

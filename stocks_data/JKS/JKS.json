@@ -1,0 +1,21 @@
+{
+  "symbol": "JKS",
+  "name": "JinkoSolar Holding Co., Ltd.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1306290304,
+  "pe_ratio": null,
+  "forward_pe": 13.103628,
+  "pb_ratio": 0.5299275,
+  "dividend_yield": 5.14,
+  "52_week_high": 31.88,
+  "52_week_low": 13.42,
+  "avg_volume_10d": 459000,
+  "avg_volume_3m": 659406,
+  "fetched_at": "2026-03-02"
+}

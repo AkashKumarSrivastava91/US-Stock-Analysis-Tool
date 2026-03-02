@@ -1,0 +1,21 @@
+{
+  "symbol": "PH",
+  "name": "Parker-Hannifin Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 127375196160,
+  "pe_ratio": 36.764297,
+  "forward_pe": 29.643108,
+  "pb_ratio": 8.900472,
+  "dividend_yield": 0.71,
+  "52_week_high": 1034.96,
+  "52_week_low": 488.45,
+  "avg_volume_10d": 622710,
+  "avg_volume_3m": 628816,
+  "fetched_at": "2026-03-02"
+}

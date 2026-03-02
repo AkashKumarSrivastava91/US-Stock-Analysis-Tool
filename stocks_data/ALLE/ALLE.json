@@ -1,0 +1,21 @@
+{
+  "symbol": "ALLE",
+  "name": "Allegion plc",
+  "sector": "Industrials",
+  "industry": "Security & Protection Services",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13882344448,
+  "pe_ratio": 21.630873,
+  "forward_pe": 16.981695,
+  "pb_ratio": 6.708154,
+  "dividend_yield": 1.29,
+  "52_week_high": 183.11,
+  "52_week_low": 116.57,
+  "avg_volume_10d": 1107920,
+  "avg_volume_3m": 897353,
+  "fetched_at": "2026-03-02"
+}

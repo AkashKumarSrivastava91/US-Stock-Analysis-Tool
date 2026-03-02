@@ -1,0 +1,21 @@
+{
+  "symbol": "HACK",
+  "name": "Amplify Cybersecurity ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 28.646553,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.08,
+  "52_week_high": 89.59,
+  "52_week_low": 61.59,
+  "avg_volume_10d": 156200,
+  "avg_volume_3m": 108558,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "NDSN",
+  "name": "Nordson Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 16380852224,
+  "pe_ratio": 34.481785,
+  "forward_pe": 24.046112,
+  "pb_ratio": 5.259818,
+  "dividend_yield": 1.12,
+  "52_week_high": 305.28,
+  "52_week_low": 165.03,
+  "avg_volume_10d": 493950,
+  "avg_volume_3m": 494326,
+  "fetched_at": "2026-03-02"
+}

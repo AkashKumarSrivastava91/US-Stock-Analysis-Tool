@@ -1,0 +1,21 @@
+{
+  "symbol": "MTCH",
+  "name": "Match Group, Inc.",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 7603659776,
+  "pe_ratio": 13.27731,
+  "forward_pe": 7.840471,
+  "pb_ratio": -28.990826,
+  "dividend_yield": 2.44,
+  "52_week_high": 39.2,
+  "52_week_low": 26.39,
+  "avg_volume_10d": 3506540,
+  "avg_volume_3m": 3937568,
+  "fetched_at": "2026-03-02"
+}

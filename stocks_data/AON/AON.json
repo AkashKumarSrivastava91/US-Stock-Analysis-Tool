@@ -1,0 +1,21 @@
+{
+  "symbol": "AON",
+  "name": "Aon plc",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 72104329216,
+  "pe_ratio": 19.721928,
+  "forward_pe": 15.571295,
+  "pb_ratio": 7.6944427,
+  "dividend_yield": 0.89,
+  "52_week_high": 412.97,
+  "52_week_low": 304.59,
+  "avg_volume_10d": 1503080,
+  "avg_volume_3m": 1299766,
+  "fetched_at": "2026-03-02"
+}

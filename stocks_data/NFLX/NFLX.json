@@ -1,0 +1,21 @@
+{
+  "symbol": "NFLX",
+  "name": "Netflix, Inc.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 408239439872,
+  "pe_ratio": 38.039524,
+  "forward_pe": 25.16394,
+  "pb_ratio": 15.266498,
+  "dividend_yield": null,
+  "52_week_high": 134.115,
+  "52_week_low": 75.01,
+  "avg_volume_10d": 59753130,
+  "avg_volume_3m": 51394530,
+  "fetched_at": "2026-03-02"
+}

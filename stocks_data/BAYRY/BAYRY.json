@@ -1,0 +1,21 @@
+{
+  "symbol": "BAYRY",
+  "name": "Bayer Aktiengesellschaft",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 49875034112,
+  "pe_ratio": null,
+  "forward_pe": 8.410774,
+  "pb_ratio": 0.34616995,
+  "dividend_yield": 0.25,
+  "52_week_high": 14.85,
+  "52_week_low": 5.3,
+  "avg_volume_10d": 1546200,
+  "avg_volume_3m": 1035901,
+  "fetched_at": "2026-03-02"
+}

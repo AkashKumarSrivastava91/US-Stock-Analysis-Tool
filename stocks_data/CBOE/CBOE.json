@@ -1,0 +1,21 @@
+{
+  "symbol": "CBOE",
+  "name": "Cboe Global Markets, Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "BTS",
+  "market_cap": 31364052992,
+  "pe_ratio": 28.736338,
+  "forward_pe": 23.793627,
+  "pb_ratio": 6.1041527,
+  "dividend_yield": 0.93,
+  "52_week_high": 303.12,
+  "52_week_low": 200.88,
+  "avg_volume_10d": 859870,
+  "avg_volume_3m": 806670,
+  "fetched_at": "2026-03-02"
+}

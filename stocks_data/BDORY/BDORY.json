@@ -1,0 +1,21 @@
+{
+  "symbol": "BDORY",
+  "name": "Banco do Brasil S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 30311487488,
+  "pe_ratio": 11.297873,
+  "forward_pe": 6.7864094,
+  "pb_ratio": 0.84162056,
+  "dividend_yield": 0.97,
+  "52_week_high": 5.51,
+  "52_week_low": 3.35,
+  "avg_volume_10d": 821240,
+  "avg_volume_3m": 524240,
+  "fetched_at": "2026-03-02"
+}

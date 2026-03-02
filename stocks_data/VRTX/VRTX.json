@@ -1,0 +1,21 @@
+{
+  "symbol": "VRTX",
+  "name": "Vertex Pharmaceuticals Incorporated",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 126211801088,
+  "pe_ratio": 32.47255,
+  "forward_pe": 22.729143,
+  "pb_ratio": 6.760512,
+  "dividend_yield": null,
+  "52_week_high": 519.68,
+  "52_week_low": 362.5,
+  "avg_volume_10d": 1495610,
+  "avg_volume_3m": 1455023,
+  "fetched_at": "2026-03-02"
+}

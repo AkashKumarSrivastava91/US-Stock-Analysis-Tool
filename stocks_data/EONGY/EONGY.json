@@ -1,0 +1,21 @@
+{
+  "symbol": "EONGY",
+  "name": "E.ON SE",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 60832456704,
+  "pe_ratio": 17.244444,
+  "forward_pe": 16.043224,
+  "pb_ratio": 2.8768156,
+  "dividend_yield": 2.66,
+  "52_week_high": 23.48,
+  "52_week_low": 12.87,
+  "avg_volume_10d": 388540,
+  "avg_volume_3m": 198606,
+  "fetched_at": "2026-03-02"
+}

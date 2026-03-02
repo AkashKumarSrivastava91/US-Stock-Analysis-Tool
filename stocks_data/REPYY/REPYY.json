@@ -1,0 +1,21 @@
+{
+  "symbol": "REPYY",
+  "name": "Repsol, S.A.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Spain",
+  "region": "Spain",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 25223469056,
+  "pe_ratio": 20.071428,
+  "forward_pe": 6.451076,
+  "pb_ratio": 0.95273054,
+  "dividend_yield": 5.19,
+  "52_week_high": 22.55,
+  "52_week_low": 10.41,
+  "avg_volume_10d": 48450,
+  "avg_volume_3m": 88398,
+  "fetched_at": "2026-03-02"
+}

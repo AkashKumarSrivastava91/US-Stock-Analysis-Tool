@@ -1,0 +1,21 @@
+{
+  "symbol": "MS",
+  "name": "Morgan Stanley",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 264394604544,
+  "pe_ratio": 16.308521,
+  "forward_pe": 13.553927,
+  "pb_ratio": 2.5868847,
+  "dividend_yield": 2.4,
+  "52_week_high": 192.68,
+  "52_week_low": 94.33,
+  "avg_volume_10d": 7501000,
+  "avg_volume_3m": 6790515,
+  "fetched_at": "2026-03-02"
+}

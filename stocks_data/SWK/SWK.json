@@ -1,0 +1,21 @@
+{
+  "symbol": "SWK",
+  "name": "Stanley Black & Decker, Inc.",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13412823040,
+  "pe_ratio": 32.637733,
+  "forward_pe": 13.59553,
+  "pb_ratio": 1.4809171,
+  "dividend_yield": 3.84,
+  "52_week_high": 93.37,
+  "52_week_low": 53.91,
+  "avg_volume_10d": 1799260,
+  "avg_volume_3m": 1806005,
+  "fetched_at": "2026-03-02"
+}

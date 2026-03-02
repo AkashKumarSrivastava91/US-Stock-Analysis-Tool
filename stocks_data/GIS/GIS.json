@@ -1,0 +1,21 @@
+{
+  "symbol": "GIS",
+  "name": "General Mills, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24133916672,
+  "pe_ratio": 9.726881,
+  "forward_pe": 12.992908,
+  "pb_ratio": 2.5904927,
+  "dividend_yield": 5.39,
+  "52_week_high": 67.35,
+  "52_week_low": 42.79,
+  "avg_volume_10d": 8337180,
+  "avg_volume_3m": 7915158,
+  "fetched_at": "2026-03-02"
+}

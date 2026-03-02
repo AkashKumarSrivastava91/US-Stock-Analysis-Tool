@@ -1,0 +1,21 @@
+{
+  "symbol": "MCHI",
+  "name": "iShares MSCI China ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "China",
+  "region": "China",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 13.269775,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.03,
+  "52_week_high": 67.37,
+  "52_week_low": 44.71,
+  "avg_volume_10d": 3167770,
+  "avg_volume_3m": 2960276,
+  "fetched_at": "2026-03-02"
+}

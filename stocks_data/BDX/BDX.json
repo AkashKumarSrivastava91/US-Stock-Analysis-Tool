@@ -1,0 +1,21 @@
+{
+  "symbol": "BDX",
+  "name": "Becton, Dickinson and Company",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 63937839104,
+  "pe_ratio": 28.836601,
+  "forward_pe": 13.074762,
+  "pb_ratio": 1.9876335,
+  "dividend_yield": 2.38,
+  "52_week_high": 187.35,
+  "52_week_low": 127.58648,
+  "avg_volume_10d": 2920660,
+  "avg_volume_3m": 2777326,
+  "fetched_at": "2026-03-02"
+}

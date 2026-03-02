@@ -1,0 +1,21 @@
+{
+  "symbol": "HAS",
+  "name": "Hasbro, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 13976163328,
+  "pe_ratio": null,
+  "forward_pe": 15.9593725,
+  "pb_ratio": 25.961939,
+  "dividend_yield": 2.81,
+  "52_week_high": 106.98,
+  "52_week_low": 49.0,
+  "avg_volume_10d": 1788040,
+  "avg_volume_3m": 1860236,
+  "fetched_at": "2026-03-02"
+}

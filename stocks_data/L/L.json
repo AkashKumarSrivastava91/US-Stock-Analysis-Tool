@@ -1,0 +1,21 @@
+{
+  "symbol": "L",
+  "name": "Loews Corporation",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22736685056,
+  "pe_ratio": 13.804266,
+  "forward_pe": 37.937927,
+  "pb_ratio": 1.2129163,
+  "dividend_yield": 0.23,
+  "52_week_high": 114.9,
+  "52_week_low": 78.98,
+  "avg_volume_10d": 721180,
+  "avg_volume_3m": 780476,
+  "fetched_at": "2026-03-02"
+}

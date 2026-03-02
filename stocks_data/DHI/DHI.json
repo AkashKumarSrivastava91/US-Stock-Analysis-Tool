@@ -1,0 +1,21 @@
+{
+  "symbol": "DHI",
+  "name": "D.R. Horton, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 46689456128,
+  "pe_ratio": 14.594177,
+  "forward_pe": 13.036839,
+  "pb_ratio": 1.9417441,
+  "dividend_yield": 1.12,
+  "52_week_high": 184.55,
+  "52_week_low": 110.44,
+  "avg_volume_10d": 2359720,
+  "avg_volume_3m": 3161600,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EWP",
+  "name": "iShares MSCI Spain ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Europe",
+  "region": "Europe",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 2137914112,
+  "pe_ratio": 14.765165,
+  "forward_pe": null,
+  "pb_ratio": 2.0984712,
+  "dividend_yield": 2.17,
+  "52_week_high": 58.32,
+  "52_week_low": 33.85,
+  "avg_volume_10d": 450430,
+  "avg_volume_3m": 692830,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "FSLR",
+  "name": "First Solar, Inc.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 21161164800,
+  "pe_ratio": 15.134306,
+  "forward_pe": 7.660376,
+  "pb_ratio": 2.2186468,
+  "dividend_yield": null,
+  "52_week_high": 285.99,
+  "52_week_low": 116.56,
+  "avg_volume_10d": 3638190,
+  "avg_volume_3m": 2451010,
+  "fetched_at": "2026-03-02"
+}

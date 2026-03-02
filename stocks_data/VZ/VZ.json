@@ -1,0 +1,21 @@
+{
+  "symbol": "VZ",
+  "name": "Verizon Communications Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 211474677760,
+  "pe_ratio": 12.349753,
+  "forward_pe": 9.551823,
+  "pb_ratio": 2.0242229,
+  "dividend_yield": 5.64,
+  "52_week_high": 50.48,
+  "52_week_low": 38.39,
+  "avg_volume_10d": 27159530,
+  "avg_volume_3m": 31172258,
+  "fetched_at": "2026-03-02"
+}

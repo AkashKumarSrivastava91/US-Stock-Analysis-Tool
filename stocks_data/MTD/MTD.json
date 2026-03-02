@@ -1,0 +1,21 @@
+{
+  "symbol": "MTD",
+  "name": "Mettler-Toledo International Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "Switzerland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27919349760,
+  "pe_ratio": 32.470657,
+  "forward_pe": 26.732119,
+  "pb_ratio": -1177.1661,
+  "dividend_yield": null,
+  "52_week_high": 1525.17,
+  "52_week_low": 946.69,
+  "avg_volume_10d": 140180,
+  "avg_volume_3m": 138658,
+  "fetched_at": "2026-03-02"
+}

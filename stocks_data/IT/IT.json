@@ -1,0 +1,21 @@
+{
+  "symbol": "IT",
+  "name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11330527232,
+  "pe_ratio": 16.290155,
+  "forward_pe": 10.834168,
+  "pb_ratio": 34.817276,
+  "dividend_yield": null,
+  "52_week_high": 499.72,
+  "52_week_low": 139.18,
+  "avg_volume_10d": 1731160,
+  "avg_volume_3m": 1418216,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EIX",
+  "name": "Edison International",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 28762492928,
+  "pe_ratio": 9.795544,
+  "forward_pe": 11.486904,
+  "pb_ratio": 1.6835986,
+  "dividend_yield": 4.7,
+  "52_week_high": 75.5,
+  "52_week_low": 47.73,
+  "avg_volume_10d": 3870550,
+  "avg_volume_3m": 3257485,
+  "fetched_at": "2026-03-02"
+}

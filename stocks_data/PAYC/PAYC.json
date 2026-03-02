@@ -1,0 +1,21 @@
+{
+  "symbol": "PAYC",
+  "name": "Paycom Software, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 6908836864,
+  "pe_ratio": 15.57302,
+  "forward_pe": 11.131773,
+  "pb_ratio": 3.887962,
+  "dividend_yield": 1.19,
+  "52_week_high": 267.76,
+  "52_week_low": 104.9,
+  "avg_volume_10d": 2958770,
+  "avg_volume_3m": 1416656,
+  "fetched_at": "2026-03-02"
+}

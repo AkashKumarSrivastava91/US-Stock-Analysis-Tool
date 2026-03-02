@@ -1,0 +1,21 @@
+{
+  "symbol": "DB",
+  "name": "Deutsche Bank Aktiengesellschaft",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Germany",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 67672702976,
+  "pe_ratio": 9.345646,
+  "forward_pe": 6.507405,
+  "pb_ratio": 0.72625214,
+  "dividend_yield": 3.33,
+  "52_week_high": 40.43,
+  "52_week_low": 18.89,
+  "avg_volume_10d": 3172840,
+  "avg_volume_3m": 2717155,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "CMPGY",
+  "name": "Compass Group PLC",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 52233261056,
+  "pe_ratio": 27.92727,
+  "forward_pe": 19.620115,
+  "pb_ratio": 6.8130407,
+  "dividend_yield": 2.15,
+  "52_week_high": 36.7,
+  "52_week_low": 27.29,
+  "avg_volume_10d": 926390,
+  "avg_volume_3m": 927877,
+  "fetched_at": "2026-03-02"
+}

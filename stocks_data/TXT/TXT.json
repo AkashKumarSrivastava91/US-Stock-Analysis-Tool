@@ -1,0 +1,21 @@
+{
+  "symbol": "TXT",
+  "name": "Textron Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17181124608,
+  "pe_ratio": 19.267578,
+  "forward_pe": 13.529916,
+  "pb_ratio": 2.183585,
+  "dividend_yield": 0.08,
+  "52_week_high": 101.57,
+  "52_week_low": 57.7,
+  "avg_volume_10d": 1510320,
+  "avg_volume_3m": 1768776,
+  "fetched_at": "2026-03-02"
+}

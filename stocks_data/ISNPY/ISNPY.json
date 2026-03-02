@@ -1,0 +1,21 @@
+{
+  "symbol": "ISNPY",
+  "name": "Intesa Sanpaolo S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 119535665152,
+  "pe_ratio": 10.211443,
+  "forward_pe": 8.975895,
+  "pb_ratio": 9.152939,
+  "dividend_yield": 5.97,
+  "52_week_high": 43.62,
+  "52_week_low": 25.13,
+  "avg_volume_10d": 198800,
+  "avg_volume_3m": 398123,
+  "fetched_at": "2026-03-02"
+}

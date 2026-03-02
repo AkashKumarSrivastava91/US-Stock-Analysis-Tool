@@ -1,0 +1,21 @@
+{
+  "symbol": "TEAM",
+  "name": "Atlassian Corporation",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "Australia",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 19815092224,
+  "pe_ratio": null,
+  "forward_pe": 13.6292715,
+  "pb_ratio": 12.5383835,
+  "dividend_yield": null,
+  "52_week_high": 287.26,
+  "52_week_low": 67.85,
+  "avg_volume_10d": 8072220,
+  "avg_volume_3m": 4934730,
+  "fetched_at": "2026-03-02"
+}

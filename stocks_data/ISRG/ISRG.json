@@ -1,0 +1,21 @@
+{
+  "symbol": "ISRG",
+  "name": "Intuitive Surgical, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 178811633664,
+  "pe_ratio": 64.1414,
+  "forward_pe": 44.01488,
+  "pb_ratio": 10.031279,
+  "dividend_yield": null,
+  "52_week_high": 603.88,
+  "52_week_low": 425.0,
+  "avg_volume_10d": 1645240,
+  "avg_volume_3m": 1882096,
+  "fetched_at": "2026-03-02"
+}

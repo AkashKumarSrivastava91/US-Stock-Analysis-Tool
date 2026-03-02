@@ -1,0 +1,21 @@
+{
+  "symbol": "SEMHF",
+  "name": "Siemens Healthineers AG",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 56510279680,
+  "pe_ratio": 22.690582,
+  "forward_pe": null,
+  "pb_ratio": 2.6080928,
+  "dividend_yield": 2.35,
+  "52_week_high": 57.75,
+  "52_week_low": 46.005,
+  "avg_volume_10d": 2130,
+  "avg_volume_3m": 2844,
+  "fetched_at": "2026-03-02"
+}

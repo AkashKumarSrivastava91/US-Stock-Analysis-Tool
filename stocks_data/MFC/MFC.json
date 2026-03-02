@@ -1,0 +1,21 @@
+{
+  "symbol": "MFC",
+  "name": "Manulife Financial Corporation",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 59643265024,
+  "pe_ratio": 15.795556,
+  "forward_pe": 9.728092,
+  "pb_ratio": 1.6823577,
+  "dividend_yield": 3.7,
+  "52_week_high": 38.72,
+  "52_week_low": 25.92,
+  "avg_volume_10d": 4148350,
+  "avg_volume_3m": 2312175,
+  "fetched_at": "2026-03-02"
+}

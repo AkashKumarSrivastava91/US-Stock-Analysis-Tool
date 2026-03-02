@@ -1,0 +1,21 @@
+{
+  "symbol": "TDG",
+  "name": "TransDigm Group Incorporated",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 73573195776,
+  "pe_ratio": 41.836548,
+  "forward_pe": 28.387957,
+  "pb_ratio": -7.9261045,
+  "dividend_yield": null,
+  "52_week_high": 1623.83,
+  "52_week_low": 1183.6,
+  "avg_volume_10d": 329830,
+  "avg_volume_3m": 364100,
+  "fetched_at": "2026-03-02"
+}

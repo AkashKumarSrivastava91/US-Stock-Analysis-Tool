@@ -1,0 +1,21 @@
+{
+  "symbol": "EQT",
+  "name": "EQT Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38342905856,
+  "pe_ratio": 18.555891,
+  "forward_pe": 13.222934,
+  "pb_ratio": 1.6137253,
+  "dividend_yield": 1.07,
+  "52_week_high": 62.23,
+  "52_week_low": 43.57,
+  "avg_volume_10d": 10508240,
+  "avg_volume_3m": 9918403,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "WDC",
+  "name": "Western Digital Corporation",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 95629238272,
+  "pe_ratio": 26.461685,
+  "forward_pe": 20.797998,
+  "pb_ratio": 13.373178,
+  "dividend_yield": 0.18,
+  "52_week_high": 309.9,
+  "52_week_low": 28.83,
+  "avg_volume_10d": 9733960,
+  "avg_volume_3m": 9486008,
+  "fetched_at": "2026-03-02"
+}

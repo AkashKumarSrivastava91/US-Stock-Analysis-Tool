@@ -1,0 +1,21 @@
+{
+  "symbol": "BIDU",
+  "name": "Baidu, Inc.",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 43380482048,
+  "pe_ratio": 10.973545,
+  "forward_pe": 12.603019,
+  "pb_ratio": 1.0873158,
+  "dividend_yield": null,
+  "52_week_high": 165.3,
+  "52_week_low": 74.71,
+  "avg_volume_10d": 2358010,
+  "avg_volume_3m": 2937000,
+  "fetched_at": "2026-03-02"
+}

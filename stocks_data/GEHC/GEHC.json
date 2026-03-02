@@ -1,0 +1,21 @@
+{
+  "symbol": "GEHC",
+  "name": "GE HealthCare Technologies Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 38406029312,
+  "pe_ratio": 18.520878,
+  "forward_pe": 15.137933,
+  "pb_ratio": 3.700272,
+  "dividend_yield": 0.17,
+  "52_week_high": 89.77,
+  "52_week_low": 57.65,
+  "avg_volume_10d": 3199540,
+  "avg_volume_3m": 3309861,
+  "fetched_at": "2026-03-02"
+}

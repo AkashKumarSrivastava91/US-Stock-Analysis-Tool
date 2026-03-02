@@ -1,0 +1,21 @@
+{
+  "symbol": "SKFRY",
+  "name": "AB SKF (publ)",
+  "sector": "Industrials",
+  "industry": "Tools & Accessories",
+  "country": "Sweden",
+  "region": "Sweden",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 13050003456,
+  "pe_ratio": 30.16842,
+  "forward_pe": 18.855263,
+  "pb_ratio": 0.24253605,
+  "dividend_yield": 3.04,
+  "52_week_high": 29.41,
+  "52_week_low": 15.86,
+  "avg_volume_10d": 9250,
+  "avg_volume_3m": 9715,
+  "fetched_at": "2026-03-02"
+}

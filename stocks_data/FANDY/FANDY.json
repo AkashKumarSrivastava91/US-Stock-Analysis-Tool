@@ -1,0 +1,21 @@
+{
+  "symbol": "FANDY",
+  "name": "FirstRand Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 34110113792,
+  "pe_ratio": 12.951168,
+  "forward_pe": null,
+  "pb_ratio": 23.057077,
+  "dividend_yield": 4.14,
+  "52_week_high": 61.0,
+  "52_week_low": 32.82,
+  "avg_volume_10d": 0,
+  "avg_volume_3m": 41,
+  "fetched_at": "2026-03-02"
+}

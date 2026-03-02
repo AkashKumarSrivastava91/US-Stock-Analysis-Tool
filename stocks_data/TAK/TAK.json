@@ -1,0 +1,21 @@
+{
+  "symbol": "TAK",
+  "name": "Takeda Pharmaceutical Company Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 59234865152,
+  "pe_ratio": 81.521736,
+  "forward_pe": 35.37736,
+  "pb_ratio": 0.6039798,
+  "dividend_yield": 3.53,
+  "52_week_high": 18.82,
+  "52_week_low": 12.99,
+  "avg_volume_10d": 2617540,
+  "avg_volume_3m": 2852580,
+  "fetched_at": "2026-03-02"
+}

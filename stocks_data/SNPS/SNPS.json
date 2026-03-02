@@ -1,0 +1,21 @@
+{
+  "symbol": "SNPS",
+  "name": "Synopsys, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 79205736448,
+  "pe_ratio": 51.301117,
+  "forward_pe": 24.259756,
+  "pb_ratio": 2.5945377,
+  "dividend_yield": null,
+  "52_week_high": 651.73,
+  "52_week_low": 365.74,
+  "avg_volume_10d": 2534570,
+  "avg_volume_3m": 2223225,
+  "fetched_at": "2026-03-02"
+}

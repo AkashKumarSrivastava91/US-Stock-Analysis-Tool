@@ -1,0 +1,21 @@
+{
+  "symbol": "DELL",
+  "name": "Dell Technologies Inc.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 99243245568,
+  "pe_ratio": 19.796791,
+  "forward_pe": 10.408781,
+  "pb_ratio": -39.989197,
+  "dividend_yield": 1.42,
+  "52_week_high": 168.08,
+  "52_week_low": 66.25,
+  "avg_volume_10d": 10434390,
+  "avg_volume_3m": 7256156,
+  "fetched_at": "2026-03-02"
+}

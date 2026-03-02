@@ -1,0 +1,21 @@
+{
+  "symbol": "CEPU",
+  "name": "Central Puerto S.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 2493767936,
+  "pe_ratio": 12.069231,
+  "forward_pe": 9.451807,
+  "pb_ratio": 13.750839,
+  "dividend_yield": null,
+  "52_week_high": 18.503,
+  "52_week_low": 7.43,
+  "avg_volume_10d": 291010,
+  "avg_volume_3m": 305923,
+  "fetched_at": "2026-03-02"
+}

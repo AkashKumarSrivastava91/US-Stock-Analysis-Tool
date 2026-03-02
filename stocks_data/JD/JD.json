@@ -1,0 +1,21 @@
+{
+  "symbol": "JD",
+  "name": "JD.com, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 39142522880,
+  "pe_ratio": 8.558065,
+  "forward_pe": 8.70425,
+  "pb_ratio": 1.1009504,
+  "dividend_yield": 3.77,
+  "52_week_high": 46.445,
+  "52_week_low": 26.4,
+  "avg_volume_10d": 6769710,
+  "avg_volume_3m": 8609338,
+  "fetched_at": "2026-03-02"
+}

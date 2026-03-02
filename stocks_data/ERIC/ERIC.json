@@ -1,0 +1,21 @@
+{
+  "symbol": "ERIC",
+  "name": "Telefonaktiebolaget LM Ericsson (publ)",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "Sweden",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 39516012544,
+  "pe_ratio": 12.340426,
+  "forward_pe": 17.137709,
+  "pb_ratio": 0.37673348,
+  "dividend_yield": 2.53,
+  "52_week_high": 11.64,
+  "52_week_low": 6.64,
+  "avg_volume_10d": 6896230,
+  "avg_volume_3m": 8653083,
+  "fetched_at": "2026-03-02"
+}

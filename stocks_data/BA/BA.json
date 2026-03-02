@@ -1,0 +1,21 @@
+{
+  "symbol": "BA",
+  "name": "The Boeing Company",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 178690015232,
+  "pe_ratio": 91.745964,
+  "forward_pe": 48.37256,
+  "pb_ratio": 32.771137,
+  "dividend_yield": null,
+  "52_week_high": 254.35,
+  "52_week_low": 128.88,
+  "avg_volume_10d": 5302870,
+  "avg_volume_3m": 7786011,
+  "fetched_at": "2026-03-02"
+}

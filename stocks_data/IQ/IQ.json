@@ -1,0 +1,21 @@
+{
+  "symbol": "IQ",
+  "name": "iQIYI, Inc.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1540734208,
+  "pe_ratio": 160.0,
+  "forward_pe": 8.258938,
+  "pb_ratio": 0.7960813,
+  "dividend_yield": null,
+  "52_week_high": 2.84,
+  "52_week_low": 1.5,
+  "avg_volume_10d": 10590210,
+  "avg_volume_3m": 10722873,
+  "fetched_at": "2026-03-02"
+}

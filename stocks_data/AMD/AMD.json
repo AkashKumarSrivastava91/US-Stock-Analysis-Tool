@@ -1,0 +1,21 @@
+{
+  "symbol": "AMD",
+  "name": "Advanced Micro Devices, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 326424559616,
+  "pe_ratio": 77.00385,
+  "forward_pe": 18.467667,
+  "pb_ratio": 5.1800776,
+  "dividend_yield": null,
+  "52_week_high": 267.08,
+  "52_week_low": 76.48,
+  "avg_volume_10d": 37805560,
+  "avg_volume_3m": 35831970,
+  "fetched_at": "2026-03-02"
+}

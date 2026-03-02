@@ -1,0 +1,21 @@
+{
+  "symbol": "MPWR",
+  "name": "Monolithic Power Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 55661723648,
+  "pe_ratio": 89.27656,
+  "forward_pe": 44.21496,
+  "pb_ratio": 14.960463,
+  "dividend_yield": 0.7,
+  "52_week_high": 1256.22,
+  "52_week_low": 438.86,
+  "avg_volume_10d": 487470,
+  "avg_volume_3m": 667286,
+  "fetched_at": "2026-03-02"
+}

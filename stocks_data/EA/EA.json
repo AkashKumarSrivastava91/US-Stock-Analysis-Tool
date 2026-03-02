@@ -1,0 +1,21 @@
+{
+  "symbol": "EA",
+  "name": "Electronic Arts Inc.",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 50193387520,
+  "pe_ratio": 75.11985,
+  "forward_pe": 21.810501,
+  "pb_ratio": 8.155573,
+  "dividend_yield": 0.38,
+  "52_week_high": 204.89,
+  "52_week_low": 128.87,
+  "avg_volume_10d": 2199540,
+  "avg_volume_3m": 2367126,
+  "fetched_at": "2026-03-02"
+}

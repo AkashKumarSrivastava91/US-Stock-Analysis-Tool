@@ -1,0 +1,21 @@
+{
+  "symbol": "DIS",
+  "name": "The Walt Disney Company",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 188049965056,
+  "pe_ratio": 15.6170845,
+  "forward_pe": 14.419658,
+  "pb_ratio": 1.7361124,
+  "dividend_yield": 1.41,
+  "52_week_high": 124.69,
+  "52_week_low": 80.1,
+  "avg_volume_10d": 10493850,
+  "avg_volume_3m": 11555976,
+  "fetched_at": "2026-03-02"
+}

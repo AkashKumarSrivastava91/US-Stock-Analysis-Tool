@@ -1,0 +1,21 @@
+{
+  "symbol": "PSKY",
+  "name": "Paramount Skydance Corporation",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 14903787520,
+  "pe_ratio": 450.33334,
+  "forward_pe": 14.457084,
+  "pb_ratio": 1.2986639,
+  "dividend_yield": 1.48,
+  "52_week_high": 20.86,
+  "52_week_low": 9.95,
+  "avg_volume_10d": 18296070,
+  "avg_volume_3m": 10655476,
+  "fetched_at": "2026-03-02"
+}

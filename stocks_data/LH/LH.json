@@ -1,0 +1,21 @@
+{
+  "symbol": "LH",
+  "name": "Labcorp Holdings Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 23968047104,
+  "pe_ratio": 27.614134,
+  "forward_pe": 14.995111,
+  "pb_ratio": 2.7570949,
+  "dividend_yield": 1.0,
+  "52_week_high": 293.72,
+  "52_week_low": 209.38,
+  "avg_volume_10d": 813570,
+  "avg_volume_3m": 728458,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EL",
+  "name": "The Est\u00e9e Lauder Companies Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 39598260224,
+  "pe_ratio": null,
+  "forward_pe": 36.12013,
+  "pb_ratio": 9.821461,
+  "dividend_yield": 1.28,
+  "52_week_high": 121.64,
+  "52_week_low": 48.37,
+  "avg_volume_10d": 3714330,
+  "avg_volume_3m": 3932155,
+  "fetched_at": "2026-03-02"
+}

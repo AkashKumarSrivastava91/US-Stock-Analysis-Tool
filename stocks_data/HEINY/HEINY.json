@@ -1,0 +1,21 @@
+{
+  "symbol": "HEINY",
+  "name": "Heineken N.V.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "Netherlands",
+  "region": "Netherlands",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 51750699008,
+  "pe_ratio": 23.11,
+  "forward_pe": 13.592199,
+  "pb_ratio": 1.2128683,
+  "dividend_yield": 2.42,
+  "52_week_high": 47.63,
+  "52_week_low": 38.0,
+  "avg_volume_10d": 73330,
+  "avg_volume_3m": 163646,
+  "fetched_at": "2026-03-02"
+}

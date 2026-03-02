@@ -1,0 +1,21 @@
+{
+  "symbol": "CPA",
+  "name": "Copa Holdings, S.A.",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "Panama",
+  "region": "Panama",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 5702150656,
+  "pe_ratio": 8.508901,
+  "forward_pe": 6.9314084,
+  "pb_ratio": 2.061667,
+  "dividend_yield": 4.93,
+  "52_week_high": 156.41,
+  "52_week_low": 82.54,
+  "avg_volume_10d": 384980,
+  "avg_volume_3m": 324860,
+  "fetched_at": "2026-03-02"
+}

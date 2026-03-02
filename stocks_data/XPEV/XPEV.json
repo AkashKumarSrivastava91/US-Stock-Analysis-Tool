@@ -1,0 +1,21 @@
+{
+  "symbol": "XPEV",
+  "name": "XPeng Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17059615744,
+  "pe_ratio": null,
+  "forward_pe": 41.32919,
+  "pb_ratio": 3.8167593,
+  "dividend_yield": null,
+  "52_week_high": 28.235,
+  "52_week_low": 16.13,
+  "avg_volume_10d": 3739390,
+  "avg_volume_3m": 7068248,
+  "fetched_at": "2026-03-02"
+}

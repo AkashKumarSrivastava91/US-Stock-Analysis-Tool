@@ -1,0 +1,21 @@
+{
+  "symbol": "WMB",
+  "name": "The Williams Companies, Inc.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 91307843584,
+  "pe_ratio": 34.915886,
+  "forward_pe": 29.10791,
+  "pb_ratio": 7.1488714,
+  "dividend_yield": 2.81,
+  "52_week_high": 75.59,
+  "52_week_low": 51.58,
+  "avg_volume_10d": 6620380,
+  "avg_volume_3m": 7338245,
+  "fetched_at": "2026-03-02"
+}

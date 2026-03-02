@@ -1,0 +1,21 @@
+{
+  "symbol": "CME",
+  "name": "CME Group Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 114864218112,
+  "pe_ratio": 28.654709,
+  "forward_pe": 25.253923,
+  "pb_ratio": 3.9996493,
+  "dividend_yield": 1.63,
+  "52_week_high": 322.57,
+  "52_week_low": 248.53,
+  "avg_volume_10d": 2523590,
+  "avg_volume_3m": 2090878,
+  "fetched_at": "2026-03-02"
+}

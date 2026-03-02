@@ -1,0 +1,21 @@
+{
+  "symbol": "PCG",
+  "name": "PG&E Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 41761390592,
+  "pe_ratio": 16.101696,
+  "forward_pe": 10.568414,
+  "pb_ratio": 1.3488569,
+  "dividend_yield": 1.05,
+  "52_week_high": 19.09,
+  "52_week_low": 12.97,
+  "avg_volume_10d": 19880930,
+  "avg_volume_3m": 21188251,
+  "fetched_at": "2026-03-02"
+}

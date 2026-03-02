@@ -1,0 +1,21 @@
+{
+  "symbol": "PHM",
+  "name": "PulteGroup, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 26387386368,
+  "pe_ratio": 12.349235,
+  "forward_pe": 12.147806,
+  "pb_ratio": 2.036273,
+  "dividend_yield": 0.76,
+  "52_week_high": 144.5,
+  "52_week_low": 88.07,
+  "avg_volume_10d": 1690030,
+  "avg_volume_3m": 1863073,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EWA",
+  "name": "iShares MSCI Australia ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Australia",
+  "region": "Australia",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 1913724032,
+  "pe_ratio": 23.526237,
+  "forward_pe": null,
+  "pb_ratio": 0.46438769,
+  "dividend_yield": 3.04,
+  "52_week_high": 30.2403,
+  "52_week_low": 20.51,
+  "avg_volume_10d": 5517590,
+  "avg_volume_3m": 5269508,
+  "fetched_at": "2026-03-02"
+}

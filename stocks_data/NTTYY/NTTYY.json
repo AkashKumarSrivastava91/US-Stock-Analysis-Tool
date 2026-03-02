@@ -1,0 +1,21 @@
+{
+  "symbol": "NTTYY",
+  "name": "NTT, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 79601451008,
+  "pe_ratio": 12.134328,
+  "forward_pe": 243.9,
+  "pb_ratio": 32.665943,
+  "dividend_yield": 3.56,
+  "52_week_high": 28.7,
+  "52_week_low": 22.8,
+  "avg_volume_10d": 157590,
+  "avg_volume_3m": 137991,
+  "fetched_at": "2026-03-02"
+}

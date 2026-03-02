@@ -1,0 +1,21 @@
+{
+  "symbol": "MDT",
+  "name": "Medtronic plc",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 125384204288,
+  "pe_ratio": 27.279331,
+  "forward_pe": 16.021235,
+  "pb_ratio": 2.5586212,
+  "dividend_yield": 2.91,
+  "52_week_high": 106.33,
+  "52_week_low": 79.55,
+  "avg_volume_10d": 9177940,
+  "avg_volume_3m": 7589905,
+  "fetched_at": "2026-03-02"
+}

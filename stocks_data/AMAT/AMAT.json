@@ -1,0 +1,21 @@
+{
+  "symbol": "AMAT",
+  "name": "Applied Materials, Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 295460929536,
+  "pe_ratio": 38.184612,
+  "forward_pe": 26.999743,
+  "pb_ratio": 13.60497,
+  "dividend_yield": 0.49,
+  "52_week_high": 395.95,
+  "52_week_low": 123.74,
+  "avg_volume_10d": 8638880,
+  "avg_volume_3m": 7605628,
+  "fetched_at": "2026-03-02"
+}

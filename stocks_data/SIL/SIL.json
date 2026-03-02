@@ -1,0 +1,21 @@
+{
+  "symbol": "SIL",
+  "name": "Global X Silver Miners ETF",
+  "sector": "Materials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 42.659973,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 1.03,
+  "52_week_high": 119.24,
+  "52_week_low": 33.11,
+  "avg_volume_10d": 3463780,
+  "avg_volume_3m": 3971742,
+  "fetched_at": "2026-03-02"
+}

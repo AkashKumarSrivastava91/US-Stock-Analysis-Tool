@@ -1,0 +1,21 @@
+{
+  "symbol": "KDDIY",
+  "name": "KDDI Corporation",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 65087684608,
+  "pe_ratio": 14.681035,
+  "forward_pe": 7.3090134,
+  "pb_ratio": 2.0344872,
+  "dividend_yield": 3.02,
+  "52_week_high": 19.09,
+  "52_week_low": 9.06,
+  "avg_volume_10d": 274120,
+  "avg_volume_3m": 261710,
+  "fetched_at": "2026-03-02"
+}

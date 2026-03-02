@@ -1,0 +1,21 @@
+{
+  "symbol": "QCOM",
+  "name": "QUALCOMM Incorporated",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 152046911488,
+  "pe_ratio": 28.759598,
+  "forward_pe": 12.672189,
+  "pb_ratio": 6.626635,
+  "dividend_yield": 2.5,
+  "52_week_high": 205.95,
+  "52_week_low": 120.8,
+  "avg_volume_10d": 10001460,
+  "avg_volume_3m": 9532551,
+  "fetched_at": "2026-03-02"
+}

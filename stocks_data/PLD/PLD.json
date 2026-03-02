@@ -1,0 +1,21 @@
+{
+  "symbol": "PLD",
+  "name": "Prologis, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Industrial",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 132527226880,
+  "pe_ratio": 40.047756,
+  "forward_pe": 42.589233,
+  "pb_ratio": 2.4933543,
+  "dividend_yield": 3.0,
+  "52_week_high": 143.95,
+  "52_week_low": 85.35,
+  "avg_volume_10d": 3076170,
+  "avg_volume_3m": 3428796,
+  "fetched_at": "2026-03-02"
+}

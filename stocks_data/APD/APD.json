@@ -1,0 +1,21 @@
+{
+  "symbol": "APD",
+  "name": "Air Products and Chemicals, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 61379584000,
+  "pe_ratio": null,
+  "forward_pe": 19.668476,
+  "pb_ratio": 3.9827497,
+  "dividend_yield": 2.63,
+  "52_week_high": 321.47,
+  "52_week_low": 229.11,
+  "avg_volume_10d": 1786400,
+  "avg_volume_3m": 1691463,
+  "fetched_at": "2026-03-02"
+}

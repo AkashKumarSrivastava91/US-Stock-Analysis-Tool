@@ -1,0 +1,21 @@
+{
+  "symbol": "WIT",
+  "name": "Wipro Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "India",
+  "region": "India",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 23470567424,
+  "pe_ratio": 15.857143,
+  "forward_pe": 15.09896,
+  "pb_ratio": 2.3599331,
+  "dividend_yield": 8.64,
+  "52_week_high": 3.34,
+  "52_week_low": 2.12,
+  "avg_volume_10d": 11399120,
+  "avg_volume_3m": 8993208,
+  "fetched_at": "2026-03-02"
+}

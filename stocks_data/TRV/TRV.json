@@ -1,0 +1,21 @@
+{
+  "symbol": "TRV",
+  "name": "The Travelers Companies, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 68846297088,
+  "pe_ratio": 11.247814,
+  "forward_pe": 10.916018,
+  "pb_ratio": 2.0407705,
+  "dividend_yield": 1.43,
+  "52_week_high": 309.81,
+  "52_week_low": 230.43,
+  "avg_volume_10d": 1479490,
+  "avg_volume_3m": 1622110,
+  "fetched_at": "2026-03-02"
+}

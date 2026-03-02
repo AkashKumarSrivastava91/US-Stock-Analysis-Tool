@@ -1,0 +1,21 @@
+{
+  "symbol": "PFE",
+  "name": "Pfizer Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 157209821184,
+  "pe_ratio": 20.330881,
+  "forward_pe": 9.766073,
+  "pb_ratio": 1.6941365,
+  "dividend_yield": 6.22,
+  "52_week_high": 27.94,
+  "52_week_low": 20.92,
+  "avg_volume_10d": 35289030,
+  "avg_volume_3m": 47872928,
+  "fetched_at": "2026-03-02"
+}

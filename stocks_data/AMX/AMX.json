@@ -1,0 +1,21 @@
+{
+  "symbol": "AMX",
+  "name": "Am\u00e9rica M\u00f3vil, S.A.B. de C.V.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Mexico",
+  "region": "Latin America",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 78356627456,
+  "pe_ratio": 16.2625,
+  "forward_pe": 13.355919,
+  "pb_ratio": 74.529205,
+  "dividend_yield": 2.17,
+  "52_week_high": 26.06,
+  "52_week_low": 13.1,
+  "avg_volume_10d": 3187510,
+  "avg_volume_3m": 2505296,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "FXI",
+  "name": "iShares China Large-Cap ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "China",
+  "region": "China",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 4825895936,
+  "pe_ratio": 10.490151,
+  "forward_pe": null,
+  "pb_ratio": 0.92377836,
+  "dividend_yield": 2.33,
+  "52_week_high": 42.0,
+  "52_week_low": 29.21,
+  "avg_volume_10d": 31976920,
+  "avg_volume_3m": 31851063,
+  "fetched_at": "2026-03-02"
+}

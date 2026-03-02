@@ -1,0 +1,21 @@
+{
+  "symbol": "GPN",
+  "name": "Global Payments Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21409697792,
+  "pe_ratio": 17.259594,
+  "forward_pe": 4.708812,
+  "pb_ratio": 0.7906683,
+  "dividend_yield": 1.31,
+  "52_week_high": 106.07,
+  "52_week_low": 65.93,
+  "avg_volume_10d": 5309850,
+  "avg_volume_3m": 3492745,
+  "fetched_at": "2026-03-02"
+}

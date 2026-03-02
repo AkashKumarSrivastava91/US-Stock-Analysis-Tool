@@ -1,0 +1,21 @@
+{
+  "symbol": "EQNR",
+  "name": "Equinor ASA",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Norway",
+  "region": "Norway",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 74421796864,
+  "pe_ratio": 15.376288,
+  "forward_pe": 10.555555,
+  "pb_ratio": 1.8514152,
+  "dividend_yield": 5.23,
+  "52_week_high": 29.94,
+  "52_week_low": 21.41,
+  "avg_volume_10d": 4791360,
+  "avg_volume_3m": 4562688,
+  "fetched_at": "2026-03-02"
+}

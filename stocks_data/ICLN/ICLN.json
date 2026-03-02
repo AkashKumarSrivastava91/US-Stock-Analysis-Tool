@@ -1,0 +1,21 @@
+{
+  "symbol": "ICLN",
+  "name": "iShares Global Clean Energy ETF",
+  "sector": "Clean Energy",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 21.616209,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 1.47,
+  "52_week_high": 19.38,
+  "52_week_low": 10.46,
+  "avg_volume_10d": 4715710,
+  "avg_volume_3m": 4114355,
+  "fetched_at": "2026-03-02"
+}

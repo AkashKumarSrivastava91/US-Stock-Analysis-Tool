@@ -1,0 +1,21 @@
+{
+  "symbol": "VMC",
+  "name": "Vulcan Materials Company",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 40960581632,
+  "pe_ratio": 36.643024,
+  "forward_pe": 28.472286,
+  "pb_ratio": 4.7490654,
+  "dividend_yield": 0.67,
+  "52_week_high": 331.09,
+  "52_week_low": 215.08,
+  "avg_volume_10d": 1483100,
+  "avg_volume_3m": 1054251,
+  "fetched_at": "2026-03-02"
+}

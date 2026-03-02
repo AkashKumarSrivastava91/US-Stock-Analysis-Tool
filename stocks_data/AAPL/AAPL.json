@@ -1,0 +1,21 @@
+{
+  "symbol": "AAPL",
+  "name": "Apple Inc.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 3882897899520,
+  "pe_ratio": 33.440506,
+  "forward_pe": 28.408987,
+  "pb_ratio": 44.044678,
+  "dividend_yield": 0.39,
+  "52_week_high": 288.62,
+  "52_week_low": 169.21,
+  "avg_volume_10d": 44450050,
+  "avg_volume_3m": 48445871,
+  "fetched_at": "2026-03-02"
+}

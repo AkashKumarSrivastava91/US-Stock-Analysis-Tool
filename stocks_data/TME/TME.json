@@ -1,0 +1,21 @@
+{
+  "symbol": "TME",
+  "name": "Tencent Music Entertainment Group",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24589340672,
+  "pe_ratio": 14.455446,
+  "forward_pe": 14.383138,
+  "pb_ratio": 1.8556919,
+  "dividend_yield": 1.23,
+  "52_week_high": 26.7,
+  "52_week_low": 11.71,
+  "avg_volume_10d": 5912800,
+  "avg_volume_3m": 5559503,
+  "fetched_at": "2026-03-02"
+}

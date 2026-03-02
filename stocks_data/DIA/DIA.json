@@ -1,0 +1,21 @@
+{
+  "symbol": "DIA",
+  "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 39781396480,
+  "pe_ratio": 23.632011,
+  "forward_pe": null,
+  "pb_ratio": 1.3670245,
+  "dividend_yield": 1.41,
+  "52_week_high": 505.3,
+  "52_week_low": 366.32,
+  "avg_volume_10d": 6203620,
+  "avg_volume_3m": 6010830,
+  "fetched_at": "2026-03-02"
+}

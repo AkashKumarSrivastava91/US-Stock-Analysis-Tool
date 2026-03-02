@@ -1,0 +1,21 @@
+{
+  "symbol": "HSBC",
+  "name": "HSBC Holdings plc",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 319835701248,
+  "pe_ratio": 19.612633,
+  "forward_pe": 9.828311,
+  "pb_ratio": 8.995751,
+  "dividend_yield": 4.03,
+  "52_week_high": 94.8,
+  "52_week_low": 45.66,
+  "avg_volume_10d": 2646140,
+  "avg_volume_3m": 2004513,
+  "fetched_at": "2026-03-02"
+}

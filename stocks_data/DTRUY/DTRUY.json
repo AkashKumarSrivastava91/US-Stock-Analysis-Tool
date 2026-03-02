@@ -1,0 +1,21 @@
+{
+  "symbol": "DTRUY",
+  "name": "Daimler Truck Holding AG",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 39045619712,
+  "pe_ratio": 15.088757,
+  "forward_pe": null,
+  "pb_ratio": 0.78735656,
+  "dividend_yield": 4.24,
+  "52_week_high": 26.45,
+  "52_week_low": 16.94,
+  "avg_volume_10d": 33140,
+  "avg_volume_3m": 50486,
+  "fetched_at": "2026-03-02"
+}

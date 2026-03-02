@@ -1,0 +1,21 @@
+{
+  "symbol": "ECH",
+  "name": "iShares MSCI Chile ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "BTS",
+  "market_cap": 384975008,
+  "pe_ratio": 15.135188,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 1.79,
+  "52_week_high": 47.85,
+  "52_week_low": 26.32,
+  "avg_volume_10d": 1046840,
+  "avg_volume_3m": 960440,
+  "fetched_at": "2026-03-02"
+}

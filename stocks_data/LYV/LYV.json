@@ -1,0 +1,21 @@
+{
+  "symbol": "LYV",
+  "name": "Live Nation Entertainment, Inc.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 37650407424,
+  "pe_ratio": 117.49275,
+  "forward_pe": 71.3924,
+  "pb_ratio": 140.01727,
+  "dividend_yield": null,
+  "52_week_high": 175.25,
+  "52_week_low": 112.88,
+  "avg_volume_10d": 3615110,
+  "avg_volume_3m": 2875601,
+  "fetched_at": "2026-03-02"
+}

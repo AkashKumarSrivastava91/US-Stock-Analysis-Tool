@@ -1,0 +1,21 @@
+{
+  "symbol": "NCLH",
+  "name": "Norwegian Cruise Line Holdings Ltd.",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11285833728,
+  "pe_ratio": 17.834534,
+  "forward_pe": 9.550226,
+  "pb_ratio": 5.146357,
+  "dividend_yield": null,
+  "52_week_high": 27.18,
+  "52_week_low": 14.21,
+  "avg_volume_10d": 25089640,
+  "avg_volume_3m": 19519731,
+  "fetched_at": "2026-03-02"
+}

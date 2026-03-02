@@ -1,0 +1,21 @@
+{
+  "symbol": "HMY",
+  "name": "Harmony Gold Mining Company Limited",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 14209272832,
+  "pe_ratio": 15.798611,
+  "forward_pe": 9.400826,
+  "pb_ratio": 4.6825385,
+  "dividend_yield": 0.92,
+  "52_week_high": 26.06,
+  "52_week_low": 9.93,
+  "avg_volume_10d": 4714630,
+  "avg_volume_3m": 4590621,
+  "fetched_at": "2026-03-02"
+}

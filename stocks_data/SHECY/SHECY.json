@@ -1,0 +1,21 @@
+{
+  "symbol": "SHECY",
+  "name": "Shin-Etsu Chemical Co., Ltd.",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 73610076160,
+  "pe_ratio": 23.662651,
+  "forward_pe": null,
+  "pb_ratio": 1.3196931,
+  "dividend_yield": 1.8,
+  "52_week_high": 20.55,
+  "52_week_low": 11.88,
+  "avg_volume_10d": 476450,
+  "avg_volume_3m": 611659,
+  "fetched_at": "2026-03-02"
+}

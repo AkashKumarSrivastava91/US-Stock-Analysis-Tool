@@ -1,0 +1,21 @@
+{
+  "symbol": "SSNLF",
+  "name": "Samsung Electronics Co., Ltd.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 435999473664,
+  "pe_ratio": 19.523952,
+  "forward_pe": 14.686936,
+  "pb_ratio": 1.46232,
+  "dividend_yield": 2.41,
+  "52_week_high": 65.21,
+  "52_week_low": 40.5999,
+  "avg_volume_10d": 0,
+  "avg_volume_3m": 0,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "OMC",
+  "name": "Omnicom Group Inc.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 26832547840,
+  "pe_ratio": null,
+  "forward_pe": 6.6913013,
+  "pb_ratio": 2.2168794,
+  "dividend_yield": 3.75,
+  "52_week_high": 89.27,
+  "52_week_low": 66.33,
+  "avg_volume_10d": 7713440,
+  "avg_volume_3m": 5315096,
+  "fetched_at": "2026-03-02"
+}

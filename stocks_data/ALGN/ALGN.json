@@ -1,0 +1,21 @@
+{
+  "symbol": "ALGN",
+  "name": "Align Technology, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 13779658752,
+  "pe_ratio": 33.64602,
+  "forward_pe": 15.501879,
+  "pb_ratio": 3.3654358,
+  "dividend_yield": null,
+  "52_week_high": 208.31,
+  "52_week_low": 122.0,
+  "avg_volume_10d": 1158720,
+  "avg_volume_3m": 1195260,
+  "fetched_at": "2026-03-02"
+}

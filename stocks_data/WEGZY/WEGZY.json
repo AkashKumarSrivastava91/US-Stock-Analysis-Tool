@@ -1,0 +1,21 @@
+{
+  "symbol": "WEGZY",
+  "name": "WEG S.A.",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 40446660608,
+  "pe_ratio": 32.13333,
+  "forward_pe": 25.212503,
+  "pb_ratio": 11.935838,
+  "dividend_yield": 3.07,
+  "52_week_high": 10.803,
+  "52_week_low": 6.35,
+  "avg_volume_10d": 66790,
+  "avg_volume_3m": 51105,
+  "fetched_at": "2026-03-02"
+}

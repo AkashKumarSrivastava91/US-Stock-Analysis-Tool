@@ -1,0 +1,21 @@
+{
+  "symbol": "STX",
+  "name": "Seagate Technology Holdings plc",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "Singapore",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 88938921984,
+  "pe_ratio": 46.083614,
+  "forward_pe": 20.560213,
+  "pb_ratio": 193.8403,
+  "dividend_yield": 0.73,
+  "52_week_high": 459.84,
+  "52_week_low": 63.19,
+  "avg_volume_10d": 3162910,
+  "avg_volume_3m": 4281456,
+  "fetched_at": "2026-03-02"
+}

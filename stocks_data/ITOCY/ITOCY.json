@@ -1,0 +1,21 @@
+{
+  "symbol": "ITOCY",
+  "name": "ITOCHU Corporation",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 101058469888,
+  "pe_ratio": 16.95294,
+  "forward_pe": null,
+  "pb_ratio": 2.490116,
+  "dividend_yield": 1.83,
+  "52_week_high": 15.1,
+  "52_week_low": 8.151,
+  "avg_volume_10d": 368880,
+  "avg_volume_3m": 429841,
+  "fetched_at": "2026-03-02"
+}

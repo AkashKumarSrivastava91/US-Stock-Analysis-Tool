@@ -1,0 +1,21 @@
+{
+  "symbol": "TYL",
+  "name": "Tyler Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 15344532480,
+  "pe_ratio": 49.2625,
+  "forward_pe": 24.996529,
+  "pb_ratio": 4.130546,
+  "dividend_yield": null,
+  "52_week_high": 626.56,
+  "52_week_low": 283.72,
+  "avg_volume_10d": 1013070,
+  "avg_volume_3m": 613035,
+  "fetched_at": "2026-03-02"
+}

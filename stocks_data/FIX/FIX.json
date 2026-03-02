@@ -1,0 +1,21 @@
+{
+  "symbol": "FIX",
+  "name": "Comfort Systems USA, Inc.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 50416668672,
+  "pe_ratio": 49.510563,
+  "forward_pe": 32.267235,
+  "pb_ratio": 20.49952,
+  "dividend_yield": 0.16,
+  "52_week_high": 1500.0,
+  "52_week_low": 276.44,
+  "avg_volume_10d": 539490,
+  "avg_volume_3m": 557555,
+  "fetched_at": "2026-03-02"
+}

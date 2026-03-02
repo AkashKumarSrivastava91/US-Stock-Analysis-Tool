@@ -1,0 +1,21 @@
+{
+  "symbol": "DOC",
+  "name": "Healthpeak Properties, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Healthcare Facilities",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 12288377856,
+  "pe_ratio": 176.8,
+  "forward_pe": 88.4,
+  "pb_ratio": 1.6384023,
+  "dividend_yield": 6.9,
+  "52_week_high": 21.28,
+  "52_week_low": 15.71,
+  "avg_volume_10d": 9435770,
+  "avg_volume_3m": 9343795,
+  "fetched_at": "2026-03-02"
+}

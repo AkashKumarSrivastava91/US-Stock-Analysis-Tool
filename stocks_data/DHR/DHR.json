@@ -1,0 +1,21 @@
+{
+  "symbol": "DHR",
+  "name": "Danaher Corporation",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 148951826432,
+  "pe_ratio": 41.87674,
+  "forward_pe": 23.112509,
+  "pb_ratio": 2.8343828,
+  "dividend_yield": 0.76,
+  "52_week_high": 242.8,
+  "52_week_low": 171.0,
+  "avg_volume_10d": 4434660,
+  "avg_volume_3m": 3835803,
+  "fetched_at": "2026-03-02"
+}

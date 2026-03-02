@@ -1,0 +1,21 @@
+{
+  "symbol": "XLE",
+  "name": "State Street Energy Select Sector SPDR ETF",
+  "sector": "Energy",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 10424829952,
+  "pe_ratio": 22.314047,
+  "forward_pe": null,
+  "pb_ratio": 1.0730115,
+  "dividend_yield": 2.87,
+  "52_week_high": 56.15,
+  "52_week_low": 37.245,
+  "avg_volume_10d": 50060980,
+  "avg_volume_3m": 43903238,
+  "fetched_at": "2026-03-02"
+}

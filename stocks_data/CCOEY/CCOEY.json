@@ -1,0 +1,21 @@
+{
+  "symbol": "CCOEY",
+  "name": "Capcom Co., Ltd.",
+  "sector": "Communication Services",
+  "industry": "Electronic Gaming & Multimedia",
+  "country": "Japan",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 9603765248,
+  "pe_ratio": 24.652174,
+  "forward_pe": null,
+  "pb_ratio": 2.9544024,
+  "dividend_yield": 1.22,
+  "52_week_high": 17.2,
+  "52_week_low": 9.77,
+  "avg_volume_10d": 193060,
+  "avg_volume_3m": 159515,
+  "fetched_at": "2026-03-02"
+}

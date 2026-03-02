@@ -1,0 +1,21 @@
+{
+  "symbol": "AMGN",
+  "name": "Amgen Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 209136680960,
+  "pe_ratio": 27.225262,
+  "forward_pe": 16.681515,
+  "pb_ratio": 24.143381,
+  "dividend_yield": 2.49,
+  "52_week_high": 390.14,
+  "52_week_low": 261.43,
+  "avg_volume_10d": 2663620,
+  "avg_volume_3m": 2912140,
+  "fetched_at": "2026-03-02"
+}

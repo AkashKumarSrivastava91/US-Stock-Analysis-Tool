@@ -1,0 +1,21 @@
+{
+  "symbol": "RCRUY",
+  "name": "Recruit Holdings Co., Ltd.",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 60383096832,
+  "pe_ratio": 22.736843,
+  "forward_pe": null,
+  "pb_ratio": 1.2136633,
+  "dividend_yield": 0.38,
+  "52_week_high": 12.99,
+  "52_week_low": 7.69,
+  "avg_volume_10d": 2313210,
+  "avg_volume_3m": 935596,
+  "fetched_at": "2026-03-02"
+}

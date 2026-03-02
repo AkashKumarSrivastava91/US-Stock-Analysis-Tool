@@ -1,0 +1,21 @@
+{
+  "symbol": "UBER",
+  "name": "Uber Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 156709961728,
+  "pe_ratio": 15.945031,
+  "forward_pe": 17.59063,
+  "pb_ratio": 5.767378,
+  "dividend_yield": null,
+  "52_week_high": 101.99,
+  "52_week_low": 60.63,
+  "avg_volume_10d": 20637710,
+  "avg_volume_3m": 20899301,
+  "fetched_at": "2026-03-02"
+}

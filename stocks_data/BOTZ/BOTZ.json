@@ -1,0 +1,21 @@
+{
+  "symbol": "BOTZ",
+  "name": "Global X Robotics & Artificial Intelligence ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 36.44308,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.63,
+  "52_week_high": 39.778,
+  "52_week_low": 23.815,
+  "avg_volume_10d": 922360,
+  "avg_volume_3m": 829008,
+  "fetched_at": "2026-03-02"
+}

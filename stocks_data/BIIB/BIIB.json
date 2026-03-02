@@ -1,0 +1,21 @@
+{
+  "symbol": "BIIB",
+  "name": "Biogen Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 28151222272,
+  "pe_ratio": 21.822527,
+  "forward_pe": 11.811467,
+  "pb_ratio": 1.5423955,
+  "dividend_yield": null,
+  "52_week_high": 202.41,
+  "52_week_low": 110.04,
+  "avg_volume_10d": 1010840,
+  "avg_volume_3m": 1777008,
+  "fetched_at": "2026-03-02"
+}

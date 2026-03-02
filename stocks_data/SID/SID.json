@@ -1,0 +1,21 @@
+{
+  "symbol": "SID",
+  "name": "Companhia Sider\u00fargica Nacional",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 2227837696,
+  "pe_ratio": null,
+  "forward_pe": -140.0,
+  "pb_ratio": 0.80968803,
+  "dividend_yield": 14.52,
+  "52_week_high": 2.2,
+  "52_week_low": 1.24,
+  "avg_volume_10d": 4395820,
+  "avg_volume_3m": 4100263,
+  "fetched_at": "2026-03-02"
+}

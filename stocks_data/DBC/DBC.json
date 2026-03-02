@@ -1,0 +1,21 @@
+{
+  "symbol": "DBC",
+  "name": "Invesco DB Commodity Index Tracking Fund",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 2796140032,
+  "pe_ratio": 6.0701327,
+  "forward_pe": null,
+  "pb_ratio": 1.5158836,
+  "dividend_yield": 3.07,
+  "52_week_high": 25.69,
+  "52_week_low": 19.84,
+  "avg_volume_10d": 484170,
+  "avg_volume_3m": 686391,
+  "fetched_at": "2026-03-02"
+}

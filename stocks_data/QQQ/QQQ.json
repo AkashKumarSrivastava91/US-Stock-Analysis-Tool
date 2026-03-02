@@ -1,0 +1,21 @@
+{
+  "symbol": "QQQ",
+  "name": "Invesco QQQ Trust",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 238725693440,
+  "pe_ratio": 32.64977,
+  "forward_pe": null,
+  "pb_ratio": 1.6974124,
+  "dividend_yield": 0.45,
+  "52_week_high": 637.01,
+  "52_week_low": 402.39,
+  "avg_volume_10d": 67637450,
+  "avg_volume_3m": 56920846,
+  "fetched_at": "2026-03-02"
+}

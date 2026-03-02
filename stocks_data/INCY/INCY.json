@@ -1,0 +1,21 @@
+{
+  "symbol": "INCY",
+  "name": "Incyte Corporation",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 20154195968,
+  "pe_ratio": 15.798752,
+  "forward_pe": 11.670452,
+  "pb_ratio": 3.8893154,
+  "dividend_yield": null,
+  "52_week_high": 112.29,
+  "52_week_low": 53.56,
+  "avg_volume_10d": 1696770,
+  "avg_volume_3m": 2038553,
+  "fetched_at": "2026-03-02"
+}

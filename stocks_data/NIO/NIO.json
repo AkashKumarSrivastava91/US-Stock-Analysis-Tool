@@ -1,0 +1,21 @@
+{
+  "symbol": "NIO",
+  "name": "NIO Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 12314569728,
+  "pe_ratio": null,
+  "forward_pe": -10.132126,
+  "pb_ratio": 22.051691,
+  "dividend_yield": null,
+  "52_week_high": 8.02,
+  "52_week_low": 3.02,
+  "avg_volume_10d": 31348660,
+  "avg_volume_3m": 42809101,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "AVGO",
+  "name": "Broadcom Inc.",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1515073961984,
+  "pe_ratio": 67.13235,
+  "forward_pe": 22.00909,
+  "pb_ratio": 5.3958898,
+  "dividend_yield": 0.81,
+  "52_week_high": 414.61,
+  "52_week_low": 138.1,
+  "avg_volume_10d": 20950050,
+  "avg_volume_3m": 30772865,
+  "fetched_at": "2026-03-02"
+}

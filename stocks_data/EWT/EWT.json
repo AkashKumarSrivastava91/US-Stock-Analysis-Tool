@@ -1,0 +1,21 @@
+{
+  "symbol": "EWT",
+  "name": "iShares MSCI Taiwan ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Taiwan",
+  "region": "Taiwan",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 6431949824,
+  "pe_ratio": 23.57534,
+  "forward_pe": null,
+  "pb_ratio": 1.2984984,
+  "dividend_yield": 1.45,
+  "52_week_high": 77.25,
+  "52_week_low": 39.44,
+  "avg_volume_10d": 5337490,
+  "avg_volume_3m": 4590660,
+  "fetched_at": "2026-03-02"
+}

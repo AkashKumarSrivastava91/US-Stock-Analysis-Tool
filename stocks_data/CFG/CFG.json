@@ -1,0 +1,21 @@
+{
+  "symbol": "CFG",
+  "name": "Citizens Financial Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 25850773504,
+  "pe_ratio": 15.593265,
+  "forward_pe": 9.562741,
+  "pb_ratio": 1.06735,
+  "dividend_yield": 3.06,
+  "52_week_high": 68.79,
+  "52_week_low": 32.6,
+  "avg_volume_10d": 5141940,
+  "avg_volume_3m": 5300110,
+  "fetched_at": "2026-03-02"
+}

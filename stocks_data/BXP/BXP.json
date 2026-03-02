@@ -1,0 +1,21 @@
+{
+  "symbol": "BXP",
+  "name": "BXP, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Office",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 10190287872,
+  "pe_ratio": 33.091953,
+  "forward_pe": 24.765593,
+  "pb_ratio": 1.773657,
+  "dividend_yield": 4.86,
+  "52_week_high": 79.33,
+  "52_week_low": 54.22,
+  "avg_volume_10d": 4096340,
+  "avg_volume_3m": 2235170,
+  "fetched_at": "2026-03-02"
+}

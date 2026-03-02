@@ -1,0 +1,21 @@
+{
+  "symbol": "RYCEY",
+  "name": "Rolls-Royce Holdings plc",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 154198048768,
+  "pe_ratio": 20.021505,
+  "forward_pe": 31.452703,
+  "pb_ratio": 42.46706,
+  "dividend_yield": 0.69,
+  "52_week_high": 18.98,
+  "52_week_low": 8.01,
+  "avg_volume_10d": 3594960,
+  "avg_volume_3m": 3884666,
+  "fetched_at": "2026-03-02"
+}

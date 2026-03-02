@@ -1,0 +1,21 @@
+{
+  "symbol": "PGR",
+  "name": "The Progressive Corporation",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 125247496192,
+  "pe_ratio": 11.1107645,
+  "forward_pe": 13.255658,
+  "pb_ratio": 4.129733,
+  "dividend_yield": 6.51,
+  "52_week_high": 292.99,
+  "52_week_low": 197.92,
+  "avg_volume_10d": 3059060,
+  "avg_volume_3m": 3432638,
+  "fetched_at": "2026-03-02"
+}

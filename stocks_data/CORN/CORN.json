@@ -1,0 +1,21 @@
+{
+  "symbol": "CORN",
+  "name": "Teucrium Corn Fund",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.0,
+  "52_week_high": 19.76,
+  "52_week_low": 16.61,
+  "avg_volume_10d": 85420,
+  "avg_volume_3m": 58996,
+  "fetched_at": "2026-03-02"
+}

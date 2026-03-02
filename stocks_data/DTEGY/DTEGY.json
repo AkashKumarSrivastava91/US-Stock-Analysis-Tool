@@ -1,0 +1,21 @@
+{
+  "symbol": "DTEGY",
+  "name": "Deutsche Telekom AG",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 202408132608,
+  "pe_ratio": 13.794519,
+  "forward_pe": 13.269979,
+  "pb_ratio": 2.6560612,
+  "dividend_yield": 2.54,
+  "52_week_high": 40.58,
+  "52_week_low": 30.31,
+  "avg_volume_10d": 395070,
+  "avg_volume_3m": 479320,
+  "fetched_at": "2026-03-02"
+}

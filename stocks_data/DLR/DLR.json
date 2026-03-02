@@ -1,0 +1,21 @@
+{
+  "symbol": "DLR",
+  "name": "Digital Realty Trust, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 61985345536,
+  "pe_ratio": 49.497208,
+  "forward_pe": 52.013924,
+  "pb_ratio": 2.7430341,
+  "dividend_yield": 2.75,
+  "52_week_high": 184.79,
+  "52_week_low": 129.95,
+  "avg_volume_10d": 1970740,
+  "avg_volume_3m": 2088786,
+  "fetched_at": "2026-03-02"
+}

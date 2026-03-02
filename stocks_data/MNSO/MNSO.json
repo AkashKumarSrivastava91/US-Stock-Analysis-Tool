@@ -1,0 +1,21 @@
+{
+  "symbol": "MNSO",
+  "name": "MINISO Group Holding Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 5613874176,
+  "pe_ratio": 17.841585,
+  "forward_pe": 10.809256,
+  "pb_ratio": 3.5107703,
+  "dividend_yield": 3.42,
+  "52_week_high": 26.74,
+  "52_week_low": 13.945,
+  "avg_volume_10d": 442350,
+  "avg_volume_3m": 556108,
+  "fetched_at": "2026-03-02"
+}

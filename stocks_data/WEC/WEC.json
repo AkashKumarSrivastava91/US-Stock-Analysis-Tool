@@ -1,0 +1,21 @@
+{
+  "symbol": "WEC",
+  "name": "WEC Energy Group, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38065975296,
+  "pe_ratio": 24.316008,
+  "forward_pe": 19.468252,
+  "pb_ratio": 2.7961464,
+  "dividend_yield": 3.26,
+  "52_week_high": 118.19,
+  "52_week_low": 100.61,
+  "avg_volume_10d": 2265700,
+  "avg_volume_3m": 2273336,
+  "fetched_at": "2026-03-02"
+}

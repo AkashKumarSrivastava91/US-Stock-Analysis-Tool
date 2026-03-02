@@ -1,0 +1,21 @@
+{
+  "symbol": "GEV",
+  "name": "GE Vernova Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 237025542144,
+  "pe_ratio": 49.49575,
+  "forward_pe": 38.754875,
+  "pb_ratio": 21.064814,
+  "dividend_yield": 0.17,
+  "52_week_high": 894.93,
+  "52_week_low": 252.25,
+  "avg_volume_10d": 2070330,
+  "avg_volume_3m": 3174070,
+  "fetched_at": "2026-03-02"
+}

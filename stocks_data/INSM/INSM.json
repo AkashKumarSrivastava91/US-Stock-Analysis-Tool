@@ -1,0 +1,21 @@
+{
+  "symbol": "INSM",
+  "name": "Insmed Incorporated",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 31848128512,
+  "pe_ratio": null,
+  "forward_pe": 402.77814,
+  "pb_ratio": 43.296608,
+  "dividend_yield": null,
+  "52_week_high": 212.75,
+  "52_week_low": 60.4,
+  "avg_volume_10d": 2723070,
+  "avg_volume_3m": 2971886,
+  "fetched_at": "2026-03-02"
+}

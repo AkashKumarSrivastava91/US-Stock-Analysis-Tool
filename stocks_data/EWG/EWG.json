@@ -1,0 +1,21 @@
+{
+  "symbol": "EWG",
+  "name": "iShares MSCI Germany ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Europe",
+  "region": "Europe",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 3525029888,
+  "pe_ratio": 18.816898,
+  "forward_pe": null,
+  "pb_ratio": 1.3781742,
+  "dividend_yield": 1.58,
+  "52_week_high": 44.65,
+  "52_week_low": 32.82,
+  "avg_volume_10d": 1072400,
+  "avg_volume_3m": 2045371,
+  "fetched_at": "2026-03-02"
+}

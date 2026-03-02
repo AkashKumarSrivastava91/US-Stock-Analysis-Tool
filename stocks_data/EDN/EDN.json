@@ -1,0 +1,21 @@
+{
+  "symbol": "EDN",
+  "name": "Empresa Distribuidora y Comercializadora Norte Sociedad An\u00f3nima",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1267963008,
+  "pe_ratio": 15.760736,
+  "forward_pe": 755.5882,
+  "pb_ratio": 15.422107,
+  "dividend_yield": null,
+  "52_week_high": 38.1,
+  "52_week_low": 14.38,
+  "avg_volume_10d": 90620,
+  "avg_volume_3m": 100777,
+  "fetched_at": "2026-03-02"
+}

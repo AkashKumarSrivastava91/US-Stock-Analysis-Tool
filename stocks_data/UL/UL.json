@@ -1,0 +1,21 @@
+{
+  "symbol": "UL",
+  "name": "Unilever PLC",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 161260437504,
+  "pe_ratio": 24.101307,
+  "forward_pe": 18.344479,
+  "pb_ratio": 8.770592,
+  "dividend_yield": 3.01,
+  "52_week_high": 74.98,
+  "52_week_low": 61.78,
+  "avg_volume_10d": 3971360,
+  "avg_volume_3m": 3167423,
+  "fetched_at": "2026-03-02"
+}

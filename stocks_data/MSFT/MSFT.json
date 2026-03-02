@@ -1,0 +1,21 @@
+{
+  "symbol": "MSFT",
+  "name": "Microsoft Corporation",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 2918992052224,
+  "pe_ratio": 24.576971,
+  "forward_pe": 20.843594,
+  "pb_ratio": 7.464411,
+  "dividend_yield": 0.93,
+  "52_week_high": 555.45,
+  "52_week_low": 344.79,
+  "avg_volume_10d": 35807370,
+  "avg_volume_3m": 32613725,
+  "fetched_at": "2026-03-02"
+}

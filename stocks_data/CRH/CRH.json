@@ -1,0 +1,21 @@
+{
+  "symbol": "CRH",
+  "name": "CRH plc",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 80405495808,
+  "pe_ratio": 21.774954,
+  "forward_pe": 18.160519,
+  "pb_ratio": 3.3421547,
+  "dividend_yield": 1.25,
+  "52_week_high": 131.55,
+  "52_week_low": 76.75,
+  "avg_volume_10d": 5426410,
+  "avg_volume_3m": 7967546,
+  "fetched_at": "2026-03-02"
+}

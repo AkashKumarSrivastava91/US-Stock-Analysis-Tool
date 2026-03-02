@@ -1,0 +1,21 @@
+{
+  "symbol": "EDU",
+  "name": "New Oriental Education & Technology Group Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 9110817792,
+  "pe_ratio": 22.770834,
+  "forward_pe": 12.926498,
+  "pb_ratio": 2.2348998,
+  "dividend_yield": 2.2,
+  "52_week_high": 64.97,
+  "52_week_low": 40.66,
+  "avg_volume_10d": 785790,
+  "avg_volume_3m": 934563,
+  "fetched_at": "2026-03-02"
+}

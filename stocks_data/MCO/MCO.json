@@ -1,0 +1,21 @@
+{
+  "symbol": "MCO",
+  "name": "Moody's Corporation",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 84676706304,
+  "pe_ratio": 34.962666,
+  "forward_pe": 25.557709,
+  "pb_ratio": 20.91574,
+  "dividend_yield": 0.86,
+  "52_week_high": 546.88,
+  "52_week_low": 378.71,
+  "avg_volume_10d": 1743490,
+  "avg_volume_3m": 1141515,
+  "fetched_at": "2026-03-02"
+}

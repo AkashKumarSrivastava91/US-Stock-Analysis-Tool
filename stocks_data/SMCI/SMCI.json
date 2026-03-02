@@ -1,0 +1,21 @@
+{
+  "symbol": "SMCI",
+  "name": "Super Micro Computer, Inc.",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 19401267200,
+  "pe_ratio": 23.642336,
+  "forward_pe": 10.939094,
+  "pb_ratio": 2.7745416,
+  "dividend_yield": null,
+  "52_week_high": 62.36,
+  "52_week_low": 27.6,
+  "avg_volume_10d": 25473270,
+  "avg_volume_3m": 28838061,
+  "fetched_at": "2026-03-02"
+}

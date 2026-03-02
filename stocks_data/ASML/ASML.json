@@ -1,0 +1,21 @@
+{
+  "symbol": "ASML",
+  "name": "ASML Holding N.V.",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "Netherlands",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 569575014400,
+  "pe_ratio": 49.744858,
+  "forward_pe": 32.92604,
+  "pb_ratio": 24.154005,
+  "dividend_yield": 0.61,
+  "52_week_high": 1547.22,
+  "52_week_low": 578.51,
+  "avg_volume_10d": 1358350,
+  "avg_volume_3m": 1674016,
+  "fetched_at": "2026-03-02"
+}

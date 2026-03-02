@@ -1,0 +1,21 @@
+{
+  "symbol": "NGG",
+  "name": "National Grid plc",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 93231595520,
+  "pe_ratio": 23.153084,
+  "forward_pe": 15.575454,
+  "pb_ratio": 9.206038,
+  "dividend_yield": 3.33,
+  "52_week_high": 94.64,
+  "52_week_low": 59.35,
+  "avg_volume_10d": 1503990,
+  "avg_volume_3m": 841991,
+  "fetched_at": "2026-03-02"
+}

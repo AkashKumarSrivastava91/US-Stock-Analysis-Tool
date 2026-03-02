@@ -1,0 +1,21 @@
+{
+  "symbol": "EXE",
+  "name": "Expand Energy Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 25943779328,
+  "pe_ratio": 14.256274,
+  "forward_pe": 11.639896,
+  "pb_ratio": 1.3898082,
+  "dividend_yield": 2.96,
+  "52_week_high": 126.621,
+  "52_week_low": 91.015,
+  "avg_volume_10d": 4853660,
+  "avg_volume_3m": 3579916,
+  "fetched_at": "2026-03-02"
+}

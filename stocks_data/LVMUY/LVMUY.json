@@ -1,0 +1,21 @@
+{
+  "symbol": "LVMUY",
+  "name": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 316760686592,
+  "pe_ratio": 24.748062,
+  "forward_pe": 20.723991,
+  "pb_ratio": 0.7960554,
+  "dividend_yield": 2.33,
+  "52_week_high": 152.95,
+  "52_week_low": 101.8,
+  "avg_volume_10d": 322240,
+  "avg_volume_3m": 252110,
+  "fetched_at": "2026-03-02"
+}

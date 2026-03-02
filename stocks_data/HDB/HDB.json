@@ -1,0 +1,21 @@
+{
+  "symbol": "HDB",
+  "name": "HDFC Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "India",
+  "region": "India",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 163369435136,
+  "pe_ratio": 21.52027,
+  "forward_pe": 23.400192,
+  "pb_ratio": 7.8963957,
+  "dividend_yield": 1.18,
+  "52_week_high": 39.805,
+  "52_week_low": 29.225,
+  "avg_volume_10d": 6137480,
+  "avg_volume_3m": 5435130,
+  "fetched_at": "2026-03-02"
+}

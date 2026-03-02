@@ -1,0 +1,21 @@
+{
+  "symbol": "UHS",
+  "name": "Universal Health Services, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 13115934720,
+  "pe_ratio": 9.814286,
+  "forward_pe": 8.111459,
+  "pb_ratio": 1.7297524,
+  "dividend_yield": 0.39,
+  "52_week_high": 246.33,
+  "52_week_low": 152.33,
+  "avg_volume_10d": 880810,
+  "avg_volume_3m": 748815,
+  "fetched_at": "2026-03-02"
+}

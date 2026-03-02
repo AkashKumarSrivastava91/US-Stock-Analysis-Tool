@@ -1,0 +1,21 @@
+{
+  "symbol": "ALPMY",
+  "name": "Astellas Pharma Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 29846794240,
+  "pe_ratio": 37.522728,
+  "forward_pe": 36.68889,
+  "pb_ratio": 2.6014304,
+  "dividend_yield": 3.08,
+  "52_week_high": 16.95,
+  "52_week_low": 8.37,
+  "avg_volume_10d": 170950,
+  "avg_volume_3m": 133547,
+  "fetched_at": "2026-03-02"
+}

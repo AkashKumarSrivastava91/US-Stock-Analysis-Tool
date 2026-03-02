@@ -1,0 +1,21 @@
+{
+  "symbol": "JCI",
+  "name": "Johnson Controls International plc",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 88321155072,
+  "pe_ratio": 48.26087,
+  "forward_pe": 26.089031,
+  "pb_ratio": 6.6882963,
+  "dividend_yield": 1.11,
+  "52_week_high": 146.49,
+  "52_week_low": 68.03,
+  "avg_volume_10d": 4831780,
+  "avg_volume_3m": 5651918,
+  "fetched_at": "2026-03-02"
+}

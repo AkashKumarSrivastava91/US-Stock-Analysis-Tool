@@ -1,0 +1,21 @@
+{
+  "symbol": "VLTO",
+  "name": "Veralto Corporation",
+  "sector": "Industrials",
+  "industry": "Pollution & Treatment Controls",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24191610880,
+  "pe_ratio": 25.912233,
+  "forward_pe": 21.397339,
+  "pb_ratio": 7.7944,
+  "dividend_yield": 0.53,
+  "52_week_high": 110.11,
+  "52_week_low": 83.865,
+  "avg_volume_10d": 2250170,
+  "avg_volume_3m": 1924646,
+  "fetched_at": "2026-03-02"
+}

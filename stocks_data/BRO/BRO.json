@@ -1,0 +1,21 @@
+{
+  "symbol": "BRO",
+  "name": "Brown & Brown, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24520841216,
+  "pe_ratio": 22.727848,
+  "forward_pe": 14.418327,
+  "pb_ratio": 1.9233036,
+  "dividend_yield": 0.88,
+  "52_week_high": 125.68,
+  "52_week_low": 65.68,
+  "avg_volume_10d": 3694800,
+  "avg_volume_3m": 3160540,
+  "fetched_at": "2026-03-02"
+}

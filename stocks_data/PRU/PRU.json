@@ -1,0 +1,21 @@
+{
+  "symbol": "PRU",
+  "name": "Prudential Financial, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 34236239872,
+  "pe_ratio": 9.847848,
+  "forward_pe": 6.349354,
+  "pb_ratio": 1.0552623,
+  "dividend_yield": 5.54,
+  "52_week_high": 119.76,
+  "52_week_low": 90.38,
+  "avg_volume_10d": 2385900,
+  "avg_volume_3m": 2055306,
+  "fetched_at": "2026-03-02"
+}

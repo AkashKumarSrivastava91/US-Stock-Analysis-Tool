@@ -1,0 +1,21 @@
+{
+  "symbol": "BIOX",
+  "name": "Bioceres Crop Solutions Corp.",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 35548136,
+  "pe_ratio": null,
+  "forward_pe": 0.875,
+  "pb_ratio": 0.13742332,
+  "dividend_yield": null,
+  "52_week_high": 5.4,
+  "52_week_low": 0.529,
+  "avg_volume_10d": 346140,
+  "avg_volume_3m": 590091,
+  "fetched_at": "2026-03-02"
+}

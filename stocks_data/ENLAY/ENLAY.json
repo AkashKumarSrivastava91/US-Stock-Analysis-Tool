@@ -1,0 +1,21 @@
+{
+  "symbol": "ENLAY",
+  "name": "Enel SpA",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 120271953920,
+  "pe_ratio": 16.887323,
+  "forward_pe": 13.748508,
+  "pb_ratio": 3.7761068,
+  "dividend_yield": 4.73,
+  "52_week_high": 12.14,
+  "52_week_low": 7.03,
+  "avg_volume_10d": 465230,
+  "avg_volume_3m": 411784,
+  "fetched_at": "2026-03-02"
+}

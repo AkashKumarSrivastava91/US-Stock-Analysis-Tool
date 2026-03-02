@@ -1,0 +1,21 @@
+{
+  "symbol": "PDD",
+  "name": "PDD Holdings Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 147259932672,
+  "pe_ratio": 10.341974,
+  "forward_pe": 8.269085,
+  "pb_ratio": 2.5372937,
+  "dividend_yield": null,
+  "52_week_high": 139.41,
+  "52_week_low": 87.11,
+  "avg_volume_10d": 6670750,
+  "avg_volume_3m": 8277090,
+  "fetched_at": "2026-03-02"
+}

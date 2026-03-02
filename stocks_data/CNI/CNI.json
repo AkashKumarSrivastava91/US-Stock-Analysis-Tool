@@ -1,0 +1,21 @@
+{
+  "symbol": "CNI",
+  "name": "Canadian National Railway Company",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 68681048064,
+  "pe_ratio": 20.287521,
+  "forward_pe": 17.486624,
+  "pb_ratio": 4.3632727,
+  "dividend_yield": 2.41,
+  "52_week_high": 112.48,
+  "52_week_low": 90.74,
+  "avg_volume_10d": 1941920,
+  "avg_volume_3m": 1596706,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "PXJ",
+  "name": "Invesco Oil & Gas Services ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 106677976,
+  "pe_ratio": 20.398764,
+  "forward_pe": null,
+  "pb_ratio": 12.832668,
+  "dividend_yield": 2.41,
+  "52_week_high": 42.23,
+  "52_week_low": 19.38,
+  "avg_volume_10d": 26360,
+  "avg_volume_3m": 26023,
+  "fetched_at": "2026-03-02"
+}

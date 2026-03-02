@@ -1,0 +1,21 @@
+{
+  "symbol": "DOV",
+  "name": "Dover Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 30928050176,
+  "pe_ratio": 28.329145,
+  "forward_pe": 19.635725,
+  "pb_ratio": 4.1062713,
+  "dividend_yield": 0.92,
+  "52_week_high": 237.54,
+  "52_week_low": 143.04,
+  "avg_volume_10d": 1283910,
+  "avg_volume_3m": 1245705,
+  "fetched_at": "2026-03-02"
+}

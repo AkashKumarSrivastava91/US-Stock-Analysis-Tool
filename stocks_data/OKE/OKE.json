@@ -1,0 +1,21 @@
+{
+  "symbol": "OKE",
+  "name": "ONEOK, Inc.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 52124901376,
+  "pe_ratio": 15.215073,
+  "forward_pe": 13.60854,
+  "pb_ratio": 2.3180327,
+  "dividend_yield": 5.03,
+  "52_week_high": 103.64,
+  "52_week_low": 64.02,
+  "avg_volume_10d": 5693300,
+  "avg_volume_3m": 4472988,
+  "fetched_at": "2026-03-02"
+}

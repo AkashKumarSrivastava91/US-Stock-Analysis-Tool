@@ -1,0 +1,21 @@
+{
+  "symbol": "ULTA",
+  "name": "Ulta Beauty, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 30704863232,
+  "pe_ratio": 26.247221,
+  "forward_pe": 24.03595,
+  "pb_ratio": 11.574045,
+  "dividend_yield": null,
+  "52_week_high": 714.97,
+  "52_week_low": 309.01,
+  "avg_volume_10d": 477000,
+  "avg_volume_3m": 654580,
+  "fetched_at": "2026-03-02"
+}

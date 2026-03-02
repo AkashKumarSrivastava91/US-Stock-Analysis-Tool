@@ -1,0 +1,21 @@
+{
+  "symbol": "COIN",
+  "name": "Coinbase Global, Inc.",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 47419289600,
+  "pe_ratio": 39.516857,
+  "forward_pe": 29.465485,
+  "pb_ratio": 3.183843,
+  "dividend_yield": null,
+  "52_week_high": 444.65,
+  "52_week_low": 139.36,
+  "avg_volume_10d": 15574410,
+  "avg_volume_3m": 10701333,
+  "fetched_at": "2026-03-02"
+}

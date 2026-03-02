@@ -1,0 +1,21 @@
+{
+  "symbol": "AGG",
+  "name": "iShares Core U.S. Aggregate Bond ETF",
+  "sector": "Fixed Income",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 58061639680,
+  "pe_ratio": 129.33675,
+  "forward_pe": null,
+  "pb_ratio": 0.8787133,
+  "dividend_yield": 3.88,
+  "52_week_high": 101.46,
+  "52_week_low": 96.15,
+  "avg_volume_10d": 7575810,
+  "avg_volume_3m": 8994155,
+  "fetched_at": "2026-03-02"
+}

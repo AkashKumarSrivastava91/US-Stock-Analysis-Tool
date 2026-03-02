@@ -1,0 +1,21 @@
+{
+  "symbol": "BSBR",
+  "name": "Banco Santander (Brasil) S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 49541787648,
+  "pe_ratio": 22.448277,
+  "forward_pe": 6.8966985,
+  "pb_ratio": 1.3067268,
+  "dividend_yield": 5.07,
+  "52_week_high": 7.32,
+  "52_week_low": 4.26,
+  "avg_volume_10d": 792830,
+  "avg_volume_3m": 824008,
+  "fetched_at": "2026-03-02"
+}

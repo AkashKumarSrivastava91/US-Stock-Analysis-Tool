@@ -1,0 +1,21 @@
+{
+  "symbol": "CMCSA",
+  "name": "Comcast Corporation",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 112814972928,
+  "pe_ratio": 5.7439704,
+  "forward_pe": 7.7797155,
+  "pb_ratio": 1.1515286,
+  "dividend_yield": 4.26,
+  "52_week_high": 35.595127,
+  "52_week_low": 24.133083,
+  "avg_volume_10d": 26127220,
+  "avg_volume_3m": 36747976,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "KCDMF",
+  "name": "Kimberly-Clark de M\u00e9xico, S. A. B. de C. V.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "Mexico",
+  "region": "Mexico",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 8010075136,
+  "pe_ratio": 17.333332,
+  "forward_pe": 20.0,
+  "pb_ratio": 18.85892,
+  "dividend_yield": 4.29,
+  "52_week_high": 2.6,
+  "52_week_low": 1.47,
+  "avg_volume_10d": 790,
+  "avg_volume_3m": 3672,
+  "fetched_at": "2026-03-02"
+}

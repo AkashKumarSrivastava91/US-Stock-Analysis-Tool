@@ -1,0 +1,21 @@
+{
+  "symbol": "SAN",
+  "name": "Banco Santander, S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "Spain",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 182473654272,
+  "pe_ratio": 13.010526,
+  "forward_pe": 10.014989,
+  "pb_ratio": 1.489967,
+  "dividend_yield": 2.07,
+  "52_week_high": 13.24,
+  "52_week_low": 5.54,
+  "avg_volume_10d": 15690420,
+  "avg_volume_3m": 8768295,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "BKR",
+  "name": "Baker Hughes Company",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 64492314624,
+  "pe_ratio": 25.100002,
+  "forward_pe": 22.429895,
+  "pb_ratio": 3.4192603,
+  "dividend_yield": 1.41,
+  "52_week_high": 65.78,
+  "52_week_low": 33.6,
+  "avg_volume_10d": 7254850,
+  "avg_volume_3m": 8672845,
+  "fetched_at": "2026-03-02"
+}

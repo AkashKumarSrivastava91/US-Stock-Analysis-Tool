@@ -1,0 +1,21 @@
+{
+  "symbol": "MCD",
+  "name": "McDonald's Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 243381927936,
+  "pe_ratio": 28.56449,
+  "forward_pe": 23.823809,
+  "pb_ratio": -135.39499,
+  "dividend_yield": 2.18,
+  "52_week_high": 341.35,
+  "52_week_low": 283.47,
+  "avg_volume_10d": 3457960,
+  "avg_volume_3m": 3382638,
+  "fetched_at": "2026-03-02"
+}

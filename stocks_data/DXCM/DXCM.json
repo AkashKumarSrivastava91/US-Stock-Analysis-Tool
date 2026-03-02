@@ -1,0 +1,21 @@
+{
+  "symbol": "DXCM",
+  "name": "DexCom, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 28638894080,
+  "pe_ratio": 35.133972,
+  "forward_pe": 24.569212,
+  "pb_ratio": 10.290078,
+  "dividend_yield": null,
+  "52_week_high": 89.98,
+  "52_week_low": 54.11,
+  "avg_volume_10d": 4874800,
+  "avg_volume_3m": 5256606,
+  "fetched_at": "2026-03-02"
+}

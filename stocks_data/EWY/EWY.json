@@ -1,0 +1,21 @@
+{
+  "symbol": "EWY",
+  "name": "iShares MSCI South Korea ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 11443571712,
+  "pe_ratio": 22.548904,
+  "forward_pe": null,
+  "pb_ratio": 1.7161937,
+  "dividend_yield": 1.64,
+  "52_week_high": 154.22,
+  "52_week_low": 48.49,
+  "avg_volume_10d": 19025430,
+  "avg_volume_3m": 10401905,
+  "fetched_at": "2026-03-02"
+}

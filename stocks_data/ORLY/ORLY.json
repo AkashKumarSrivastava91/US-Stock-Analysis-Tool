@@ -1,0 +1,21 @@
+{
+  "symbol": "ORLY",
+  "name": "O'Reilly Automotive, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 79244484608,
+  "pe_ratio": 31.609426,
+  "forward_pe": 26.275574,
+  "pb_ratio": -103.50606,
+  "dividend_yield": null,
+  "52_week_high": 108.72,
+  "52_week_low": 85.552,
+  "avg_volume_10d": 6308210,
+  "avg_volume_3m": 6097418,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "NOK",
+  "name": "Nokia Oyj",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "Finland",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43097161728,
+  "pe_ratio": 59.384617,
+  "forward_pe": 17.654995,
+  "pb_ratio": 1.7415801,
+  "dividend_yield": 2.09,
+  "52_week_high": 8.19,
+  "52_week_low": 4.0,
+  "avg_volume_10d": 43800720,
+  "avg_volume_3m": 31117005,
+  "fetched_at": "2026-03-02"
+}

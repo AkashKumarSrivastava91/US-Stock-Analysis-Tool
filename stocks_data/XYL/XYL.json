@@ -1,0 +1,21 @@
+{
+  "symbol": "XYL",
+  "name": "Xylem Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 31560814592,
+  "pe_ratio": 32.96692,
+  "forward_pe": 21.282782,
+  "pb_ratio": 2.748992,
+  "dividend_yield": 1.33,
+  "52_week_high": 154.27,
+  "52_week_low": 100.47,
+  "avg_volume_10d": 2037760,
+  "avg_volume_3m": 1578108,
+  "fetched_at": "2026-03-02"
+}

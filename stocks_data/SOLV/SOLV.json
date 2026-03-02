@@ -1,0 +1,21 @@
+{
+  "symbol": "SOLV",
+  "name": "Solventum Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 12869808128,
+  "pe_ratio": 8.518944,
+  "forward_pe": 10.532277,
+  "pb_ratio": 2.5496528,
+  "dividend_yield": null,
+  "52_week_high": 88.2,
+  "52_week_low": 60.7,
+  "avg_volume_10d": 1339670,
+  "avg_volume_3m": 1074691,
+  "fetched_at": "2026-03-02"
+}

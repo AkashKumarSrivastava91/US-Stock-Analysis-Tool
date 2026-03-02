@@ -1,0 +1,21 @@
+{
+  "symbol": "URI",
+  "name": "United Rentals, Inc.",
+  "sector": "Industrials",
+  "industry": "Rental & Leasing Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 53449322496,
+  "pe_ratio": 21.73913,
+  "forward_pe": 15.848252,
+  "pb_ratio": 5.909958,
+  "dividend_yield": 0.94,
+  "52_week_high": 1021.47,
+  "52_week_low": 525.91,
+  "avg_volume_10d": 560400,
+  "avg_volume_3m": 693060,
+  "fetched_at": "2026-03-02"
+}

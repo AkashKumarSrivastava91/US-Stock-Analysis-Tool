@@ -1,0 +1,21 @@
+{
+  "symbol": "DPZ",
+  "name": "Domino's Pizza, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 13535967232,
+  "pe_ratio": 22.882889,
+  "forward_pe": 18.694069,
+  "pb_ratio": -3.5658224,
+  "dividend_yield": 1.98,
+  "52_week_high": 500.55,
+  "52_week_low": 370.7,
+  "avg_volume_10d": 1146840,
+  "avg_volume_3m": 763733,
+  "fetched_at": "2026-03-02"
+}

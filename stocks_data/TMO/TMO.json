@@ -1,0 +1,21 @@
+{
+  "symbol": "TMO",
+  "name": "Thermo Fisher Scientific Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 195785228288,
+  "pe_ratio": 29.408014,
+  "forward_pe": 19.358532,
+  "pb_ratio": 3.6682127,
+  "dividend_yield": 0.34,
+  "52_week_high": 643.99,
+  "52_week_low": 385.46,
+  "avg_volume_10d": 2076020,
+  "avg_volume_3m": 2186308,
+  "fetched_at": "2026-03-02"
+}

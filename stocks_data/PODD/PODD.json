@@ -1,0 +1,21 @@
+{
+  "symbol": "PODD",
+  "name": "Insulet Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 17360320512,
+  "pe_ratio": 70.864944,
+  "forward_pe": 30.495035,
+  "pb_ratio": 11.456379,
+  "dividend_yield": null,
+  "52_week_high": 354.88,
+  "52_week_low": 230.05,
+  "avg_volume_10d": 1270290,
+  "avg_volume_3m": 904923,
+  "fetched_at": "2026-03-02"
+}

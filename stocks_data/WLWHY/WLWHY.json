@@ -1,0 +1,21 @@
+{
+  "symbol": "WLWHY",
+  "name": "Woolworths Holdings Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 3245094656,
+  "pe_ratio": 21.411764,
+  "forward_pe": null,
+  "pb_ratio": 4.9259496,
+  "dividend_yield": 2.88,
+  "52_week_high": 4.06,
+  "52_week_low": 2.41,
+  "avg_volume_10d": 1590,
+  "avg_volume_3m": 2579,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "NISTF",
+  "name": "Nippon Steel Corporation",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23470653440,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.6731782,
+  "dividend_yield": 3.61,
+  "52_week_high": 26.21,
+  "52_week_low": 3.64,
+  "avg_volume_10d": 5510,
+  "avg_volume_3m": 120649,
+  "fetched_at": "2026-03-02"
+}

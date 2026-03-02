@@ -1,0 +1,21 @@
+{
+  "symbol": "HCA",
+  "name": "HCA Healthcare, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 118452682752,
+  "pe_ratio": 18.690897,
+  "forward_pe": 15.923969,
+  "pb_ratio": -19.739883,
+  "dividend_yield": 0.59,
+  "52_week_high": 552.9,
+  "52_week_low": 307.4,
+  "avg_volume_10d": 1158980,
+  "avg_volume_3m": 1192140,
+  "fetched_at": "2026-03-02"
+}

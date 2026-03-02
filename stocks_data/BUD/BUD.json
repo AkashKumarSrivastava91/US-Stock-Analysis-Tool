@@ -1,0 +1,21 @@
+{
+  "symbol": "BUD",
+  "name": "Anheuser-Busch InBev SA/NV",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "Belgium",
+  "region": "Belgium",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 157272408064,
+  "pe_ratio": 23.879055,
+  "forward_pe": 16.42954,
+  "pb_ratio": 1.8091407,
+  "dividend_yield": 1.61,
+  "52_week_high": 81.56,
+  "52_week_low": 56.97,
+  "avg_volume_10d": 2364310,
+  "avg_volume_3m": 2206848,
+  "fetched_at": "2026-03-02"
+}

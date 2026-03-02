@@ -1,0 +1,21 @@
+{
+  "symbol": "MFG",
+  "name": "Mizuho Financial Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 109145726976,
+  "pe_ratio": 16.425924,
+  "forward_pe": 6.3812947,
+  "pb_ratio": 0.30557927,
+  "dividend_yield": 2.22,
+  "52_week_high": 10.28,
+  "52_week_low": 4.04,
+  "avg_volume_10d": 5642800,
+  "avg_volume_3m": 4149813,
+  "fetched_at": "2026-03-02"
+}

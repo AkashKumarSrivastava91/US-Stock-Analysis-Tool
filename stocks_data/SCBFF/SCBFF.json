@@ -1,0 +1,21 @@
+{
+  "symbol": "SCBFF",
+  "name": "Standard Chartered PLC",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 56053362688,
+  "pe_ratio": 13.099999,
+  "forward_pe": 14.47093,
+  "pb_ratio": 1.2405921,
+  "dividend_yield": 2.46,
+  "52_week_high": 26.45,
+  "52_week_low": 10.65,
+  "avg_volume_10d": 5140,
+  "avg_volume_3m": 5365,
+  "fetched_at": "2026-03-02"
+}

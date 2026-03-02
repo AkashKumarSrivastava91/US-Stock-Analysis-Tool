@@ -1,0 +1,21 @@
+{
+  "symbol": "MDLZ",
+  "name": "Mondelez International, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 79460278272,
+  "pe_ratio": 32.582012,
+  "forward_pe": 18.154856,
+  "pb_ratio": 3.0544121,
+  "dividend_yield": 3.25,
+  "52_week_high": 71.15,
+  "52_week_low": 51.2,
+  "avg_volume_10d": 9597350,
+  "avg_volume_3m": 11551716,
+  "fetched_at": "2026-03-02"
+}

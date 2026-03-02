@@ -1,0 +1,21 @@
+{
+  "symbol": "MURGY",
+  "name": "M\u00fcnchener R\u00fcckversicherungs-Gesellschaft Aktiengesellschaft in M\u00fcnchen",
+  "sector": "Financial Services",
+  "industry": "Insurance - Reinsurance",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 85559746560,
+  "pe_ratio": 11.61947,
+  "forward_pe": 11.11732,
+  "pb_ratio": 0.042915452,
+  "dividend_yield": 3.45,
+  "52_week_high": 14.41,
+  "52_week_low": 11.31,
+  "avg_volume_10d": 553130,
+  "avg_volume_3m": 471157,
+  "fetched_at": "2026-03-02"
+}

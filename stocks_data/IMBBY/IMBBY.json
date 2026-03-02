@@ -1,0 +1,21 @@
+{
+  "symbol": "IMBBY",
+  "name": "Imperial Brands PLC",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 35493408768,
+  "pe_ratio": 13.263313,
+  "forward_pe": 8.922992,
+  "pb_ratio": 5.5401073,
+  "dividend_yield": 4.83,
+  "52_week_high": 45.6,
+  "52_week_low": 34.62,
+  "avg_volume_10d": 86300,
+  "avg_volume_3m": 102368,
+  "fetched_at": "2026-03-02"
+}

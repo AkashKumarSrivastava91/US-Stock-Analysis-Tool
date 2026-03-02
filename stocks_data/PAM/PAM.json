@@ -1,0 +1,21 @@
+{
+  "symbol": "PAM",
+  "name": "Pampa Energ\u00eda S.A.",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 4460681728,
+  "pe_ratio": 13.050335,
+  "forward_pe": 8.170039,
+  "pb_ratio": 30.816166,
+  "dividend_yield": null,
+  "52_week_high": 94.5,
+  "52_week_low": 54.95,
+  "avg_volume_10d": 234790,
+  "avg_volume_3m": 175467,
+  "fetched_at": "2026-03-02"
+}

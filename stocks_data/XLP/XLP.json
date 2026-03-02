@@ -1,0 +1,21 @@
+{
+  "symbol": "XLP",
+  "name": "State Street Consumer Staples Select Sector SPDR ETF",
+  "sector": "Consumer Staples",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 18917582848,
+  "pe_ratio": 27.643883,
+  "forward_pe": null,
+  "pb_ratio": 1.3202399,
+  "dividend_yield": 2.56,
+  "52_week_high": 90.14,
+  "52_week_low": 75.16,
+  "avg_volume_10d": 20313740,
+  "avg_volume_3m": 19010173,
+  "fetched_at": "2026-03-02"
+}

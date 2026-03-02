@@ -1,0 +1,21 @@
+{
+  "symbol": "OTIS",
+  "name": "Otis Worldwide Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 36072095744,
+  "pe_ratio": 26.445713,
+  "forward_pe": 19.145922,
+  "pb_ratio": -6.691245,
+  "dividend_yield": 1.82,
+  "52_week_high": 106.828,
+  "52_week_low": 84.003,
+  "avg_volume_10d": 4202510,
+  "avg_volume_3m": 3402721,
+  "fetched_at": "2026-03-02"
+}

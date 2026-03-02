@@ -1,0 +1,21 @@
+{
+  "symbol": "NVS",
+  "name": "Novartis AG",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Switzerland",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 325954306048,
+  "pe_ratio": 23.583216,
+  "forward_pe": 16.791542,
+  "pb_ratio": 6.974974,
+  "dividend_yield": 2.83,
+  "52_week_high": 170.46,
+  "52_week_low": 97.72,
+  "avg_volume_10d": 2710030,
+  "avg_volume_3m": 2038975,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ARM",
+  "name": "Arm Holdings plc",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United Kingdom",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 135351713792,
+  "pe_ratio": 169.93333,
+  "forward_pe": 59.056847,
+  "pb_ratio": 17.356667,
+  "dividend_yield": null,
+  "52_week_high": 183.16,
+  "52_week_low": 80.0,
+  "avg_volume_10d": 3936200,
+  "avg_volume_3m": 5847288,
+  "fetched_at": "2026-03-02"
+}

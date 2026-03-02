@@ -1,0 +1,21 @@
+{
+  "symbol": "TEL",
+  "name": "TE Connectivity plc",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 67557191680,
+  "pe_ratio": 33.11511,
+  "forward_pe": 18.601406,
+  "pb_ratio": 5.205012,
+  "dividend_yield": 1.23,
+  "52_week_high": 250.67,
+  "52_week_low": 116.3,
+  "avg_volume_10d": 2091260,
+  "avg_volume_3m": 2113266,
+  "fetched_at": "2026-03-02"
+}

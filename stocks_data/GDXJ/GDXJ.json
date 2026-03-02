@@ -1,0 +1,21 @@
+{
+  "symbol": "GDXJ",
+  "name": "VanEck Junior Gold Miners ETF",
+  "sector": "Materials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 35.080357,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.11,
+  "52_week_high": 156.32,
+  "52_week_low": 48.11,
+  "avg_volume_10d": 4836360,
+  "avg_volume_3m": 5926742,
+  "fetched_at": "2026-03-02"
+}

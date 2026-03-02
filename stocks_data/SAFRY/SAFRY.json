@@ -1,0 +1,21 @@
+{
+  "symbol": "SAFRY",
+  "name": "Safran SA",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 169710026752,
+  "pe_ratio": 32.875816,
+  "forward_pe": 27.65286,
+  "pb_ratio": 2.3918743,
+  "dividend_yield": 0.82,
+  "52_week_high": 106.71,
+  "52_week_low": 54.57,
+  "avg_volume_10d": 277900,
+  "avg_volume_3m": 194052,
+  "fetched_at": "2026-03-02"
+}

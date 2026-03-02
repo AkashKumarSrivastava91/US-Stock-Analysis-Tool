@@ -1,0 +1,21 @@
+{
+  "symbol": "FANUY",
+  "name": "Fanuc Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 42272116736,
+  "pe_ratio": 41.944443,
+  "forward_pe": 33.80597,
+  "pb_ratio": 1.8349702,
+  "dividend_yield": 1.49,
+  "52_week_high": 23.0,
+  "52_week_low": 10.54,
+  "avg_volume_10d": 469270,
+  "avg_volume_3m": 442501,
+  "fetched_at": "2026-03-02"
+}

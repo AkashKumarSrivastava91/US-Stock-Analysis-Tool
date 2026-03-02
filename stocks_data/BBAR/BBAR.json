@@ -1,0 +1,21 @@
+{
+  "symbol": "BBAR",
+  "name": "Banco BBVA Argentina S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 3452712704,
+  "pe_ratio": 23.061539,
+  "forward_pe": 21.883211,
+  "pb_ratio": 4.35002,
+  "dividend_yield": 1.49,
+  "52_week_high": 23.1,
+  "52_week_low": 7.76,
+  "avg_volume_10d": 542940,
+  "avg_volume_3m": 660093,
+  "fetched_at": "2026-03-02"
+}

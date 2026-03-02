@@ -1,0 +1,21 @@
+{
+  "symbol": "BTI",
+  "name": "British American Tobacco p.l.c.",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 135880531968,
+  "pe_ratio": 13.245243,
+  "forward_pe": 11.745451,
+  "pb_ratio": 2.192454,
+  "dividend_yield": 5.33,
+  "52_week_high": 63.22,
+  "52_week_low": 37.96,
+  "avg_volume_10d": 5565210,
+  "avg_volume_3m": 4263483,
+  "fetched_at": "2026-03-02"
+}

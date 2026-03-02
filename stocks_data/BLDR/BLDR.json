@@ -1,0 +1,21 @@
+{
+  "symbol": "BLDR",
+  "name": "Builders FirstSource, Inc.",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11535002624,
+  "pe_ratio": 26.809769,
+  "forward_pe": 13.580683,
+  "pb_ratio": 2.6498463,
+  "dividend_yield": null,
+  "52_week_high": 151.03,
+  "52_week_low": 94.35,
+  "avg_volume_10d": 2419570,
+  "avg_volume_3m": 2025120,
+  "fetched_at": "2026-03-02"
+}

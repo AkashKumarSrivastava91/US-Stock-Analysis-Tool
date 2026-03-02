@@ -1,0 +1,21 @@
+{
+  "symbol": "CABGY",
+  "name": "Carlsberg A/S",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "Denmark",
+  "region": "Denmark",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 21365946368,
+  "pe_ratio": 21.90141,
+  "forward_pe": 13.742295,
+  "pb_ratio": 0.9360364,
+  "dividend_yield": 2.99,
+  "52_week_high": 32.16,
+  "52_week_low": 23.1,
+  "avg_volume_10d": 94060,
+  "avg_volume_3m": 61183,
+  "fetched_at": "2026-03-02"
+}

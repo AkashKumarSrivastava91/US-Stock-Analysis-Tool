@@ -1,0 +1,21 @@
+{
+  "symbol": "PPG",
+  "name": "PPG Industries, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27550193664,
+  "pe_ratio": 17.813583,
+  "forward_pe": 14.146152,
+  "pb_ratio": 3.468291,
+  "dividend_yield": 2.3,
+  "52_week_high": 133.43,
+  "52_week_low": 90.24,
+  "avg_volume_10d": 1916970,
+  "avg_volume_3m": 2073146,
+  "fetched_at": "2026-03-02"
+}

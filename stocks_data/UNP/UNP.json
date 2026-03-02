@@ -1,0 +1,21 @@
+{
+  "symbol": "UNP",
+  "name": "Union Pacific Corporation",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 157236887552,
+  "pe_ratio": 22.118532,
+  "forward_pe": 19.622145,
+  "pb_ratio": 8.5123205,
+  "dividend_yield": 2.08,
+  "52_week_high": 267.88,
+  "52_week_low": 204.66,
+  "avg_volume_10d": 3344480,
+  "avg_volume_3m": 3407846,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "KBE",
+  "name": "State Street SPDR S&P Bank ETF",
+  "sector": "Financials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 13.082123,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.4,
+  "52_week_high": 67.75,
+  "52_week_low": 44.34,
+  "avg_volume_10d": 2235190,
+  "avg_volume_3m": 1849918,
+  "fetched_at": "2026-03-02"
+}

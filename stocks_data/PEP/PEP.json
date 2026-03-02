@@ -1,0 +1,21 @@
+{
+  "symbol": "PEP",
+  "name": "PepsiCo, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 232092319744,
+  "pe_ratio": 28.33723,
+  "forward_pe": 18.58763,
+  "pb_ratio": 11.370579,
+  "dividend_yield": 3.35,
+  "52_week_high": 171.48,
+  "52_week_low": 127.6,
+  "avg_volume_10d": 7399470,
+  "avg_volume_3m": 8539268,
+  "fetched_at": "2026-03-02"
+}

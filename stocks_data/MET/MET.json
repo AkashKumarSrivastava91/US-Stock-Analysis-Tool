@@ -1,0 +1,21 @@
+{
+  "symbol": "MET",
+  "name": "MetLife, Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 47486320640,
+  "pe_ratio": 14.890495,
+  "forward_pe": 6.559367,
+  "pb_ratio": 1.6631283,
+  "dividend_yield": 3.15,
+  "52_week_high": 87.39,
+  "52_week_low": 65.21,
+  "avg_volume_10d": 4143280,
+  "avg_volume_3m": 3782263,
+  "fetched_at": "2026-03-02"
+}

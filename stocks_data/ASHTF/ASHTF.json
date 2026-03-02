@@ -1,0 +1,21 @@
+{
+  "symbol": "ASHTF",
+  "name": "Ashtead Group plc",
+  "sector": "Industrials",
+  "industry": "Rental & Leasing Services",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 30246684672,
+  "pe_ratio": 22.148483,
+  "forward_pe": 16.242222,
+  "pb_ratio": 4.1389656,
+  "dividend_yield": 1.5,
+  "52_week_high": 77.0,
+  "52_week_low": 45.51,
+  "avg_volume_10d": 3890,
+  "avg_volume_3m": 4040,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "EWN",
+  "name": "iShares MSCI Netherlands ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 348540000,
+  "pe_ratio": 19.20608,
+  "forward_pe": null,
+  "pb_ratio": 1.1878192,
+  "dividend_yield": 4.6,
+  "52_week_high": 64.01,
+  "52_week_low": 41.4,
+  "avg_volume_10d": 80990,
+  "avg_volume_3m": 108518,
+  "fetched_at": "2026-03-02"
+}

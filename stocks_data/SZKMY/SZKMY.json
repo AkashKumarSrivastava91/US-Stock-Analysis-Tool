@@ -1,0 +1,21 @@
+{
+  "symbol": "SZKMY",
+  "name": "Suzuki Motor Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 29619693568,
+  "pe_ratio": 11.606936,
+  "forward_pe": null,
+  "pb_ratio": 5.456416,
+  "dividend_yield": 1.9,
+  "52_week_high": 64.94,
+  "52_week_low": 39.54,
+  "avg_volume_10d": 45490,
+  "avg_volume_3m": 36745,
+  "fetched_at": "2026-03-02"
+}

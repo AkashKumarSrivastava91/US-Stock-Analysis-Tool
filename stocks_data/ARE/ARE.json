@@ -1,0 +1,21 @@
+{
+  "symbol": "ARE",
+  "name": "Alexandria Real Estate Equities, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Office",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 9365151744,
+  "pe_ratio": null,
+  "forward_pe": -675.5,
+  "pb_ratio": 0.595725,
+  "dividend_yield": 8.66,
+  "52_week_high": 105.14,
+  "52_week_low": 44.1,
+  "avg_volume_10d": 2804560,
+  "avg_volume_3m": 2902803,
+  "fetched_at": "2026-03-02"
+}

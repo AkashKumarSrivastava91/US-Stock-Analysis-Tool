@@ -1,0 +1,21 @@
+{
+  "symbol": "TKO",
+  "name": "TKO Group Holdings, Inc.",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18387984384,
+  "pe_ratio": 85.44656,
+  "forward_pe": 44.76343,
+  "pb_ratio": 4.6582327,
+  "dividend_yield": 1.39,
+  "52_week_high": 226.94,
+  "52_week_low": 133.07,
+  "avg_volume_10d": 907420,
+  "avg_volume_3m": 991630,
+  "fetched_at": "2026-03-02"
+}

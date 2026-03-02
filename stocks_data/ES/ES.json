@@ -1,0 +1,21 @@
+{
+  "symbol": "ES",
+  "name": "Eversource Energy",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 28616595456,
+  "pe_ratio": 16.712719,
+  "forward_pe": 14.704548,
+  "pb_ratio": 1.7663692,
+  "dividend_yield": 4.13,
+  "52_week_high": 76.41,
+  "52_week_low": 52.28,
+  "avg_volume_10d": 3098200,
+  "avg_volume_3m": 2578673,
+  "fetched_at": "2026-03-02"
+}

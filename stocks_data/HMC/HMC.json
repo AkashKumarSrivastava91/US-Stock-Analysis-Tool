@@ -1,0 +1,21 @@
+{
+  "symbol": "HMC",
+  "name": "Honda Motor Co., Ltd.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 39200149504,
+  "pe_ratio": 12.6192465,
+  "forward_pe": 6.080645,
+  "pb_ratio": 1.4678645,
+  "dividend_yield": 4.61,
+  "52_week_high": 34.89,
+  "52_week_low": 24.56,
+  "avg_volume_10d": 779720,
+  "avg_volume_3m": 1079355,
+  "fetched_at": "2026-03-02"
+}

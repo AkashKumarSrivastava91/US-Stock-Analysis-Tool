@@ -1,0 +1,21 @@
+{
+  "symbol": "HVRRY",
+  "name": "Hannover R\u00fcck SE",
+  "sector": "Financial Services",
+  "industry": "Insurance - Reinsurance",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 36525727744,
+  "pe_ratio": 12.526053,
+  "forward_pe": 7.5119047,
+  "pb_ratio": 0.4290217,
+  "dividend_yield": 2.56,
+  "52_week_high": 55.4,
+  "52_week_low": 44.67,
+  "avg_volume_10d": 13470,
+  "avg_volume_3m": 13952,
+  "fetched_at": "2026-03-02"
+}

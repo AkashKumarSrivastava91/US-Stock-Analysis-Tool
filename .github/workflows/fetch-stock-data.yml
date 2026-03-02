@@ -1,0 +1,60 @@
+name: Fetch US Stock Data Daily
+
+on:
+  schedule:
+    # 9:30 PM UTC = 5:30 PM ET — 90 min after NYSE close, ensures data is final
+    - cron: '30 21 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-stock-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-yfinance
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install --upgrade yfinance pandas requests lxml html5lib beautifulsoup4
+
+      - name: Fetch stock OHLCV + fundamentals
+        run: python3 fetch_stock_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add universe/ stocks_data/ || true
+
+          TIMESTAMP=$(TZ="America/New_York" date +"ET %Y-%m-%d %H:%M")
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          for attempt in 1 2 3; do
+            git commit -m "Fetch US stock data — ${TIMESTAMP}" && break
+            echo "Commit attempt $attempt failed, retrying…"
+            sleep 5
+          done
+
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Push attempt $attempt failed, retrying…"
+            sleep 10
+          done

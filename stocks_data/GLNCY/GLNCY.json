@@ -1,0 +1,21 @@
+{
+  "symbol": "GLNCY",
+  "name": "Glencore plc",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "country": "Switzerland",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 85124857856,
+  "pe_ratio": null,
+  "forward_pe": 14.961813,
+  "pb_ratio": 4.3192773,
+  "dividend_yield": 1.39,
+  "52_week_high": 14.67,
+  "52_week_low": 5.74,
+  "avg_volume_10d": 495340,
+  "avg_volume_3m": 654061,
+  "fetched_at": "2026-03-02"
+}

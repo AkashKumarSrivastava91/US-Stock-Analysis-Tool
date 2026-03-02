@@ -1,0 +1,21 @@
+{
+  "symbol": "AOS",
+  "name": "A. O. Smith Corporation",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 10786613248,
+  "pe_ratio": 20.25974,
+  "forward_pe": 17.915384,
+  "pb_ratio": 5.816121,
+  "dividend_yield": 1.79,
+  "52_week_high": 81.87,
+  "52_week_low": 58.83,
+  "avg_volume_10d": 1075110,
+  "avg_volume_3m": 1308906,
+  "fetched_at": "2026-03-02"
+}

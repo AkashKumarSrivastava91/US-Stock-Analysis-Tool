@@ -1,0 +1,21 @@
+{
+  "symbol": "AEP",
+  "name": "American Electric Power Company, Inc.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 72378089472,
+  "pe_ratio": 20.093094,
+  "forward_pe": 19.500097,
+  "pb_ratio": 2.3244343,
+  "dividend_yield": 2.84,
+  "52_week_high": 134.6,
+  "52_week_low": 97.46,
+  "avg_volume_10d": 3531520,
+  "avg_volume_3m": 3390130,
+  "fetched_at": "2026-03-02"
+}

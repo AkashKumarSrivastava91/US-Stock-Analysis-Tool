@@ -1,0 +1,21 @@
+{
+  "symbol": "RDY",
+  "name": "Dr. Reddy's Laboratories Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "country": "India",
+  "region": "India",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 11972512768,
+  "pe_ratio": 19.173334,
+  "forward_pe": 25.254736,
+  "pb_ratio": 2.926105,
+  "dividend_yield": 0.64,
+  "52_week_high": 16.17,
+  "52_week_low": 12.26,
+  "avg_volume_10d": 1815870,
+  "avg_volume_3m": 1590518,
+  "fetched_at": "2026-03-02"
+}

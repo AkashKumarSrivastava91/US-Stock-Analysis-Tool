@@ -1,0 +1,21 @@
+{
+  "symbol": "BR",
+  "name": "Broadridge Financial Solutions, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 21700081664,
+  "pe_ratio": 20.58361,
+  "forward_pe": 17.95809,
+  "pb_ratio": 7.533641,
+  "dividend_yield": 2.1,
+  "52_week_high": 271.91,
+  "52_week_low": 163.71,
+  "avg_volume_10d": 1372690,
+  "avg_volume_3m": 1059233,
+  "fetched_at": "2026-03-02"
+}

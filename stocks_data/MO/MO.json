@@ -1,0 +1,21 @@
+{
+  "symbol": "MO",
+  "name": "Altria Group, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Tobacco",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 115895492608,
+  "pe_ratio": 16.757282,
+  "forward_pe": 11.896208,
+  "pb_ratio": -33.00191,
+  "dividend_yield": 6.14,
+  "52_week_high": 70.51,
+  "52_week_low": 52.82,
+  "avg_volume_10d": 7787210,
+  "avg_volume_3m": 9928500,
+  "fetched_at": "2026-03-02"
+}

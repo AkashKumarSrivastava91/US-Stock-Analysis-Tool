@@ -1,0 +1,21 @@
+{
+  "symbol": "MRNA",
+  "name": "Moderna, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 20931600384,
+  "pe_ratio": null,
+  "forward_pe": -11.654444,
+  "pb_ratio": 2.4401019,
+  "dividend_yield": null,
+  "52_week_high": 55.2,
+  "52_week_low": 22.28,
+  "avg_volume_10d": 10234380,
+  "avg_volume_3m": 11762916,
+  "fetched_at": "2026-03-02"
+}

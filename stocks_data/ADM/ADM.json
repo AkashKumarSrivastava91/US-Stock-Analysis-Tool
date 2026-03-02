@@ -1,0 +1,21 @@
+{
+  "symbol": "ADM",
+  "name": "Archer-Daniels-Midland Company",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 33222176768,
+  "pe_ratio": 30.95964,
+  "forward_pe": 14.812621,
+  "pb_ratio": 1.4577702,
+  "dividend_yield": 3.01,
+  "52_week_high": 70.09,
+  "52_week_low": 40.98,
+  "avg_volume_10d": 3103880,
+  "avg_volume_3m": 3378900,
+  "fetched_at": "2026-03-02"
+}

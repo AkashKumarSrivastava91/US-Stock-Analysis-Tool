@@ -1,0 +1,21 @@
+{
+  "symbol": "BBD",
+  "name": "Banco Bradesco S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43259977728,
+  "pe_ratio": 9.738096,
+  "forward_pe": 7.5603538,
+  "pb_ratio": 1.2462016,
+  "dividend_yield": 5.24,
+  "52_week_high": 4.29,
+  "52_week_low": 1.93,
+  "avg_volume_10d": 37587590,
+  "avg_volume_3m": 37617237,
+  "fetched_at": "2026-03-02"
+}

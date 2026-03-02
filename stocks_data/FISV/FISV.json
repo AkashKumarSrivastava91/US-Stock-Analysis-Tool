@@ -1,0 +1,21 @@
+{
+  "symbol": "FISV",
+  "name": "Fiserv, Inc.",
+  "sector": "Financials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 33860417536,
+  "pe_ratio": 9.824921,
+  "forward_pe": 6.8843637,
+  "pb_ratio": 1.289648,
+  "dividend_yield": null,
+  "52_week_high": 238.59,
+  "52_week_low": 57.79,
+  "avg_volume_10d": 9016830,
+  "avg_volume_3m": 10149348,
+  "fetched_at": "2026-03-02"
+}

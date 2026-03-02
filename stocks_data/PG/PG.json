@@ -1,0 +1,21 @@
+{
+  "symbol": "PG",
+  "name": "The Procter & Gamble Company",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 390701809664,
+  "pe_ratio": 24.77037,
+  "forward_pe": 22.808252,
+  "pb_ratio": 7.4334235,
+  "dividend_yield": 2.53,
+  "52_week_high": 179.99,
+  "52_week_low": 137.62,
+  "avg_volume_10d": 11823140,
+  "avg_volume_3m": 11501526,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "GPC",
+  "name": "Genuine Parts Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16590317568,
+  "pe_ratio": 253.74469,
+  "forward_pe": 13.852237,
+  "pb_ratio": 3.7106411,
+  "dividend_yield": 3.56,
+  "52_week_high": 151.57,
+  "52_week_low": 104.01,
+  "avg_volume_10d": 2096090,
+  "avg_volume_3m": 1281515,
+  "fetched_at": "2026-03-02"
+}

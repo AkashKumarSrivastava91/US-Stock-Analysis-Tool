@@ -1,0 +1,21 @@
+{
+  "symbol": "JPM",
+  "name": "JPMorgan Chase & Co.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 809918791680,
+  "pe_ratio": 14.99251,
+  "forward_pe": 12.782901,
+  "pb_ratio": 2.3647902,
+  "dividend_yield": 2.0,
+  "52_week_high": 337.25,
+  "52_week_low": 202.16,
+  "avg_volume_10d": 9996550,
+  "avg_volume_3m": 10840265,
+  "fetched_at": "2026-03-02"
+}

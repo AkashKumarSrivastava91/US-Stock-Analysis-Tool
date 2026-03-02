@@ -1,0 +1,21 @@
+{
+  "symbol": "CPAC",
+  "name": "Cementos Pacasmayo S.A.A.",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "Peru",
+  "region": "Peru",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 908442688,
+  "pe_ratio": 20.018867,
+  "forward_pe": 68.8961,
+  "pb_ratio": 13.044795,
+  "dividend_yield": 5.73,
+  "52_week_high": 11.5,
+  "52_week_low": 5.1,
+  "avg_volume_10d": 20870,
+  "avg_volume_3m": 83503,
+  "fetched_at": "2026-03-02"
+}

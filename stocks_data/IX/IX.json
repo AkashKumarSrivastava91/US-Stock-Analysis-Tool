@@ -1,0 +1,21 @@
+{
+  "symbol": "IX",
+  "name": "ORIX Corporation",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 39311413248,
+  "pe_ratio": 13.314606,
+  "forward_pe": 3.028109,
+  "pb_ratio": 1.3375721,
+  "dividend_yield": 2.82,
+  "52_week_high": 37.04,
+  "52_week_low": 17.75,
+  "avg_volume_10d": 538760,
+  "avg_volume_3m": 249776,
+  "fetched_at": "2026-03-02"
+}

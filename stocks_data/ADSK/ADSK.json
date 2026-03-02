@@ -1,0 +1,21 @@
+{
+  "symbol": "ADSK",
+  "name": "Autodesk, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 52370309120,
+  "pe_ratio": 47.83463,
+  "forward_pe": 17.560776,
+  "pb_ratio": 17.11829,
+  "dividend_yield": null,
+  "52_week_high": 329.09,
+  "52_week_low": 215.01,
+  "avg_volume_10d": 2625380,
+  "avg_volume_3m": 2026070,
+  "fetched_at": "2026-03-02"
+}

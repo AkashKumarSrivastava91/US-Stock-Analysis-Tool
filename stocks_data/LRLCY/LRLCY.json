@@ -1,0 +1,21 @@
+{
+  "symbol": "LRLCY",
+  "name": "L'Or\u00e9al S.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 249463504896,
+  "pe_ratio": 34.61852,
+  "forward_pe": 26.463387,
+  "pb_ratio": 1.2094893,
+  "dividend_yield": 1.7,
+  "52_week_high": 95.48,
+  "52_week_low": 71.97,
+  "avg_volume_10d": 173030,
+  "avg_volume_3m": 191543,
+  "fetched_at": "2026-03-02"
+}

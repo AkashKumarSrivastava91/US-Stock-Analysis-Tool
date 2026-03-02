@@ -1,0 +1,21 @@
+{
+  "symbol": "TSN",
+  "name": "Tyson Foods, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22881611776,
+  "pe_ratio": 116.053566,
+  "forward_pe": 14.70505,
+  "pb_ratio": 1.269584,
+  "dividend_yield": 3.14,
+  "52_week_high": 66.41,
+  "52_week_low": 50.56,
+  "avg_volume_10d": 3197590,
+  "avg_volume_3m": 2978560,
+  "fetched_at": "2026-03-02"
+}

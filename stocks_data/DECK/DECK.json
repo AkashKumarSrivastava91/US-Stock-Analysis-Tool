@@ -1,0 +1,21 @@
+{
+  "symbol": "DECK",
+  "name": "Deckers Outdoor Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17091495936,
+  "pe_ratio": 16.657671,
+  "forward_pe": 16.01502,
+  "pb_ratio": 6.3963127,
+  "dividend_yield": null,
+  "52_week_high": 141.9,
+  "52_week_low": 78.91,
+  "avg_volume_10d": 2158340,
+  "avg_volume_3m": 2927615,
+  "fetched_at": "2026-03-02"
+}

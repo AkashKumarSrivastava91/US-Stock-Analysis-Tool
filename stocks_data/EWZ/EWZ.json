@@ -1,0 +1,21 @@
+{
+  "symbol": "EWZ",
+  "name": "iShares MSCI Brazil ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 7767301632,
+  "pe_ratio": 13.164124,
+  "forward_pe": null,
+  "pb_ratio": 1.0587174,
+  "dividend_yield": 4.45,
+  "52_week_high": 39.69,
+  "52_week_low": 23.05,
+  "avg_volume_10d": 37829850,
+  "avg_volume_3m": 37889956,
+  "fetched_at": "2026-03-02"
+}

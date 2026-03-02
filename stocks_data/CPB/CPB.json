@@ -1,0 +1,21 @@
+{
+  "symbol": "CPB",
+  "name": "The Campbell's Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 8034718208,
+  "pe_ratio": 13.891752,
+  "forward_pe": 10.427025,
+  "pb_ratio": 2.0295203,
+  "dividend_yield": 5.79,
+  "52_week_high": 43.85,
+  "52_week_low": 25.62,
+  "avg_volume_10d": 6606310,
+  "avg_volume_3m": 7071198,
+  "fetched_at": "2026-03-02"
+}

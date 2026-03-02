@@ -1,0 +1,21 @@
+{
+  "symbol": "PPL",
+  "name": "PPL Corporation",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 29285939200,
+  "pe_ratio": 24.515722,
+  "forward_pe": 18.458187,
+  "pb_ratio": 1.9672959,
+  "dividend_yield": 2.92,
+  "52_week_high": 39.04,
+  "52_week_low": 32.5,
+  "avg_volume_10d": 14389560,
+  "avg_volume_3m": 8623110,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "SWGAY",
+  "name": "The Swatch Group AG",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "country": "Switzerland",
+  "region": "Switzerland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 13117756416,
+  "pe_ratio": 158.375,
+  "forward_pe": 1.7750975,
+  "pb_ratio": 0.043991517,
+  "dividend_yield": 2.15,
+  "52_week_high": 13.1,
+  "52_week_low": 7.26,
+  "avg_volume_10d": 94820,
+  "avg_volume_3m": 83371,
+  "fetched_at": "2026-03-02"
+}

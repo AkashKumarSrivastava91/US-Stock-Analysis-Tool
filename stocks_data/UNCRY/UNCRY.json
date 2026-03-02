@@ -1,0 +1,21 @@
+{
+  "symbol": "UNCRY",
+  "name": "UniCredit S.p.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Italy",
+  "region": "Italy",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 127042453504,
+  "pe_ratio": 10.444716,
+  "forward_pe": 8.616373,
+  "pb_ratio": 0.7997142,
+  "dividend_yield": 3.91,
+  "52_week_high": 47.138,
+  "52_week_low": 22.61,
+  "avg_volume_10d": 272650,
+  "avg_volume_3m": 294573,
+  "fetched_at": "2026-03-02"
+}

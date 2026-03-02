@@ -1,0 +1,21 @@
+{
+  "symbol": "FCX",
+  "name": "Freeport-McMoRan Inc.",
+  "sector": "Basic Materials",
+  "industry": "Copper",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 97844690944,
+  "pe_ratio": 44.789474,
+  "forward_pe": 19.028454,
+  "pb_ratio": 5.172859,
+  "dividend_yield": 0.88,
+  "52_week_high": 69.75,
+  "52_week_low": 27.66,
+  "avg_volume_10d": 16114560,
+  "avg_volume_3m": 19410913,
+  "fetched_at": "2026-03-02"
+}

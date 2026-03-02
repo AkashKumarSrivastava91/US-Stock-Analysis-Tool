@@ -1,0 +1,21 @@
+{
+  "symbol": "CSCO",
+  "name": "Cisco Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 313953976320,
+  "pe_ratio": 28.582733,
+  "forward_pe": 17.595919,
+  "pb_ratio": 6.575093,
+  "dividend_yield": 2.11,
+  "52_week_high": 88.19,
+  "52_week_low": 52.11,
+  "avg_volume_10d": 24999780,
+  "avg_volume_3m": 22492673,
+  "fetched_at": "2026-03-02"
+}

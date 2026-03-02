@@ -1,0 +1,21 @@
+{
+  "symbol": "CRM",
+  "name": "Salesforce, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 185440075776,
+  "pe_ratio": 25.971998,
+  "forward_pe": 13.083937,
+  "pb_ratio": 3.0795376,
+  "dividend_yield": 0.9,
+  "52_week_high": 303.07,
+  "52_week_low": 174.57,
+  "avg_volume_10d": 15469950,
+  "avg_volume_3m": 11122156,
+  "fetched_at": "2026-03-02"
+}

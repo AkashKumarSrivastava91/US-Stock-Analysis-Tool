@@ -1,0 +1,21 @@
+{
+  "symbol": "HTHIY",
+  "name": "Hitachi, Ltd.",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 150517841920,
+  "pe_ratio": 31.186913,
+  "forward_pe": 13.455645,
+  "pb_ratio": 3.700347,
+  "dividend_yield": 0.9,
+  "52_week_high": 39.0,
+  "52_week_low": 18.3,
+  "avg_volume_10d": 573520,
+  "avg_volume_3m": 552796,
+  "fetched_at": "2026-03-02"
+}

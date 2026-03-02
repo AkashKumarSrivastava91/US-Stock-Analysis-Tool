@@ -1,0 +1,21 @@
+{
+  "symbol": "BMY",
+  "name": "Bristol-Myers Squibb Company",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 127014862848,
+  "pe_ratio": 18.02601,
+  "forward_pe": 10.179965,
+  "pb_ratio": 6.8742423,
+  "dividend_yield": 4.04,
+  "52_week_high": 63.33,
+  "52_week_low": 42.52,
+  "avg_volume_10d": 12796900,
+  "avg_volume_3m": 14415731,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "PBR",
+  "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Brazil",
+  "region": "Brazil",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 107169808384,
+  "pe_ratio": 7.6990733,
+  "forward_pe": 6.808597,
+  "pb_ratio": 2.6047235,
+  "dividend_yield": 10.14,
+  "52_week_high": 16.92,
+  "52_week_low": 11.03,
+  "avg_volume_10d": 19214910,
+  "avg_volume_3m": 22139930,
+  "fetched_at": "2026-03-02"
+}

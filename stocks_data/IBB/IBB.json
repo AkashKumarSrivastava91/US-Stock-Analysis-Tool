@@ -1,0 +1,21 @@
+{
+  "symbol": "IBB",
+  "name": "iShares Biotechnology ETF",
+  "sector": "Health Care",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 12223288320,
+  "pe_ratio": 24.250128,
+  "forward_pe": null,
+  "pb_ratio": 1.0849419,
+  "dividend_yield": 0.22,
+  "52_week_high": 179.64,
+  "52_week_low": 107.43,
+  "avg_volume_10d": 1624070,
+  "avg_volume_3m": 1785916,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ROST",
+  "name": "Ross Stores, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 66879528960,
+  "pe_ratio": 32.181534,
+  "forward_pe": 28.568888,
+  "pb_ratio": 11.314444,
+  "dividend_yield": 0.79,
+  "52_week_high": 206.4,
+  "52_week_low": 122.36,
+  "avg_volume_10d": 2268890,
+  "avg_volume_3m": 2472513,
+  "fetched_at": "2026-03-02"
+}

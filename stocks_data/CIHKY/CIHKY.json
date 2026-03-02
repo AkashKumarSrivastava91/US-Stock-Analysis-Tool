@@ -1,0 +1,21 @@
+{
+  "symbol": "CIHKY",
+  "name": "China Merchants Bank Co., Ltd.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 157170073600,
+  "pe_ratio": 7.544794,
+  "forward_pe": null,
+  "pb_ratio": 4.945437,
+  "dividend_yield": 6.76,
+  "52_week_high": 37.15,
+  "52_week_low": 25.15,
+  "avg_volume_10d": 43700,
+  "avg_volume_3m": 32538,
+  "fetched_at": "2026-03-02"
+}

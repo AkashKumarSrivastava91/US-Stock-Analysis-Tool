@@ -1,0 +1,21 @@
+{
+  "symbol": "FTNT",
+  "name": "Fortinet, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 60558004224,
+  "pe_ratio": 32.657024,
+  "forward_pe": 23.853504,
+  "pb_ratio": 47.436974,
+  "dividend_yield": null,
+  "52_week_high": 110.67,
+  "52_week_low": 70.12,
+  "avg_volume_10d": 6861410,
+  "avg_volume_3m": 6677678,
+  "fetched_at": "2026-03-02"
+}

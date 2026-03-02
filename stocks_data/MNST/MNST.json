@@ -1,0 +1,21 @@
+{
+  "symbol": "MNST",
+  "name": "Monster Beverage Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 83339911168,
+  "pe_ratio": 48.46591,
+  "forward_pe": 33.345585,
+  "pb_ratio": 10.107833,
+  "dividend_yield": null,
+  "52_week_high": 87.38,
+  "52_week_low": 53.9,
+  "avg_volume_10d": 7360660,
+  "avg_volume_3m": 5919938,
+  "fetched_at": "2026-03-02"
+}

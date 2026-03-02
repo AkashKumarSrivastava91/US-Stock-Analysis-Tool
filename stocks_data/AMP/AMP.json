@@ -1,0 +1,21 @@
+{
+  "symbol": "AMP",
+  "name": "Ameriprise Financial, Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43676831744,
+  "pe_ratio": 14.3679695,
+  "forward_pe": 10.08733,
+  "pb_ratio": 6.551373,
+  "dividend_yield": 1.36,
+  "52_week_high": 550.18,
+  "52_week_low": 396.14,
+  "avg_volume_10d": 666520,
+  "avg_volume_3m": 665050,
+  "fetched_at": "2026-03-02"
+}

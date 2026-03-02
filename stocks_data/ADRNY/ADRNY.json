@@ -1,0 +1,21 @@
+{
+  "symbol": "ADRNY",
+  "name": "Koninklijke Ahold Delhaize N.V.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "country": "Netherlands",
+  "region": "Netherlands",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 43714179072,
+  "pe_ratio": 16.708475,
+  "forward_pe": 14.443237,
+  "pb_ratio": 2.6093225,
+  "dividend_yield": 2.75,
+  "52_week_high": 49.82,
+  "52_week_low": 32.25,
+  "avg_volume_10d": 234050,
+  "avg_volume_3m": 88291,
+  "fetched_at": "2026-03-02"
+}

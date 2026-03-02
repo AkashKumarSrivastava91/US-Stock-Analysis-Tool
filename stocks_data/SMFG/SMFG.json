@@ -1,0 +1,21 @@
+{
+  "symbol": "SMFG",
+  "name": "Sumitomo Mitsui Financial Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 142793326592,
+  "pe_ratio": 15.583333,
+  "forward_pe": 54.73171,
+  "pb_ratio": 0.8554234,
+  "dividend_yield": 2.45,
+  "52_week_high": 24.34,
+  "52_week_low": 11.83,
+  "avg_volume_10d": 2317030,
+  "avg_volume_3m": 2118061,
+  "fetched_at": "2026-03-02"
+}

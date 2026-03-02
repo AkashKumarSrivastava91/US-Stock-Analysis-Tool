@@ -1,0 +1,21 @@
+{
+  "symbol": "WMT",
+  "name": "Walmart Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1020126298112,
+  "pe_ratio": 46.86813,
+  "forward_pe": 38.875095,
+  "pb_ratio": 10.238457,
+  "dividend_yield": 0.77,
+  "52_week_high": 134.69,
+  "52_week_low": 79.81,
+  "avg_volume_10d": 28775400,
+  "avg_volume_3m": 31247670,
+  "fetched_at": "2026-03-02"
+}

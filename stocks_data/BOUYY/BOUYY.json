@@ -1,0 +1,21 @@
+{
+  "symbol": "BOUYY",
+  "name": "Bouygues SA",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "country": "France",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23733037056,
+  "pe_ratio": 19.000002,
+  "forward_pe": null,
+  "pb_ratio": 0.30809048,
+  "dividend_yield": 3.67,
+  "52_week_high": 12.495,
+  "52_week_low": 6.85,
+  "avg_volume_10d": 53420,
+  "avg_volume_3m": 41618,
+  "fetched_at": "2026-03-02"
+}

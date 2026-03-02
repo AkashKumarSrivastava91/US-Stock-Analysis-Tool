@@ -1,0 +1,21 @@
+{
+  "symbol": "KWEB",
+  "name": "KraneShares CSI China Internet ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "China",
+  "region": "China",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 15.4267025,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 5.86,
+  "52_week_high": 43.365,
+  "52_week_low": 27.825,
+  "avg_volume_10d": 21634640,
+  "avg_volume_3m": 22267801,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "FE",
+  "name": "FirstEnergy Corp.",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Electric",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 29553369088,
+  "pe_ratio": 22.243479,
+  "forward_pe": 17.35243,
+  "pb_ratio": 2.3631575,
+  "dividend_yield": 3.64,
+  "52_week_high": 51.34,
+  "52_week_low": 37.58,
+  "avg_volume_10d": 5123160,
+  "avg_volume_3m": 4788303,
+  "fetched_at": "2026-03-02"
+}

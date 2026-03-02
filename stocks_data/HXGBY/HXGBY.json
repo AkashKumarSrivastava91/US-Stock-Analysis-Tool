@@ -1,0 +1,21 @@
+{
+  "symbol": "HXGBY",
+  "name": "Hexagon AB (publ)",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "Sweden",
+  "region": "Sweden",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 30756673536,
+  "pe_ratio": 41.796295,
+  "forward_pe": 24.532608,
+  "pb_ratio": 2.511056,
+  "dividend_yield": 1.37,
+  "52_week_high": 12.85,
+  "52_week_low": 8.505,
+  "avg_volume_10d": 337380,
+  "avg_volume_3m": 509635,
+  "fetched_at": "2026-03-02"
+}

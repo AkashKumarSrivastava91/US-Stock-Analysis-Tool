@@ -1,0 +1,21 @@
+{
+  "symbol": "KIMTF",
+  "name": "Kia Motors Corporation",
+  "sector": "Consumer Discretionary",
+  "industry": "",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 15027314688,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": null,
+  "52_week_high": 30.3,
+  "52_week_low": 30.3,
+  "avg_volume_10d": 0,
+  "avg_volume_3m": 0,
+  "fetched_at": "2026-03-02"
+}

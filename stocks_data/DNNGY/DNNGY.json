@@ -1,0 +1,21 @@
+{
+  "symbol": "DNNGY",
+  "name": "\u00d8rsted A/S",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "country": "Denmark",
+  "region": "Denmark",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 32016060416,
+  "pe_ratio": 79.2,
+  "forward_pe": 7.66202,
+  "pb_ratio": 0.55333275,
+  "dividend_yield": null,
+  "52_week_high": 33.02,
+  "52_week_low": 5.75,
+  "avg_volume_10d": 116620,
+  "avg_volume_3m": 193043,
+  "fetched_at": "2026-03-02"
+}

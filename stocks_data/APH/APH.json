@@ -1,0 +1,21 @@
+{
+  "symbol": "APH",
+  "name": "Amphenol Corporation",
+  "sector": "Technology",
+  "industry": "Electronic Components",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 179539132416,
+  "pe_ratio": 43.730537,
+  "forward_pe": 28.383707,
+  "pb_ratio": 13.357109,
+  "dividend_yield": 0.68,
+  "52_week_high": 167.04,
+  "52_week_low": 56.45,
+  "avg_volume_10d": 7371380,
+  "avg_volume_3m": 9433715,
+  "fetched_at": "2026-03-02"
+}

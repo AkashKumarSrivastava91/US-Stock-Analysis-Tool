@@ -1,0 +1,21 @@
+{
+  "symbol": "ITW",
+  "name": "Illinois Tool Works Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 83759570944,
+  "pe_ratio": 27.705435,
+  "forward_pe": 23.93031,
+  "pb_ratio": 26.007158,
+  "dividend_yield": 2.22,
+  "52_week_high": 303.16,
+  "52_week_low": 214.66,
+  "avg_volume_10d": 1476040,
+  "avg_volume_3m": 1411790,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "KO",
+  "name": "The Coca-Cola Company",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 350839209984,
+  "pe_ratio": 26.828947,
+  "forward_pe": 23.551018,
+  "pb_ratio": 10.906659,
+  "dividend_yield": 2.53,
+  "52_week_high": 82.0,
+  "52_week_low": 65.35,
+  "avg_volume_10d": 17438140,
+  "avg_volume_3m": 18200768,
+  "fetched_at": "2026-03-02"
+}

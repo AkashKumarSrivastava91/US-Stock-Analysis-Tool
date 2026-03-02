@@ -1,0 +1,21 @@
+{
+  "symbol": "CIBR",
+  "name": "First Trust NASDAQ Cybersecurity ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 24.9116,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.44,
+  "52_week_high": 78.34,
+  "52_week_low": 55.02,
+  "avg_volume_10d": 2066820,
+  "avg_volume_3m": 1320230,
+  "fetched_at": "2026-03-02"
+}

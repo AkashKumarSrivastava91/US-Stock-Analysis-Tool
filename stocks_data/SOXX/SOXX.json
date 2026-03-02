@@ -1,0 +1,21 @@
+{
+  "symbol": "SOXX",
+  "name": "iShares Semiconductor ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 2695018496,
+  "pe_ratio": 42.56473,
+  "forward_pe": null,
+  "pb_ratio": 0.8306924,
+  "dividend_yield": 0.5,
+  "52_week_high": 368.82,
+  "52_week_low": 148.31,
+  "avg_volume_10d": 6394410,
+  "avg_volume_3m": 6169516,
+  "fetched_at": "2026-03-02"
+}

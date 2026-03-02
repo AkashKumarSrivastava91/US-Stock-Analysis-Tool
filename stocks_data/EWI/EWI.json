@@ -1,0 +1,21 @@
+{
+  "symbol": "EWI",
+  "name": "iShares MSCI Italy ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Europe",
+  "region": "Europe",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 490171520,
+  "pe_ratio": 14.172517,
+  "forward_pe": null,
+  "pb_ratio": 1.742924,
+  "dividend_yield": 2.72,
+  "52_week_high": 57.94,
+  "52_week_low": 36.2,
+  "avg_volume_10d": 347260,
+  "avg_volume_3m": 409763,
+  "fetched_at": "2026-03-02"
+}

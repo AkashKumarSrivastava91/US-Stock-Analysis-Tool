@@ -1,0 +1,21 @@
+{
+  "symbol": "MAS",
+  "name": "Masco Corporation",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 14582340608,
+  "pe_ratio": 18.554405,
+  "forward_pe": 15.482428,
+  "pb_ratio": -79.05077,
+  "dividend_yield": 1.79,
+  "52_week_high": 79.19,
+  "52_week_low": 56.55,
+  "avg_volume_10d": 2430280,
+  "avg_volume_3m": 2601130,
+  "fetched_at": "2026-03-02"
+}

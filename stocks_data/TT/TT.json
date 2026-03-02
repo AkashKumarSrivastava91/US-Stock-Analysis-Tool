@@ -1,0 +1,21 @@
+{
+  "symbol": "TT",
+  "name": "Trane Technologies plc",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 102514376704,
+  "pe_ratio": 35.210968,
+  "forward_pe": 27.479939,
+  "pb_ratio": 11.934843,
+  "dividend_yield": 0.91,
+  "52_week_high": 479.37,
+  "52_week_low": 298.15,
+  "avg_volume_10d": 1218470,
+  "avg_volume_3m": 1594823,
+  "fetched_at": "2026-03-02"
+}

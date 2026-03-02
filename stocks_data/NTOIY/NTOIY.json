@@ -1,0 +1,21 @@
+{
+  "symbol": "NTOIY",
+  "name": "Neste Oyj",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "country": "Finland",
+  "region": "Finland",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 19198091264,
+  "pe_ratio": 112.909096,
+  "forward_pe": 14.577465,
+  "pb_ratio": 1.1054431,
+  "dividend_yield": 0.95,
+  "52_week_high": 13.05,
+  "52_week_low": 3.75,
+  "avg_volume_10d": 46330,
+  "avg_volume_3m": 35891,
+  "fetched_at": "2026-03-02"
+}

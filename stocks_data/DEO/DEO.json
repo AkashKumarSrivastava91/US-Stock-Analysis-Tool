@@ -1,0 +1,21 @@
+{
+  "symbol": "DEO",
+  "name": "Diageo plc",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 49749438464,
+  "pe_ratio": 21.208532,
+  "forward_pe": 13.596121,
+  "pb_ratio": 17.14888,
+  "dividend_yield": 4.62,
+  "52_week_high": 116.69,
+  "52_week_low": 84.52,
+  "avg_volume_10d": 2601900,
+  "avg_volume_3m": 1899650,
+  "fetched_at": "2026-03-02"
+}

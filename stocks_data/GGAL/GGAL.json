@@ -1,0 +1,21 @@
+{
+  "symbol": "GGAL",
+  "name": "Grupo Financiero Galicia S.A.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Argentina",
+  "region": "Argentina",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NCM",
+  "market_cap": 7298240000,
+  "pe_ratio": 6.7140718,
+  "forward_pe": 8.839354,
+  "pb_ratio": 14.049182,
+  "dividend_yield": 3.18,
+  "52_week_high": 66.24,
+  "52_week_low": 25.89,
+  "avg_volume_10d": 1235280,
+  "avg_volume_3m": 1175954,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "KLAC",
+  "name": "KLA Corporation",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 200314191872,
+  "pe_ratio": 44.447525,
+  "forward_pe": 32.94628,
+  "pb_ratio": 36.57925,
+  "dividend_yield": 0.5,
+  "52_week_high": 1693.35,
+  "52_week_low": 551.33,
+  "avg_volume_10d": 828000,
+  "avg_volume_3m": 1055605,
+  "fetched_at": "2026-03-02"
+}

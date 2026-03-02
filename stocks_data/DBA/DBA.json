@@ -1,0 +1,21 @@
+{
+  "symbol": "DBA",
+  "name": "Invesco DB Agriculture Fund",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 718152000,
+  "pe_ratio": 10.988175,
+  "forward_pe": null,
+  "pb_ratio": 1.5388255,
+  "dividend_yield": 3.56,
+  "52_week_high": 28.01,
+  "52_week_low": 25.27,
+  "avg_volume_10d": 318490,
+  "avg_volume_3m": 258545,
+  "fetched_at": "2026-03-02"
+}

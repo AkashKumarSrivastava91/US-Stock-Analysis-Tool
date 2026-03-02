@@ -1,0 +1,21 @@
+{
+  "symbol": "CSGP",
+  "name": "CoStar Group, Inc.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 18915211264,
+  "pe_ratio": 743.8334,
+  "forward_pe": 24.874735,
+  "pb_ratio": 2.2378778,
+  "dividend_yield": null,
+  "52_week_high": 97.43,
+  "52_week_low": 43.17,
+  "avg_volume_10d": 7561710,
+  "avg_volume_3m": 6225590,
+  "fetched_at": "2026-03-02"
+}

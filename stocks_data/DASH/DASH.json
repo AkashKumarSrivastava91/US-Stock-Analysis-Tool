@@ -1,0 +1,21 @@
+{
+  "symbol": "DASH",
+  "name": "DoorDash, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 76663218176,
+  "pe_ratio": 82.462616,
+  "forward_pe": 22.529821,
+  "pb_ratio": 7.6380715,
+  "dividend_yield": null,
+  "52_week_high": 285.5,
+  "52_week_low": 155.4,
+  "avg_volume_10d": 8779330,
+  "avg_volume_3m": 5278398,
+  "fetched_at": "2026-03-02"
+}

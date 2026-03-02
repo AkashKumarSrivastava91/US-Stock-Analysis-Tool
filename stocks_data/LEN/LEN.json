@@ -1,0 +1,21 @@
+{
+  "symbol": "LEN",
+  "name": "Lennar Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Residential Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 28245405696,
+  "pe_ratio": 14.330827,
+  "forward_pe": 12.971105,
+  "pb_ratio": 1.2862879,
+  "dividend_yield": 1.75,
+  "52_week_high": 144.24,
+  "52_week_low": 98.42,
+  "avg_volume_10d": 2174870,
+  "avg_volume_3m": 3633445,
+  "fetched_at": "2026-03-02"
+}

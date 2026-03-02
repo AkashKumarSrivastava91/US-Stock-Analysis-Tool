@@ -1,0 +1,21 @@
+{
+  "symbol": "MT",
+  "name": "ArcelorMittal S.A.",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "country": "Luxembourg",
+  "region": "France",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 49936838656,
+  "pe_ratio": 15.854015,
+  "forward_pe": 9.477571,
+  "pb_ratio": 0.91041195,
+  "dividend_yield": 0.92,
+  "52_week_high": 67.6,
+  "52_week_low": 23.2,
+  "avg_volume_10d": 1767990,
+  "avg_volume_3m": 1622266,
+  "fetched_at": "2026-03-02"
+}

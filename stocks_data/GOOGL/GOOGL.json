@@ -1,0 +1,21 @@
+{
+  "symbol": "GOOGL",
+  "name": "Alphabet Inc.",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 3771360870400,
+  "pe_ratio": 28.81331,
+  "forward_pe": 23.236176,
+  "pb_ratio": 9.07519,
+  "dividend_yield": 0.27,
+  "52_week_high": 349.0,
+  "52_week_low": 140.53,
+  "avg_volume_10d": 35327630,
+  "avg_volume_3m": 34459728,
+  "fetched_at": "2026-03-02"
+}

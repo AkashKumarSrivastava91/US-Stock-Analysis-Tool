@@ -1,0 +1,21 @@
+{
+  "symbol": "SLLDY",
+  "name": "Sanlam Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 14102102016,
+  "pe_ratio": 11.449153,
+  "forward_pe": null,
+  "pb_ratio": 4.4901767,
+  "dividend_yield": 3.39,
+  "52_week_high": 13.68,
+  "52_week_low": 7.19,
+  "avg_volume_10d": 47650,
+  "avg_volume_3m": 24228,
+  "fetched_at": "2026-03-02"
+}

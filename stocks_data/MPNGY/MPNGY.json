@@ -1,0 +1,21 @@
+{
+  "symbol": "MPNGY",
+  "name": "Meituan",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 63185797120,
+  "pe_ratio": 15.007298,
+  "forward_pe": null,
+  "pb_ratio": 4.925754,
+  "dividend_yield": null,
+  "52_week_high": 47.53,
+  "52_week_low": 20.42,
+  "avg_volume_10d": 256000,
+  "avg_volume_3m": 272978,
+  "fetched_at": "2026-03-02"
+}

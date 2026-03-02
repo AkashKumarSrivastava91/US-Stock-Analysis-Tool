@@ -1,0 +1,21 @@
+{
+  "symbol": "FER",
+  "name": "Ferrovial SE",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "country": "Netherlands",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 53482098688,
+  "pe_ratio": 52.013985,
+  "forward_pe": 50.238564,
+  "pb_ratio": 7.687763,
+  "dividend_yield": 1.4,
+  "52_week_high": 74.79,
+  "52_week_low": 40.46,
+  "avg_volume_10d": 1217990,
+  "avg_volume_3m": 2424828,
+  "fetched_at": "2026-03-02"
+}

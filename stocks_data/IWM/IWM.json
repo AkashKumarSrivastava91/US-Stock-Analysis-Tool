@@ -1,0 +1,21 @@
+{
+  "symbol": "IWM",
+  "name": "iShares Russell 2000 ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 73469280256,
+  "pe_ratio": 18.860592,
+  "forward_pe": null,
+  "pb_ratio": 1.1953231,
+  "dividend_yield": 0.98,
+  "52_week_high": 271.6,
+  "52_week_low": 171.73,
+  "avg_volume_10d": 37995160,
+  "avg_volume_3m": 37905128,
+  "fetched_at": "2026-03-02"
+}

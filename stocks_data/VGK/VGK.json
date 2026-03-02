@@ -1,0 +1,21 @@
+{
+  "symbol": "VGK",
+  "name": "Vanguard FTSE Europe ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Europe",
+  "region": "Europe",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 25436323840,
+  "pe_ratio": 19.37057,
+  "forward_pe": null,
+  "pb_ratio": 1.2973541,
+  "dividend_yield": 2.73,
+  "52_week_high": 90.75,
+  "52_week_low": 62.02,
+  "avg_volume_10d": 2944630,
+  "avg_volume_3m": 2988486,
+  "fetched_at": "2026-03-02"
+}

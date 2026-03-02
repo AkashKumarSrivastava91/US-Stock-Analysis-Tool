@@ -1,0 +1,21 @@
+{
+  "symbol": "IRM",
+  "name": "Iron Mountain Incorporated",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 32047826944,
+  "pe_ratio": 221.08163,
+  "forward_pe": 42.296253,
+  "pb_ratio": -32.65903,
+  "dividend_yield": 3.19,
+  "52_week_high": 115.24,
+  "52_week_low": 72.33,
+  "avg_volume_10d": 2243230,
+  "avg_volume_3m": 2106233,
+  "fetched_at": "2026-03-02"
+}

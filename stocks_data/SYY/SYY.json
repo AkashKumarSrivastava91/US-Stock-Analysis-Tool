@@ -1,0 +1,21 @@
+{
+  "symbol": "SYY",
+  "name": "Sysco Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 43659321344,
+  "pe_ratio": 24.57143,
+  "forward_pe": 17.96745,
+  "pb_ratio": 19.123138,
+  "dividend_yield": 2.37,
+  "52_week_high": 91.85,
+  "52_week_low": 67.12,
+  "avg_volume_10d": 3217820,
+  "avg_volume_3m": 3699363,
+  "fetched_at": "2026-03-02"
+}

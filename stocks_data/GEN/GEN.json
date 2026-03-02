@@ -1,0 +1,21 @@
+{
+  "symbol": "GEN",
+  "name": "Gen Digital Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 13919282176,
+  "pe_ratio": 23.26804,
+  "forward_pe": 7.8609066,
+  "pb_ratio": 5.8653846,
+  "dividend_yield": 2.22,
+  "52_week_high": 32.22,
+  "52_week_low": 21.33,
+  "avg_volume_10d": 6486330,
+  "avg_volume_3m": 5771505,
+  "fetched_at": "2026-03-02"
+}

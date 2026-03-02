@@ -1,0 +1,21 @@
+{
+  "symbol": "MBGAF",
+  "name": "Mercedes-Benz Group AG",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 61735342080,
+  "pe_ratio": 9.120261,
+  "forward_pe": 6.814528,
+  "pb_ratio": 0.619784,
+  "dividend_yield": 5.95,
+  "52_week_high": 72.81,
+  "52_week_low": 51.0,
+  "avg_volume_10d": 10210,
+  "avg_volume_3m": 14098,
+  "fetched_at": "2026-03-02"
+}

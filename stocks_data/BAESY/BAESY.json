@@ -1,0 +1,21 @@
+{
+  "symbol": "BAESY",
+  "name": "BAE Systems plc",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United Kingdom",
+  "region": "UK",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 84545724416,
+  "pe_ratio": 31.436314,
+  "forward_pe": 22.022375,
+  "pb_ratio": 21.85089,
+  "dividend_yield": 1.67,
+  "52_week_high": 118.95,
+  "52_week_low": 76.01,
+  "avg_volume_10d": 412400,
+  "avg_volume_3m": 709565,
+  "fetched_at": "2026-03-02"
+}

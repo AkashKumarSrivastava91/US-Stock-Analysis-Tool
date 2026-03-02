@@ -1,0 +1,21 @@
+{
+  "symbol": "CPAY",
+  "name": "Corpay, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22956736512,
+  "pe_ratio": 21.644474,
+  "forward_pe": 10.961382,
+  "pb_ratio": 5.807224,
+  "dividend_yield": null,
+  "52_week_high": 375.61,
+  "52_week_low": 252.84,
+  "avg_volume_10d": 823880,
+  "avg_volume_3m": 636890,
+  "fetched_at": "2026-03-02"
+}

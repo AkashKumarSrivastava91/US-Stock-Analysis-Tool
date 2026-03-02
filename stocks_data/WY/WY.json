@@ -1,0 +1,21 @@
+{
+  "symbol": "WY",
+  "name": "Weyerhaeuser Company",
+  "sector": "Real Estate",
+  "industry": "REIT - Specialty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17682720768,
+  "pe_ratio": 54.511112,
+  "forward_pe": 34.07607,
+  "pb_ratio": 1.8750956,
+  "dividend_yield": 3.42,
+  "52_week_high": 31.66,
+  "52_week_low": 21.16,
+  "avg_volume_10d": 5601420,
+  "avg_volume_3m": 7278160,
+  "fetched_at": "2026-03-02"
+}

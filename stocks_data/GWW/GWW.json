@@ -1,0 +1,21 @@
+{
+  "symbol": "GWW",
+  "name": "W.W. Grainger, Inc.",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 54431150080,
+  "pe_ratio": 32.364433,
+  "forward_pe": 23.640524,
+  "pb_ratio": 14.529427,
+  "dividend_yield": 0.79,
+  "52_week_high": 1218.63,
+  "52_week_low": 893.99,
+  "avg_volume_10d": 280090,
+  "avg_volume_3m": 297943,
+  "fetched_at": "2026-03-02"
+}

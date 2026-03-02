@@ -1,0 +1,21 @@
+{
+  "symbol": "KRE",
+  "name": "State Street SPDR S&P Regional Banking ETF",
+  "sector": "Financials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": null,
+  "pe_ratio": 12.664489,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 2.31,
+  "52_week_high": 74.08,
+  "52_week_low": 47.06,
+  "avg_volume_10d": 22087590,
+  "avg_volume_3m": 17238842,
+  "fetched_at": "2026-03-02"
+}

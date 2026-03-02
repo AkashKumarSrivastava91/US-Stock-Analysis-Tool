@@ -1,0 +1,21 @@
+{
+  "symbol": "TSCO",
+  "name": "Tractor Supply Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 27392442368,
+  "pe_ratio": 25.165049,
+  "forward_pe": 21.56783,
+  "pb_ratio": 10.583912,
+  "dividend_yield": 1.85,
+  "52_week_high": 63.99,
+  "52_week_low": 46.85,
+  "avg_volume_10d": 5647680,
+  "avg_volume_3m": 6652526,
+  "fetched_at": "2026-03-02"
+}

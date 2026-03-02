@@ -1,0 +1,21 @@
+{
+  "symbol": "HBAN",
+  "name": "Huntington Bancshares Incorporated",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 34100510720,
+  "pe_ratio": 12.08633,
+  "forward_pe": 8.768267,
+  "pb_ratio": 1.2187159,
+  "dividend_yield": 3.69,
+  "52_week_high": 19.46,
+  "52_week_low": 11.92,
+  "avg_volume_10d": 26228560,
+  "avg_volume_3m": 32165380,
+  "fetched_at": "2026-03-02"
+}

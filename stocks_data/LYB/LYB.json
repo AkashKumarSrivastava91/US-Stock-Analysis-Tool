@@ -1,0 +1,21 @@
+{
+  "symbol": "LYB",
+  "name": "LyondellBasell Industries N.V.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United Kingdom",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 18531217408,
+  "pe_ratio": null,
+  "forward_pe": 15.258752,
+  "pb_ratio": 1.8375822,
+  "dividend_yield": 8.34,
+  "52_week_high": 78.41,
+  "52_week_low": 41.58,
+  "avg_volume_10d": 6199190,
+  "avg_volume_3m": 6249441,
+  "fetched_at": "2026-03-02"
+}

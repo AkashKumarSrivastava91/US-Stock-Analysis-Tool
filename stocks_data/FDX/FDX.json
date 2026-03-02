@@ -1,0 +1,21 @@
+{
+  "symbol": "FDX",
+  "name": "FedEx Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 91314757632,
+  "pe_ratio": 21.416714,
+  "forward_pe": 17.858526,
+  "pb_ratio": 3.2318676,
+  "dividend_yield": 1.5,
+  "52_week_high": 392.86,
+  "52_week_low": 194.3,
+  "avg_volume_10d": 1566060,
+  "avg_volume_3m": 1867895,
+  "fetched_at": "2026-03-02"
+}

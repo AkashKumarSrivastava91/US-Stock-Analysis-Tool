@@ -1,0 +1,21 @@
+{
+  "symbol": "NMR",
+  "name": "Nomura Holdings, Inc.",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 26404894720,
+  "pe_ratio": 11.842106,
+  "forward_pe": 16.071428,
+  "pb_ratio": 1.1269584,
+  "dividend_yield": 4.57,
+  "52_week_high": 9.58,
+  "52_week_low": 4.86,
+  "avg_volume_10d": 1563450,
+  "avg_volume_3m": 1274556,
+  "fetched_at": "2026-03-02"
+}

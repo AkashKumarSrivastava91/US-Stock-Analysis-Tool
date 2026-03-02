@@ -1,0 +1,21 @@
+{
+  "symbol": "STT",
+  "name": "State Street Corporation",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 35925164032,
+  "pe_ratio": 13.682979,
+  "forward_pe": 9.882246,
+  "pb_ratio": 1.4782548,
+  "dividend_yield": 2.61,
+  "52_week_high": 137.05,
+  "52_week_low": 72.81,
+  "avg_volume_10d": 1846720,
+  "avg_volume_3m": 2145436,
+  "fetched_at": "2026-03-02"
+}

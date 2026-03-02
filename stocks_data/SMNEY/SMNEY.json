@@ -1,0 +1,21 @@
+{
+  "symbol": "SMNEY",
+  "name": "Siemens Energy AG",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 148470644736,
+  "pe_ratio": 90.879585,
+  "forward_pe": 27.951872,
+  "pb_ratio": 12.034695,
+  "dividend_yield": 0.0047,
+  "52_week_high": 184.97,
+  "52_week_low": 50.6,
+  "avg_volume_10d": 195442,
+  "avg_volume_3m": 197951,
+  "fetched_at": "2026-03-02"
+}

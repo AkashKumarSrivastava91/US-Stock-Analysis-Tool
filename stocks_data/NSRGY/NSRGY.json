@@ -1,0 +1,21 @@
+{
+  "symbol": "NSRGY",
+  "name": "Nestl\u00e9 S.A.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "Switzerland",
+  "region": "Europe",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 283388936192,
+  "pe_ratio": 23.964834,
+  "forward_pe": 17.868439,
+  "pb_ratio": 6.6113486,
+  "dividend_yield": 3.67,
+  "52_week_high": 109.59,
+  "52_week_low": 86.98,
+  "avg_volume_10d": 384090,
+  "avg_volume_3m": 436588,
+  "fetched_at": "2026-03-02"
+}

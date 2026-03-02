@@ -1,0 +1,21 @@
+{
+  "symbol": "AU",
+  "name": "AngloGold Ashanti plc",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "country": "United States",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 64525737984,
+  "pe_ratio": 24.618496,
+  "forward_pe": 14.158314,
+  "pb_ratio": 7.9751573,
+  "dividend_yield": 3.33,
+  "52_week_high": 128.54,
+  "52_week_low": 29.28,
+  "avg_volume_10d": 2646940,
+  "avg_volume_3m": 2776936,
+  "fetched_at": "2026-03-02"
+}

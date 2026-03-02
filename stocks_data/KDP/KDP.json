@@ -1,0 +1,21 @@
+{
+  "symbol": "KDP",
+  "name": "Keurig Dr Pepper Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 41137897472,
+  "pe_ratio": 26.103449,
+  "forward_pe": 12.0700445,
+  "pb_ratio": 1.6123536,
+  "dividend_yield": 3.04,
+  "52_week_high": 36.12,
+  "52_week_low": 25.03,
+  "avg_volume_10d": 11710130,
+  "avg_volume_3m": 12112680,
+  "fetched_at": "2026-03-02"
+}

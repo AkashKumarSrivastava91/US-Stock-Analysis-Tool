@@ -1,0 +1,21 @@
+{
+  "symbol": "ITB",
+  "name": "iShares U.S. Home Construction ETF",
+  "sector": "Consumer Discretionary",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "BTS",
+  "market_cap": null,
+  "pe_ratio": 16.312813,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 1.27,
+  "52_week_high": 118.0,
+  "52_week_low": 82.71,
+  "avg_volume_10d": 2232550,
+  "avg_volume_3m": 2833671,
+  "fetched_at": "2026-03-02"
+}

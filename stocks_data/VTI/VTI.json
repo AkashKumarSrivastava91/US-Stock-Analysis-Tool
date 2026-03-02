@@ -1,0 +1,21 @@
+{
+  "symbol": "VTI",
+  "name": "Vanguard Total Stock Market Index Fund ETF Shares",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 702514135040,
+  "pe_ratio": 26.834206,
+  "forward_pe": null,
+  "pb_ratio": 2.4283543,
+  "dividend_yield": 1.1,
+  "52_week_high": 344.42,
+  "52_week_low": 236.42,
+  "avg_volume_10d": 6174440,
+  "avg_volume_3m": 5723873,
+  "fetched_at": "2026-03-02"
+}

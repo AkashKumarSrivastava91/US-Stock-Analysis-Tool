@@ -1,0 +1,21 @@
+{
+  "symbol": "PROSY",
+  "name": "Prosus N.V.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "Netherlands",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 112812244992,
+  "pe_ratio": 8.904347,
+  "forward_pe": 2.2850256,
+  "pb_ratio": 0.41290322,
+  "dividend_yield": 0.45,
+  "52_week_high": 14.7,
+  "52_week_low": 7.75,
+  "avg_volume_10d": 1024300,
+  "avg_volume_3m": 810040,
+  "fetched_at": "2026-03-02"
+}

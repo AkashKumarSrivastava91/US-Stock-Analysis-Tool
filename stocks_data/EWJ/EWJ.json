@@ -1,0 +1,21 @@
+{
+  "symbol": "EWJ",
+  "name": "iShares MSCI Japan ETF",
+  "sector": "Broad Market",
+  "industry": "",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 21046505472,
+  "pe_ratio": 19.008259,
+  "forward_pe": null,
+  "pb_ratio": 1.3661171,
+  "dividend_yield": 4.27,
+  "52_week_high": 94.28,
+  "52_week_low": 59.84,
+  "avg_volume_10d": 10104770,
+  "avg_volume_3m": 7850841,
+  "fetched_at": "2026-03-02"
+}

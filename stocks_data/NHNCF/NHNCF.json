@@ -1,0 +1,21 @@
+{
+  "symbol": "NHNCF",
+  "name": "NAVER Corporation",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23908270080,
+  "pe_ratio": 23.373983,
+  "forward_pe": null,
+  "pb_ratio": 0.00064881035,
+  "dividend_yield": null,
+  "52_week_high": 115.0,
+  "52_week_low": 115.0,
+  "avg_volume_10d": 0,
+  "avg_volume_3m": 0,
+  "fetched_at": "2026-03-02"
+}

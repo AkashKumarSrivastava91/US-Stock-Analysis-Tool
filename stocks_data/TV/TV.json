@@ -1,0 +1,21 @@
+{
+  "symbol": "TV",
+  "name": "Grupo Televisa, S.A.B.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Mexico",
+  "region": "Mexico",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 1573942016,
+  "pe_ratio": null,
+  "forward_pe": 29.474417,
+  "pb_ratio": 1.478468,
+  "dividend_yield": 3.08,
+  "52_week_high": 3.49,
+  "52_week_low": 1.55,
+  "avg_volume_10d": 1926850,
+  "avg_volume_3m": 1509225,
+  "fetched_at": "2026-03-02"
+}

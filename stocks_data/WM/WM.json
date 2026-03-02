@@ -1,0 +1,21 @@
+{
+  "symbol": "WM",
+  "name": "Waste Management, Inc.",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 97139384320,
+  "pe_ratio": 35.94627,
+  "forward_pe": 25.705614,
+  "pb_ratio": 9.714032,
+  "dividend_yield": 1.37,
+  "52_week_high": 242.58,
+  "52_week_low": 194.11,
+  "avg_volume_10d": 2466130,
+  "avg_volume_3m": 2107411,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ARKK",
+  "name": "ARK Innovation ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "BTS",
+  "market_cap": null,
+  "pe_ratio": 33.63451,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.0,
+  "52_week_high": 92.65,
+  "52_week_low": 38.569,
+  "avg_volume_10d": 10192440,
+  "avg_volume_3m": 8203051,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "PFG",
+  "name": "Principal Financial Group, Inc.",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 20963186688,
+  "pe_ratio": 18.175238,
+  "forward_pe": 9.269883,
+  "pb_ratio": 1.7454133,
+  "dividend_yield": 3.28,
+  "52_week_high": 97.88,
+  "52_week_low": 68.39,
+  "avg_volume_10d": 2080840,
+  "avg_volume_3m": 1563261,
+  "fetched_at": "2026-03-02"
+}

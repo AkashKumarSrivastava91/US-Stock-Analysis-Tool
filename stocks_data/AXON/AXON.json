@@ -1,0 +1,21 @@
+{
+  "symbol": "AXON",
+  "name": "Axon Enterprise, Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 43607699456,
+  "pe_ratio": 356.84213,
+  "forward_pe": 51.320484,
+  "pb_ratio": 13.417109,
+  "dividend_yield": null,
+  "52_week_high": 885.92,
+  "52_week_low": 396.41,
+  "avg_volume_10d": 1405380,
+  "avg_volume_3m": 988315,
+  "fetched_at": "2026-03-02"
+}

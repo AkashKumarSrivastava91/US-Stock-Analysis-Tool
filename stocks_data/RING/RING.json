@@ -1,0 +1,21 @@
+{
+  "symbol": "RING",
+  "name": "iShares MSCI Global Gold Miners ETF",
+  "sector": "Materials",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": 1143329920,
+  "pe_ratio": 29.541855,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.76,
+  "52_week_high": 99.61,
+  "52_week_low": 32.67,
+  "avg_volume_10d": 379510,
+  "avg_volume_3m": 525176,
+  "fetched_at": "2026-03-02"
+}

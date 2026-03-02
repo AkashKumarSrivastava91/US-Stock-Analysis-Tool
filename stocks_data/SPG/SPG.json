@@ -1,0 +1,21 @@
+{
+  "symbol": "SPG",
+  "name": "Simon Property Group, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 76888793088,
+  "pe_ratio": 14.386027,
+  "forward_pe": 29.215336,
+  "pb_ratio": 12.828823,
+  "dividend_yield": 4.24,
+  "52_week_high": 205.12,
+  "52_week_low": 136.34,
+  "avg_volume_10d": 1480170,
+  "avg_volume_3m": 1563955,
+  "fetched_at": "2026-03-02"
+}

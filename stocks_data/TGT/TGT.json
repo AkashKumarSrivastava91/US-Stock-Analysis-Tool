@@ -1,0 +1,21 @@
+{
+  "symbol": "TGT",
+  "name": "Target Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 51706077184,
+  "pe_ratio": 13.792727,
+  "forward_pe": 14.872022,
+  "pb_ratio": 3.3238885,
+  "dividend_yield": 4.01,
+  "52_week_high": 127.06,
+  "52_week_low": 83.44,
+  "avg_volume_10d": 5815180,
+  "avg_volume_3m": 6634118,
+  "fetched_at": "2026-03-02"
+}

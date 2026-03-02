@@ -1,0 +1,21 @@
+{
+  "symbol": "J",
+  "name": "Jacobs Solutions Inc.",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16279654400,
+  "pe_ratio": 36.374672,
+  "forward_pe": 17.175049,
+  "pb_ratio": 4.7070475,
+  "dividend_yield": 1.04,
+  "52_week_high": 168.44,
+  "52_week_low": 105.178215,
+  "avg_volume_10d": 1052130,
+  "avg_volume_3m": 958935,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "XOM",
+  "name": "Exxon Mobil Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 635431419904,
+  "pe_ratio": 22.795216,
+  "forward_pe": 18.263823,
+  "pb_ratio": 2.456943,
+  "dividend_yield": 2.7,
+  "52_week_high": 156.93,
+  "52_week_low": 97.8,
+  "avg_volume_10d": 19735920,
+  "avg_volume_3m": 19247586,
+  "fetched_at": "2026-03-02"
+}

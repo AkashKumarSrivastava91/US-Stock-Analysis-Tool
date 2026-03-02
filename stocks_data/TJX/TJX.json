@@ -1,0 +1,21 @@
+{
+  "symbol": "TJX",
+  "name": "The TJX Companies, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 179917684736,
+  "pe_ratio": 35.686535,
+  "forward_pe": 28.500206,
+  "pb_ratio": 17.847208,
+  "dividend_yield": 1.05,
+  "52_week_high": 162.68,
+  "52_week_low": 112.1,
+  "avg_volume_10d": 5390000,
+  "avg_volume_3m": 5230288,
+  "fetched_at": "2026-03-02"
+}

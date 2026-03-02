@@ -1,0 +1,21 @@
+{
+  "symbol": "ZBRA",
+  "name": "Zebra Technologies Corporation",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 11345867776,
+  "pe_ratio": 27.378973,
+  "forward_pe": 11.120634,
+  "pb_ratio": 3.0955508,
+  "dividend_yield": null,
+  "52_week_high": 352.66,
+  "52_week_low": 205.73,
+  "avg_volume_10d": 886430,
+  "avg_volume_3m": 712153,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "TM",
+  "name": "Toyota Motor Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Japan",
+  "region": "Japan",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 315916484608,
+  "pe_ratio": 13.332233,
+  "forward_pe": 15.35995,
+  "pb_ratio": 12.633017,
+  "dividend_yield": 2.37,
+  "52_week_high": 248.9,
+  "52_week_low": 155.0,
+  "avg_volume_10d": 250890,
+  "avg_volume_3m": 310406,
+  "fetched_at": "2026-03-02"
+}

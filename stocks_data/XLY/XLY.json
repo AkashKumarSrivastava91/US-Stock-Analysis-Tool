@@ -1,0 +1,21 @@
+{
+  "symbol": "XLY",
+  "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+  "sector": "Consumer Discretionary",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 14052765696,
+  "pe_ratio": 30.36619,
+  "forward_pe": null,
+  "pb_ratio": 0.69563663,
+  "dividend_yield": 0.78,
+  "52_week_high": 125.01,
+  "52_week_low": 86.55,
+  "avg_volume_10d": 11021250,
+  "avg_volume_3m": 10033540,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "WRB",
+  "name": "W. R. Berkley Corporation",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 27247517696,
+  "pe_ratio": 16.11236,
+  "forward_pe": 14.804505,
+  "pb_ratio": 2.7796082,
+  "dividend_yield": 0.5,
+  "52_week_high": 78.96,
+  "52_week_low": 60.68,
+  "avg_volume_10d": 2288920,
+  "avg_volume_3m": 2895571,
+  "fetched_at": "2026-03-02"
+}

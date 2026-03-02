@@ -1,0 +1,21 @@
+{
+  "symbol": "ALNY",
+  "name": "Alnylam Pharmaceuticals, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 44152897536,
+  "pe_ratio": 142.88412,
+  "forward_pe": 22.89816,
+  "pb_ratio": 55.840324,
+  "dividend_yield": null,
+  "52_week_high": 495.55,
+  "52_week_low": 205.87,
+  "avg_volume_10d": 1145730,
+  "avg_volume_3m": 1564433,
+  "fetched_at": "2026-03-02"
+}

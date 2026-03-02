@@ -1,0 +1,21 @@
+{
+  "symbol": "A",
+  "name": "Agilent Technologies, Inc.",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 34411094016,
+  "pe_ratio": 26.502184,
+  "forward_pe": 18.481327,
+  "pb_ratio": 4.9672613,
+  "dividend_yield": 0.84,
+  "52_week_high": 160.27,
+  "52_week_low": 96.43,
+  "avg_volume_10d": 2913240,
+  "avg_volume_3m": 2172196,
+  "fetched_at": "2026-03-02"
+}

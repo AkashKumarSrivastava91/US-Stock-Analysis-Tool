@@ -1,0 +1,21 @@
+{
+  "symbol": "BAC",
+  "name": "Bank of America Corporation",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 363883364352,
+  "pe_ratio": 13.078741,
+  "forward_pe": 10.02872,
+  "pb_ratio": 1.2962722,
+  "dividend_yield": 2.21,
+  "52_week_high": 57.55,
+  "52_week_low": 33.07,
+  "avg_volume_10d": 45383720,
+  "avg_volume_3m": 40094106,
+  "fetched_at": "2026-03-02"
+}

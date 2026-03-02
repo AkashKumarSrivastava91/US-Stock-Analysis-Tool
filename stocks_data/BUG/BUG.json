@@ -1,0 +1,21 @@
+{
+  "symbol": "BUG",
+  "name": "Global X Cybersecurity ETF",
+  "sector": "Technology",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "NGM",
+  "market_cap": null,
+  "pe_ratio": 26.369577,
+  "forward_pe": null,
+  "pb_ratio": null,
+  "dividend_yield": 0.04,
+  "52_week_high": 37.555,
+  "52_week_low": 23.97,
+  "avg_volume_10d": 1903610,
+  "avg_volume_3m": 769098,
+  "fetched_at": "2026-03-02"
+}

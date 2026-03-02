@@ -1,0 +1,21 @@
+{
+  "symbol": "REGN",
+  "name": "Regeneron Pharmaceuticals, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 82638004224,
+  "pe_ratio": 18.830885,
+  "forward_pe": 14.880865,
+  "pb_ratio": 2.5658135,
+  "dividend_yield": 0.48,
+  "52_week_high": 821.11,
+  "52_week_low": 476.49,
+  "avg_volume_10d": 690680,
+  "avg_volume_3m": 849783,
+  "fetched_at": "2026-03-02"
+}

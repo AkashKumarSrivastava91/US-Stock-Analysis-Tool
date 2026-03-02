@@ -1,0 +1,21 @@
+{
+  "symbol": "DOW",
+  "name": "Dow Inc.",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 22049822720,
+  "pe_ratio": null,
+  "forward_pe": 54.6554,
+  "pb_ratio": 1.3768538,
+  "dividend_yield": 5.69,
+  "52_week_high": 38.69,
+  "52_week_low": 20.402,
+  "avg_volume_10d": 11135450,
+  "avg_volume_3m": 12255326,
+  "fetched_at": "2026-03-02"
+}

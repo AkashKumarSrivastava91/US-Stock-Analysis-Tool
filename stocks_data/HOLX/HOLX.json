@@ -1,0 +1,21 @@
+{
+  "symbol": "HOLX",
+  "name": "Hologic, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 16823736320,
+  "pe_ratio": 31.269709,
+  "forward_pe": 15.483647,
+  "pb_ratio": 3.2048993,
+  "dividend_yield": null,
+  "52_week_high": 75.49,
+  "52_week_low": 51.9,
+  "avg_volume_10d": 2343340,
+  "avg_volume_3m": 2609840,
+  "fetched_at": "2026-03-02"
+}

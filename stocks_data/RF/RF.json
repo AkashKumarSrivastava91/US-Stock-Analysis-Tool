@@ -1,0 +1,21 @@
+{
+  "symbol": "RF",
+  "name": "Regions Financial Corporation",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 24403472384,
+  "pe_ratio": 12.1,
+  "forward_pe": 9.7483225,
+  "pb_ratio": 1.3652195,
+  "dividend_yield": 3.75,
+  "52_week_high": 31.53,
+  "52_week_low": 17.74,
+  "avg_volume_10d": 13959250,
+  "avg_volume_3m": 13317333,
+  "fetched_at": "2026-03-02"
+}

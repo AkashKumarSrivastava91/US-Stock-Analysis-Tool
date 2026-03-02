@@ -1,0 +1,21 @@
+{
+  "symbol": "LTM",
+  "name": "LATAM Airlines Group",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "Chile",
+  "region": "Chile",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16180026368,
+  "pe_ratio": 11.345455,
+  "forward_pe": 8.397204,
+  "pb_ratio": 28079.998,
+  "dividend_yield": 4.29,
+  "52_week_high": 70.42,
+  "52_week_low": 26.36,
+  "avg_volume_10d": 1489280,
+  "avg_volume_3m": 1222341,
+  "fetched_at": "2026-03-02"
+}

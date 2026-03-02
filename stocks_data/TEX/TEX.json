@@ -1,0 +1,21 @@
+{
+  "symbol": "TEX",
+  "name": "Terex Corporation",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 7821423104,
+  "pe_ratio": 20.657658,
+  "forward_pe": 11.846395,
+  "pb_ratio": 2.131041,
+  "dividend_yield": 0.99,
+  "52_week_high": 71.5,
+  "52_week_low": 31.53,
+  "avg_volume_10d": 2019390,
+  "avg_volume_3m": 1863073,
+  "fetched_at": "2026-03-02"
+}

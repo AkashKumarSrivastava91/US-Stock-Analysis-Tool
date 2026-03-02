@@ -1,0 +1,21 @@
+{
+  "symbol": "CMG",
+  "name": "Chipotle Mexican Grill, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 49215188992,
+  "pe_ratio": 32.649124,
+  "forward_pe": 27.162333,
+  "pb_ratio": 17.152073,
+  "dividend_yield": null,
+  "52_week_high": 58.42,
+  "52_week_low": 29.75,
+  "avg_volume_10d": 14672500,
+  "avg_volume_3m": 17993188,
+  "fetched_at": "2026-03-02"
+}

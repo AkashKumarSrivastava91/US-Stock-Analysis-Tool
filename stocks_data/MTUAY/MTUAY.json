@@ -1,0 +1,21 @@
+{
+  "symbol": "MTUAY",
+  "name": "MTU Aero Engines AG",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Germany",
+  "region": "Germany",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23114747904,
+  "pe_ratio": 23.484154,
+  "forward_pe": 9.689938,
+  "pb_ratio": 2.3897038,
+  "dividend_yield": 0.57,
+  "52_week_high": 238.57,
+  "52_week_low": 145.02,
+  "avg_volume_10d": 45010,
+  "avg_volume_3m": 18143,
+  "fetched_at": "2026-03-02"
+}

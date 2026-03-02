@@ -1,0 +1,21 @@
+{
+  "symbol": "KB",
+  "name": "KB Financial Group Inc.",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "South Korea",
+  "region": "South Korea",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 39444647936,
+  "pe_ratio": 10.406812,
+  "forward_pe": 9.715666,
+  "pb_ratio": 1.0431774,
+  "dividend_yield": 2.29,
+  "52_week_high": 119.71,
+  "52_week_low": 46.38,
+  "avg_volume_10d": 250630,
+  "avg_volume_3m": 184086,
+  "fetched_at": "2026-03-02"
+}

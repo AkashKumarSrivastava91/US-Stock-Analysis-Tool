@@ -1,0 +1,21 @@
+{
+  "symbol": "CF",
+  "name": "CF Industries Holdings, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 16122788864,
+  "pe_ratio": 12.036275,
+  "forward_pe": 14.269475,
+  "pb_ratio": 3.159298,
+  "dividend_yield": 2.01,
+  "52_week_high": 105.27,
+  "52_week_low": 67.34,
+  "avg_volume_10d": 2745340,
+  "avg_volume_3m": 2360543,
+  "fetched_at": "2026-03-02"
+}

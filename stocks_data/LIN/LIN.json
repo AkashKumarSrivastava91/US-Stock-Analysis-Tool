@@ -1,0 +1,21 @@
+{
+  "symbol": "LIN",
+  "name": "Linde plc",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "United Kingdom",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 235441291264,
+  "pe_ratio": 34.728638,
+  "forward_pe": 26.077719,
+  "pb_ratio": 6.1599636,
+  "dividend_yield": 1.26,
+  "52_week_high": 510.65,
+  "52_week_low": 387.78,
+  "avg_volume_10d": 2897510,
+  "avg_volume_3m": 2828678,
+  "fetched_at": "2026-03-02"
+}

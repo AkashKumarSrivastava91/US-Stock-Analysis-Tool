@@ -1,0 +1,21 @@
+{
+  "symbol": "FMX",
+  "name": "Fomento Econ\u00f3mico Mexicano, S.A.B. de C.V.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "country": "Mexico",
+  "region": "Mexico",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 38810738688,
+  "pe_ratio": 61.043476,
+  "forward_pe": 22.003424,
+  "pb_ratio": 20.361385,
+  "dividend_yield": 5.89,
+  "52_week_high": 116.09,
+  "52_week_low": 83.08,
+  "avg_volume_10d": 378200,
+  "avg_volume_3m": 461870,
+  "fetched_at": "2026-03-02"
+}

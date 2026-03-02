@@ -1,0 +1,21 @@
+{
+  "symbol": "NSC",
+  "name": "Norfolk Southern Corporation",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 70681796608,
+  "pe_ratio": 24.68549,
+  "forward_pe": 23.21665,
+  "pb_ratio": 4.543276,
+  "dividend_yield": 1.72,
+  "52_week_high": 319.94,
+  "52_week_low": 201.63,
+  "avg_volume_10d": 1420830,
+  "avg_volume_3m": 1258095,
+  "fetched_at": "2026-03-02"
+}

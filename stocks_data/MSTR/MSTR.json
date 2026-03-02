@@ -1,0 +1,21 @@
+{
+  "symbol": "MSTR",
+  "name": "Strategy Inc",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "region": "US",
+  "universe": "NDX100",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 43220975616,
+  "pe_ratio": null,
+  "forward_pe": 1.8800814,
+  "pb_ratio": 0.9158869,
+  "dividend_yield": null,
+  "52_week_high": 457.22,
+  "52_week_low": 104.17,
+  "avg_volume_10d": 18429940,
+  "avg_volume_3m": 22043370,
+  "fetched_at": "2026-03-02"
+}

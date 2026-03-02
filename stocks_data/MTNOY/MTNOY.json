@@ -1,0 +1,21 @@
+{
+  "symbol": "MTNOY",
+  "name": "MTN Group Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "South Africa",
+  "region": "South Africa",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "PNK",
+  "market_cap": 23558309888,
+  "pe_ratio": 50.153847,
+  "forward_pe": 1.2538462,
+  "pb_ratio": 2.6190665,
+  "dividend_yield": 1.4,
+  "52_week_high": 13.32,
+  "52_week_low": 5.12,
+  "avg_volume_10d": 10990,
+  "avg_volume_3m": 13648,
+  "fetched_at": "2026-03-02"
+}

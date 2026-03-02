@@ -1,0 +1,21 @@
+{
+  "symbol": "TRP",
+  "name": "TC Energy Corporation",
+  "sector": "Energy",
+  "industry": "Oil & Gas Midstream",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 66998562816,
+  "pe_ratio": 25.342522,
+  "forward_pe": 22.657398,
+  "pb_ratio": 3.6594646,
+  "dividend_yield": 4.02,
+  "52_week_high": 64.92,
+  "52_week_low": 43.59,
+  "avg_volume_10d": 2383130,
+  "avg_volume_3m": 2277270,
+  "fetched_at": "2026-03-02"
+}

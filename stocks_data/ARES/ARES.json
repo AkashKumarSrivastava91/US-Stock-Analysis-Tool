@@ -1,0 +1,21 @@
+{
+  "symbol": "ARES",
+  "name": "Ares Management Corporation",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 36697231360,
+  "pe_ratio": 65.88824,
+  "forward_pe": 14.350947,
+  "pb_ratio": 8.830114,
+  "dividend_yield": 4.82,
+  "52_week_high": 195.26,
+  "52_week_low": 108.67,
+  "avg_volume_10d": 4412310,
+  "avg_volume_3m": 4087585,
+  "fetched_at": "2026-03-02"
+}

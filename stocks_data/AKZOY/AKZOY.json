@@ -1,0 +1,21 @@
+{
+  "symbol": "AKZOY",
+  "name": "Akzo Nobel N.V.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "Netherlands",
+  "region": "Netherlands",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "OQX",
+  "market_cap": 12043542528,
+  "pe_ratio": 16.054794,
+  "forward_pe": 12.481629,
+  "pb_ratio": 0.7293932,
+  "dividend_yield": 3.21,
+  "52_week_high": 24.52,
+  "52_week_low": 18.07,
+  "avg_volume_10d": 126930,
+  "avg_volume_3m": 181966,
+  "fetched_at": "2026-03-02"
+}

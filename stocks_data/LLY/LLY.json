@@ -1,0 +1,21 @@
+{
+  "symbol": "LLY",
+  "name": "Eli Lilly and Company",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 992402604032,
+  "pe_ratio": 45.878323,
+  "forward_pe": 25.071922,
+  "pb_ratio": 35.474285,
+  "dividend_yield": 0.59,
+  "52_week_high": 1133.95,
+  "52_week_low": 623.78,
+  "avg_volume_10d": 3135220,
+  "avg_volume_3m": 3239898,
+  "fetched_at": "2026-03-02"
+}

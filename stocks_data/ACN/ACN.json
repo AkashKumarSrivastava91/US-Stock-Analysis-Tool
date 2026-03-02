@@ -1,0 +1,21 @@
+{
+  "symbol": "ACN",
+  "name": "Accenture plc",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "country": "Ireland",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 129435385856,
+  "pe_ratio": 17.235344,
+  "forward_pe": 13.989379,
+  "pb_ratio": 4.1609187,
+  "dividend_yield": 3.12,
+  "52_week_high": 351.99,
+  "52_week_low": 188.73,
+  "avg_volume_10d": 8806450,
+  "avg_volume_3m": 5321358,
+  "fetched_at": "2026-03-02"
+}

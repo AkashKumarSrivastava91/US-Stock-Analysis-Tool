@@ -1,0 +1,21 @@
+{
+  "symbol": "NTR",
+  "name": "Nutrien Ltd.",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 36562063360,
+  "pe_ratio": 20.2345,
+  "forward_pe": 15.768326,
+  "pb_ratio": 1.4287889,
+  "dividend_yield": 2.93,
+  "52_week_high": 75.73,
+  "52_week_low": 45.78,
+  "avg_volume_10d": 2607610,
+  "avg_volume_3m": 2764536,
+  "fetched_at": "2026-03-02"
+}

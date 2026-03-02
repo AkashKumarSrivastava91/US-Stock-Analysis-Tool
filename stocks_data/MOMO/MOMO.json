@@ -1,0 +1,21 @@
+{
+  "symbol": "MOMO",
+  "name": "Hello Group Inc.",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 1039531456,
+  "pe_ratio": 10.435483,
+  "forward_pe": 6.705002,
+  "pb_ratio": 0.6204227,
+  "dividend_yield": null,
+  "52_week_high": 9.22,
+  "52_week_low": 5.12,
+  "avg_volume_10d": 630930,
+  "avg_volume_3m": 974951,
+  "fetched_at": "2026-03-02"
+}

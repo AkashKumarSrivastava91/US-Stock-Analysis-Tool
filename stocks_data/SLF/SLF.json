@@ -1,0 +1,21 @@
+{
+  "symbol": "SLF",
+  "name": "Sun Life Financial Inc.",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "Canada",
+  "region": "Canada",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 36344483840,
+  "pe_ratio": 14.566668,
+  "forward_pe": 10.349563,
+  "pb_ratio": 2.1597478,
+  "dividend_yield": 4.1,
+  "52_week_high": 69.67,
+  "52_week_low": 52.44,
+  "avg_volume_10d": 1217040,
+  "avg_volume_3m": 592670,
+  "fetched_at": "2026-03-02"
+}

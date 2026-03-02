@@ -1,0 +1,21 @@
+{
+  "symbol": "TRMB",
+  "name": "Trimble Inc.",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 15912993792,
+  "pe_ratio": 37.99432,
+  "forward_pe": 16.519106,
+  "pb_ratio": 2.7040033,
+  "dividend_yield": null,
+  "52_week_high": 87.5,
+  "52_week_low": 52.91,
+  "avg_volume_10d": 1901960,
+  "avg_volume_3m": 1868418,
+  "fetched_at": "2026-03-02"
+}

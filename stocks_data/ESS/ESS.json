@@ -1,0 +1,21 @@
+{
+  "symbol": "ESS",
+  "name": "Essex Property Trust, Inc.",
+  "sector": "Real Estate",
+  "industry": "REIT - Residential",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 17638293504,
+  "pe_ratio": 24.506245,
+  "forward_pe": 40.625782,
+  "pb_ratio": 2.9667404,
+  "dividend_yield": 4.04,
+  "52_week_high": 316.29,
+  "52_week_low": 243.25,
+  "avg_volume_10d": 485300,
+  "avg_volume_3m": 556990,
+  "fetched_at": "2026-03-02"
+}

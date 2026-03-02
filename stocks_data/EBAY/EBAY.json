@@ -1,0 +1,21 @@
+{
+  "symbol": "EBAY",
+  "name": "eBay Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 41068720128,
+  "pe_ratio": 21.328638,
+  "forward_pe": 13.624456,
+  "pb_ratio": 8.840241,
+  "dividend_yield": 1.36,
+  "52_week_high": 101.15,
+  "52_week_low": 58.71,
+  "avg_volume_10d": 7889690,
+  "avg_volume_3m": 5049473,
+  "fetched_at": "2026-03-02"
+}

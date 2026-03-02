@@ -1,0 +1,21 @@
+{
+  "symbol": "LI",
+  "name": "Li Auto Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "China",
+  "region": "China",
+  "universe": "GLOBAL_ADR",
+  "currency": "USD",
+  "exchange": "NMS",
+  "market_cap": 17823670272,
+  "pe_ratio": 15.846847,
+  "forward_pe": 23.130869,
+  "pb_ratio": 1.671215,
+  "dividend_yield": null,
+  "52_week_high": 32.025,
+  "52_week_low": 15.71,
+  "avg_volume_10d": 1963070,
+  "avg_volume_3m": 3966243,
+  "fetched_at": "2026-03-02"
+}

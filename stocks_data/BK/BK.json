@@ -1,0 +1,21 @@
+{
+  "symbol": "BK",
+  "name": "The Bank of New York Mellon Corporation",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 83054280704,
+  "pe_ratio": 16.094595,
+  "forward_pe": 12.73003,
+  "pb_ratio": 2.0763597,
+  "dividend_yield": 1.78,
+  "52_week_high": 128.76,
+  "52_week_low": 70.46,
+  "avg_volume_10d": 3768150,
+  "avg_volume_3m": 3779983,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "XES",
+  "name": "State Street SPDR S&P Oil & Gas Equipment & Services ETF",
+  "sector": "Commodities",
+  "industry": "",
+  "country": "US",
+  "region": "US",
+  "universe": "ETF",
+  "currency": "USD",
+  "exchange": "PCX",
+  "market_cap": 2249694976,
+  "pe_ratio": 23.426352,
+  "forward_pe": null,
+  "pb_ratio": 2.5219738,
+  "dividend_yield": 1.4,
+  "52_week_high": 115.13,
+  "52_week_low": 51.19,
+  "avg_volume_10d": 154200,
+  "avg_volume_3m": 107008,
+  "fetched_at": "2026-03-02"
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "WFC",
+  "name": "Wells Fargo & Company",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 255678431232,
+  "pe_ratio": 13.011181,
+  "forward_pe": 10.279327,
+  "pb_ratio": 1.5311877,
+  "dividend_yield": 2.21,
+  "52_week_high": 97.76,
+  "52_week_low": 58.42,
+  "avg_volume_10d": 16165210,
+  "avg_volume_3m": 15458993,
+  "fetched_at": "2026-03-02"
+}

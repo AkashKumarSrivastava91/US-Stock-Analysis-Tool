@@ -1,0 +1,21 @@
+{
+  "symbol": "SLB",
+  "name": "SLB N.V.",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "country": "United States",
+  "region": "US",
+  "universe": "SP500",
+  "currency": "USD",
+  "exchange": "NYQ",
+  "market_cap": 76770320384,
+  "pe_ratio": 21.84681,
+  "forward_pe": 15.416028,
+  "pb_ratio": 2.9404354,
+  "dividend_yield": 2.3,
+  "52_week_high": 52.4,
+  "52_week_low": 31.11,
+  "avg_volume_10d": 15209040,
+  "avg_volume_3m": 18247000,
+  "fetched_at": "2026-03-02"
+}
